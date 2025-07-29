@@ -1,0 +1,302 @@
+{
+    "totalDeBlocos": 33,
+    "items": [
+        {
+            "BlocoID": 1,
+            "BlocoMetadata": "Regras sobre a devolução do prémio em caso de cessação antecipada, devolução de documentos do seguro e efeitos da resolução do contrato de seguro automóvel.",
+            "BlocoContent": "3. O montante do prémio a devolver ao Tomador do Seguro em caso de cessação antecipada do contrato é calculado proporcionalmente ao período de tempo que decorreria da data da cessação da cobertura até ao vencimento do contrato, salvo convenção em contrário nos termos legais.\n4. Sempre que o contrato for resolvido, o Tomador do Seguro devolve ao Segurador o certificado e o dístico comprovativos da existência de seguro, se estes tiverem data de validade posterior à da resolução, no prazo de 8 dias a contar do momento em que aquela produziu efeitos.\n5. A devolução dos documentos previstos no número anterior funciona como condição suspensiva da devolução do prémio, salvo motivo atendível que impeça a devolução.\n6. A resolução do contrato produz os seus efeitos às 24 horas do dia em que seja eficaz.\n7. Sempre que o Tomador do Seguro não coincida com o Segurado, o Segurador deve avisar o Segurado da resolução do contrato logo que possível, no máximo até 20 dias após a não renovação ou resolução.\n8. A resolução produz efeitos decorridos que sejam quinze dias sobre a data da sua comunicação.",
+            "BlocoType": "texto",
+            "docPage_ini": 9,
+            "docPage_end": 9,
+            "ClausulaOuTopico": "CONDIÇÕES GERAIS, CLÁUSULA 18ª. RESOLUÇÃO DO CONTRATO (continuação)"
+        },
+        {
+            "BlocoID": 2,
+            "BlocoMetadata": "Condições e procedimentos relativos à alienação do veículo seguro, incluindo a cessação de efeitos do contrato, dever de aviso, sanções por incumprimento e suspensão do contrato.",
+            "BlocoContent": "CLÁUSULA 19ª . ALIENAÇÃO DO VEÍCULO\n1. O contrato de seguro não se transmite em caso de alienação do veículo, cessando os seus efeitos às 24 horas do próprio dia da alienação, salvo se for utilizado pelo próprio Tomador do Seguro para segurar novo veículo.\n2. O Tomador do Seguro avisa o Segurador, por escrito, da alienação do veículo, nas 24 horas seguintes à mesma, devendo juntar o certificado provisório do seguro, o certificado de responsabilidade civil ou o aviso-recibo e o certificado internacional de seguro (\"carta verde\").\n3. Na falta de cumprimento da obrigação de aviso prevista no número anterior, o Segurador tem direito a uma indemnização de valor igual ao montante do prémio correspondente ao período de tempo que decorre entre o momento da alienação do veículo e o termo da anuidade do seguro em que esta se verifique, sem prejuízo de terem cessado os efeitos do contrato, nos termos do disposto no n.º 1.\n4. As partes podem limitar a sanção prevista no número anterior em função do tempo efetivo de duração do incumprimento aí previsto.\n5. Na comunicação da alienação do veículo ao Segurador, o Tomador do Seguro pode solicitar a suspensão dos efeitos do contrato, até à substituição do veículo, com prorrogação do prazo de validade da apólice.\n6. Não se dando a substituição do veículo dentro de 120 dias contados da data do pedido de suspensão, não há lugar à prorrogação do prazo, pelo que o contrato considera-se resolvido desde a data do início da suspensão, sendo o prémio a devolver pelo Segurador calculado de acordo com o n.º 3 da Cláusula anterior.",
+            "BlocoType": "texto",
+            "docPage_ini": 9,
+            "docPage_end": 9,
+            "ClausulaOuTopico": "CONDIÇÕES GERAIS, CLÁUSULA 19ª. ALIENAÇÃO DO VEÍCULO"
+        },
+        {
+            "BlocoID": 3,
+            "BlocoMetadata": "Regra sobre a transmissão de direitos do contrato de seguro em caso de falecimento do Tomador do Seguro.",
+            "BlocoContent": "CLÁUSULA 20ª . TRANSMISSÃO DE DIREITOS\nSalvo convenção em contrário, o falecimento do Tomador do Seguro não faz caducar o contrato, sucedendo os seus herdeiros nos respetivos direitos e obrigações nos termos da lei.",
+            "BlocoType": "texto",
+            "docPage_ini": 9,
+            "docPage_end": 9,
+            "ClausulaOuTopico": "CONDIÇÕES GERAIS, CLÁUSULA 20ª. TRANSMISSÃO DE DIREITOS"
+        },
+        {
+            "BlocoID": 4,
+            "BlocoMetadata": "Documentos comprovativos do contrato de seguro automóvel para veículos com estacionamento em Portugal e fora do Espaço Económico Europeu, e direito à emissão do certificado internacional.",
+            "BlocoContent": "CAPÍTULO V\nPROVA DO SEGURO\nCLÁUSULA 21ª. PROVA DE SEGURO\n1. Constitui documento comprovativo do presente contrato de seguro:\na) Relativamente a veículos com estacionamento habitual em Portugal, o certificado internacional de seguro (carta verde), o certificado provisório, o aviso-recibo, ou o certificado de responsabilidade civil, quando válidos;\nb) Relativamente a veículos com estacionamento habitual fora do território do Espaço Económico Europeu, os documentos previstos na alínea anterior e ainda o certificado de seguro de fronteira, quando válido.\n2. Tratando-se de contrato cujo pagamento do prémio se efetue em frações inferiores ao quadrimestre e relativamente ao qual o Segurador tenha optado pelo regime de emissão automática apenas de certificados provisórios, o Tomador do Seguro tem o direito de solicitar a emissão do certificado internacional de seguro, que será emitido em 5 dias úteis e sem encargos adicionais.",
+            "BlocoType": "texto",
+            "docPage_ini": 9,
+            "docPage_end": 10,
+            "ClausulaOuTopico": "CAPÍTULO V, CLÁUSULA 21ª. PROVA DE SEGURO"
+        },
+        {
+            "BlocoID": 5,
+            "BlocoMetadata": "Regras sobre a intervenção do mediador de seguros, incluindo a sua autorização para celebrar ou alterar contratos em nome do Segurador e a eficácia do seguro em caso de confiança justificada no mediador.",
+            "BlocoContent": "CLÁUSULA 22ª. INTERVENÇÃO DE MEDIADOR DE SEGUROS\n1. Nenhum mediador de seguros se presume autorizado a, em nome do Segurador, celebrar ou extinguir contratos de seguro, a contrair ou alterar as obrigações deles emergentes ou a validar declarações adicionais, salvo o disposto nos números seguintes.\n2. Pode celebrar contratos de seguro, contrair ou alterar as obrigações deles emergentes ou validar declarações adicionais, em nome do Segurador, o mediador de seguros ao qual o Segurador tenha conferido, por escrito, os necessários poderes.\n3. Não obstante a carência de poderes específicos para o efeito da parte do mediador de seguros, o seguro considera-se eficaz quando existam razões ponderosas, objetivamente apreciadas, tendo em conta as circunstâncias do caso, que justifiquem a confiança do Tomador do Seguro de boa fé na legitimidade do mediador, desde que o Segurador tenha igualmente contribuído para fundar a confiança do Tomador do Seguro.",
+            "BlocoType": "texto",
+            "docPage_ini": 10,
+            "docPage_end": 10,
+            "ClausulaOuTopico": "CONDIÇÕES GERAIS, CLÁUSULA 22ª. INTERVENÇÃO DE MEDIADOR DE SEGUROS"
+        },
+        {
+            "BlocoID": 6,
+            "BlocoMetadata": "Limites da prestação do Segurador, definindo a responsabilidade máxima por sinistro e as condições de resposta pelas despesas judiciais.",
+            "BlocoContent": "CAPÍTULO VI\nPRESTAÇÃO PRINCIPAL DO SEGURADOR\nCLÁUSULA 23ª. LIMITES DA PRESTAÇÃO\n1. A responsabilidade do Segurador é sempre limitada à importância máxima fixada nas Condições Particulares da apólice, seja qual for o número de pessoas lesadas por um sinistro, e corresponde, em cada momento, pelo menos ao capital mínimo obrigatório.\n2. Salvo convenção em contrário, estabelecida nas Condições Particulares:\na) Quando a indemnização atribuída aos lesados for igual ou exceder o capital seguro, o Segurador não responde pelas despesas judiciais;\nb) Quando a indemnização atribuída aos lesados for inferior, o Segurador responde pela indemnização e pelas mesmas despesas até ao limite do capital seguro.",
+            "BlocoType": "texto",
+            "docPage_ini": 10,
+            "docPage_end": 10,
+            "ClausulaOuTopico": "CAPÍTULO VI, CLÁUSULA 23ª. LIMITES DA PRESTAÇÃO"
+        },
+        {
+            "BlocoID": 7,
+            "BlocoMetadata": "Regras sobre a franquia no seguro automóvel, definindo que pode ficar a cargo do Tomador do Seguro uma parte da indemnização, mas essa limitação não é oponível a terceiros.",
+            "BlocoContent": "CLÁUSULA 24ª . FRANQUIA\n1. Mediante convenção expressa, pode ficar a cargo do Tomador do Seguro ou do Segurado uma parte da indemnização devida a terceiros, não sendo, porém, esta limitação de garantia oponível a estes.\n2. Compete ao Segurador, em caso de pedido de indemnização de terceiros, responder integralmente pela indemnização devida, sem prejuízo do direito a ser reembolsado pelo obrigado nos termos do previsto no n.º 1 do valor da franquia aplicada.",
+            "BlocoType": "texto",
+            "docPage_ini": 10,
+            "docPage_end": 10,
+            "ClausulaOuTopico": "CONDIÇÕES GERAIS, CLÁUSULA 24ª. FRANQUIA"
+        },
+        {
+            "BlocoID": 8,
+            "BlocoMetadata": "Ordem de responsabilidade em caso de pluralidade de seguros para o mesmo veículo, priorizando seguro de provas desportivas, de garagista, de automobilista e outros.",
+            "BlocoContent": "CLÁUSULA 25ª. PLURALIDADE DE SEGUROS\nNo caso de, relativamente ao mesmo veículo, existirem vários seguros, responde, em primeiro lugar e, para todos os efeitos legais, o seguro de provas desportivas, ou, em caso de inexistência deste, o seguro de garagista ou, em caso de inexistência destes dois, o seguro de automobilista ou, em caso de inexistência destes três, o contrato residual, celebrado nos termos do n.º 2 do Artigo 6.° do Decreto-Lei n.º 291/2007, de 21 de agosto, ou, em caso de inexistência destes quatro, o seguro do proprietário do veículo, ou dos outros sujeitos da obrigação de segurar.",
+            "BlocoType": "texto",
+            "docPage_ini": 10,
+            "docPage_end": 10,
+            "ClausulaOuTopico": "CONDIÇÕES GERAIS, CLÁUSULA 25ª. PLURALIDADE DE SEGUROS"
+        },
+        {
+            "BlocoID": 9,
+            "BlocoMetadata": "Procedimento em caso de insuficiência do capital seguro, onde os direitos dos lesados são reduzidos proporcionalmente. Regras para liquidação a um lesado de valor superior à sua quota-parte.",
+            "BlocoContent": "CLÁUSULA 26ª . INSUFICIÊNCIA DO CAPITAL\n1. Se existirem vários lesados pelo mesmo sinistro com direito a indemnizações que, na sua globalidade, excedam o montante do capital seguro, os direitos dos lesados contra o Segurador reduzem-se proporcionalmente até à concorrência daquele montante.\n2. O Segurador que, de boa fé e por desconhecimento da existência de outras pretensões, tiver liquidado a um lesado uma indemnização de valor superior à que lhe competiria nos termos do número anterior, não fica obrigado para com os outros lesados senão até perfazer a parte restante do capital seguro.",
+            "BlocoType": "texto",
+            "docPage_ini": 10,
+            "docPage_end": 11,
+            "ClausulaOuTopico": "CONDIÇÕES GERAIS, CLÁUSULA 26ª. INSUFICIÊNCIA DO CAPITAL"
+        },
+        {
+            "BlocoID": 10,
+            "BlocoMetadata": "Obrigações do tomador do seguro e do segurado em caso de sinistro, incluindo prazos de comunicação, fornecimento de provas e proibição de acordos extrajudiciais sem autorização do segurador.",
+            "BlocoContent": "CAPÍTULO VII\nOBRIGAÇÕES E DIREITOS DAS PARTES\nCLÁUSULA 27ª. OBRIGAÇÕES DO TOMADOR DO SEGURO E DO SEGURADO\n1. Em caso de sinistro coberto pelo presente contrato, o Tomador do Seguro ou o Segurado, sob pena de responderem por perdas e danos, obrigam-se:\na) A comunicar tal facto, por escrito, ao Segurador, no mais curto prazo de tempo possível, nunca superior a 8 dias a contar do dia da ocorrência ou do dia em que tenha conhecimento da mesma, fornecendo todas as indicações e provas documentais e ou testemunhais relevantes para uma correta determinação das responsabilidades;\nb) A tomar as medidas ao seu alcance no sentido de evitar ou limitar as consequências do sinistro;\nc) A prestar ao Segurador as informações relevantes que este solicite relativas ao sinistro e às suas consequências.\n2. A comunicação do sinistro, prevista na alínea a) do número anterior, deve ser feita em impresso próprio fornecido pelo Segurador ou disponível no seu sítio na Internet, ou por qualquer outro meio de comunicação que possa ser utilizado sem a presença física e simultânea das partes, desde que dela fique registo escrito ou gravado.\n3. A responsabilidade por perdas e danos prevista no n.º 1 não é aplicável quando o Segurador tiver conhecimento do sinistro por outro meio durante os 8 dias previstos na respetiva alínea a), ou o obrigado à comunicação prove que não poderia razoavelmente ter procedido à comunicação devida em momento anterior àquele em que o fez.\n4. O Tomador do Seguro e o Segurado não podem, sob pena de responderem por perdas e danos:\na) Abonar extrajudicialmente a indemnização reclamada ou adiantar dinheiro, por conta, em nome ou sob a responsabilidade do Segurador, sem a sua expressa autorização;\nb) Dar ocasião, ainda que por omissão ou negligência, a sentença favorável a terceiro ou, quando não der imediato conhecimento ao Segurador, a qualquer procedimento judicial intentado contra ele por motivo de sinistro a coberto da apólice;\nc) Prejudicar o direito de sub-rogação do Segurador nos direitos do Segurado contra o terceiro responsável pelo sinistro, decorrente da cobertura do sinistro por aquele.",
+            "BlocoType": "texto",
+            "docPage_ini": 11,
+            "docPage_end": 11,
+            "ClausulaOuTopico": "CAPÍTULO VII, CLÁUSULA 27ª. OBRIGAÇÕES DO TOMADOR DO SEGURO E DO SEGURADO"
+        },
+        {
+            "BlocoID": 11,
+            "BlocoMetadata": "Define a obrigação do Segurador de reembolsar as despesas razoáveis e proporcionadas efetuadas pelo Segurado para evitar ou mitigar os danos de um sinistro.",
+            "BlocoContent": "CLÁUSULA 28ª. OBRIGAÇÃO DE REEMBOLSO PELO SEGURADOR DAS DESPESAS HAVIDAS COM O AFASTAMENTO E MITIGAÇÃO DO SINISTRO\n1. O Segurador paga ao Tomador do Seguro ou ao Segurado as despesas efetuadas em cumprimento do dever fixado na alínea b) do n.º 1 da Cláusula anterior, desde que razoáveis e proporcionadas, ainda que os meios empregados se revelem ineficazes.\n2. As despesas indicadas no número anterior devem ser pagas pelo Segurador antecipadamente à data da regularização do sinistro, quando o Tomador do Seguro ou o Segurado exija o reembolso, as circunstâncias o não impeçam e o sinistro esteja coberto pelo seguro.\n3. O valor devido pelo Segurador nos termos do n.º 1 é deduzido ao montante do capital seguro disponível, salvo se corresponder a despesas efetuadas em cumprimento de determinações concretas do Segurador ou a sua cobertura autónoma resultar do contrato.",
+            "BlocoType": "texto",
+            "docPage_ini": 11,
+            "docPage_end": 11,
+            "ClausulaOuTopico": "CONDIÇÕES GERAIS, CLÁUSULA 28ª. OBRIGAÇÃO DE REEMBOLSO PELO SEGURADOR DAS DESPESAS HAVIDAS COM O AFASTAMENTO E MITIGAÇÃO DO SINISTRO"
+        },
+        {
+            "BlocoID": 12,
+            "BlocoMetadata": "Obrigações do Segurador na gestão de sinistros, incluindo a substituição do Segurado na regularização, notificação a terceiros e prestação de esclarecimentos.",
+            "BlocoContent": "CLÁUSULA 29ª . OBRIGAÇÕES DO SEGURADOR\n1. O Segurador substitui o Segurado na regularização amigável ou litigiosa de qualquer sinistro que, ao abrigo do presente contrato, ocorra durante o período de vigência do mesmo, sujeitando-se à ação direta de terceiros lesados ou respetivos herdeiros. Quando o Segurado e o lesado tiverem contratado um seguro com o mesmo Segurador ou existindo qualquer outro conflito de interesses, o Segurado, frustrada a resolução do litígio por acordo, pode confiar a sua defesa a quem entender, não assumindo o Segurador quaisquer custos daí decorrentes.\n2. O Segurador notifica o Tomador do Seguro das reclamações apresentadas por terceiros, mencionando expressamente que, caso não efetue a participação do sinistro, lhe será aplicável a sanção prevista na parte final do n.º 3 do Artigo 34.° do Decreto-Lei n.º 291/2007, de 21 de agosto, ou outra prevista no contrato.\n3. O Segurador presta ao Tomador do Seguro e ao Segurado os esclarecimentos necessários ao correto entendimento dos procedimentos a adotar em caso de sinistro, disponibilizando informação escrita quanto aos prazos a que se compromete, tendo em conta a tipologia dos sinistros.",
+            "BlocoType": "texto",
+            "docPage_ini": 11,
+            "docPage_end": 12,
+            "ClausulaOuTopico": "CONDIÇÕES GERAIS, CLÁUSULA 29ª. OBRIGAÇÕES DO SEGURADOR"
+        },
+        {
+            "BlocoID": 13,
+            "BlocoMetadata": "Informação sobre a adesão do Segurador a códigos de conduta, convenções ou acordos para a regularização de sinistros, visando procedimentos mais céleres.",
+            "BlocoContent": "CLÁUSULA 30ª . CÓDIGOS DE CONDUTA, CONVENÇÕES OU ACORDOS\nO Segurador, informa o Tomador do Seguro e o Segurado, da sua adesão a código de conduta, convenção ou acordo entre Seguradores destinado à regularização dos sinistros, nomeadamente que assegurem procedimentos mais céleres, identificando os respetivos subscritores e, bem assim, prestando os esclarecimentos necessários ou convenientes ao correto entendimento da sua aplicação.",
+            "BlocoType": "texto",
+            "docPage_ini": 12,
+            "docPage_end": 12,
+            "ClausulaOuTopico": "CONDIÇÕES GERAIS, CLÁUSULA 30ª. CÓDIGOS DE CONDUTA, CONVENÇÕES OU ACORDOS"
+        },
+        {
+            "BlocoID": 14,
+            "BlocoMetadata": "Condições sob as quais o Segurador tem direito de regresso, incluindo acidentes provocados dolosamente, por condutores sob efeito de álcool/drogas, sem habilitação legal, ou por incumprimento de obrigações técnicas do veículo.",
+            "BlocoContent": "CLÁUSULA 31ª. DIREITO DE REGRESSO DO SEGURADOR\nSatisfeita a indemnização, o Segurador apenas tem direito de regresso:\na) Contra o causador do acidente que o tenha provocado dolosamente;\nb) Contra os autores e cúmplices de roubo, furto ou furto de uso do veículo causador do acidente, bem como, subsidiariamente, o condutor do veículo objeto de tais crimes que os devesse conhecer e causador do acidente;\nc) Contra o condutor, quando este tenha dado causa ao acidente e conduzir com uma taxa de alcoolemia superior à legalmente admitida, ou acusar consumo de estupefacientes ou outras drogas ou produtos tóxicos;\nd) Contra o condutor, se não estiver legalmente habilitado, ou quando haja abandonado o sinistrado;\ne) Contra o responsável civil por danos causados a terceiros em virtude de queda de carga decorrente de deficiência de acondicionamento;\nf) Contra o incumpridor da obrigação de seguro de responsabilidade civil do garagista;\ng) Estando o veículo à guarda de garagista, contra o responsável civil pelos danos causados pela utilização do veículo fora do âmbito da atividade profissional do garagista;\nh) Estando o veículo à guarda de garagista, e subsidiariamente ao direito previsto na alínea b), contra a pessoa responsável pela guarda cuja negligência tenha ocasionado o crime de furto, roubo ou furto de uso do veículo causador do acidente;\ni) Contra o responsável civil por danos causados a terceiros em virtude de utilização ou condução de veículos que não cumpram as obrigações legais de caráter técnico relativamente ao estado e condições de segurança do veículo, na medida em que o acidente tenha sido provocado ou agravado pelo mau funcionamento do veículo;\nj) Em especial relativamente ao previsto na alínea anterior, contra o responsável pela apresentação do veículo a inspeção periódica que, na pendência do contrato de seguro, tenha incumprido a obrigação de renovação periódica dessa apresentação, na medida em que o acidente tenha sido provocado ou agravado pelo mau funcionamento do veículo.",
+            "BlocoType": "texto",
+            "docPage_ini": 12,
+            "docPage_end": 12,
+            "ClausulaOuTopico": "CONDIÇÕES GERAIS, CLÁUSULA 31ª. DIREITO DE REGRESSO DO SEGURADOR"
+        },
+        {
+            "BlocoID": 15,
+            "BlocoMetadata": "Regime de bonificações (bónus) por ausência de sinistros e agravamentos (malus) por sinistralidade, com regras sobre o que constitui um sinistro para este efeito e a suspensão do bónus em caso de provisão.",
+            "BlocoContent": "CAPÍTULO VIII\nBONIFICAÇÕES OU AGRAVAMENTOS POR SINISTRALIDADE\nCLÁUSULA 32ª. BONIFICAÇÕES OU AGRAVAMENTOS DOS PRÉMIOS POR SINISTRALIDADE\n1. As bonificações por ausência de sinistros e os agravamentos por sinistralidade e (bonus/malus) regem-se pela tabela e disposições constantes do Anexo destas Condições Gerais.\n2. Para efeito de aplicação do regime de bónus ou de agravamento, só é considerado o sinistro que tenha dado lugar ao pagamento de indemnização ou à constituição de uma provisão e, neste último caso, desde que o Segurador tenha assumido a correspondente responsabilidade.\n3. Em caso de constituição de provisão, o Segurador pode suspender a atribuição de bónus durante o período máximo de dois anos, devendo, findo esse prazo, o mesmo ser devolvido e reposta a situação tarifária sem prejuízo para o Tomador do Seguro, caso o Segurador não tenha, entretanto, assumido a responsabilidade perante terceiros.",
+            "BlocoType": "texto",
+            "docPage_ini": 12,
+            "docPage_end": 13,
+            "ClausulaOuTopico": "CAPÍTULO VIII, CLÁUSULA 32ª. BONIFICAÇÕES OU AGRAVAMENTOS DOS PRÉMIOS POR SINISTRALIDADE"
+        },
+        {
+            "BlocoID": 16,
+            "BlocoMetadata": "Obrigações do Segurador de entregar um certificado de tarifação que detalha o histórico de acidentes dos últimos cinco anos, a pedido do tomador ou na resolução do contrato.",
+            "BlocoContent": "CLÁUSULA 33ª. CERTIFICADO DE TARIFAÇÃO\nO Segurador entrega ao Tomador do Seguro um certificado que incida sobre os últimos cinco anos da relação contratual, identificando a existência ou a ausência de acidentes que envolvam responsabilidade civil provocados pelo veículo ou veículos cobertos pelo contrato de seguro:\na) Sempre que aquele lho solicite, e num prazo de 15 dias a contar do pedido;\nb) Sempre que a resolução do contrato seja da sua iniciativa, com uma antecedência de 30 dias em relação à data daquela.",
+            "BlocoType": "texto",
+            "docPage_ini": 13,
+            "docPage_end": 13,
+            "ClausulaOuTopico": "CONDIÇÕES GERAIS, CLÁUSULA 33ª. CERTIFICADO DE TARIFAÇÃO"
+        },
+        {
+            "BlocoID": 17,
+            "BlocoMetadata": "Regras para comunicações e notificações entre as partes (Tomador, Segurado e Segurador), definindo a validade, a forma e os endereços a utilizar.",
+            "BlocoContent": "CAPÍTULO IX\nDISPOSIÇÕES DIVERSAS\nCLÁUSULA 34ª. COMUNICAÇÕES E NOTIFICAÇÕES ENTRE AS PARTES\n1. As comunicações ou notificações do Tomador do Seguro ou do Segurado previstas nesta apólice consideram-se válidas e eficazes caso sejam efetuadas para a sede social do Segurador ou da sucursal, consoante o caso.\n2. São igualmente válidas e eficazes as comunicações ou notificações feitas, nos termos do número anterior, para o endereço do representante do Segurador não estabelecido em Portugal, relativamente a sinistros abrangidos por esta apólice.\n3. As comunicações previstas no presente contrato devem revestir forma escrita ou ser prestadas por outro meio de que fique registo duradouro.\n4. O Segurador só está obrigado a enviar as comunicações previstas no presente contrato se o destinatário das mesmas estiver devidamente identificado no contrato, considerando-se validamente efetuadas se remetidas para o respetivo endereço constante da apólice.\n5. Para os efeitos previstos no Capítulo III do Título II do Decreto-Lei n.º 291/2007, de 21 de agosto, o Segurador pode recorrer a meio de que fique registo gravado, caso esteja autorizado a fazê-lo nos termos da lei.",
+            "BlocoType": "texto",
+            "docPage_ini": 13,
+            "docPage_end": 13,
+            "ClausulaOuTopico": "CAPÍTULO IX, CLÁUSULA 34ª. COMUNICAÇÕES E NOTIFICAÇÕES ENTRE AS PARTES"
+        },
+        {
+            "BlocoID": 18,
+            "BlocoMetadata": "Canais para apresentação de reclamações no âmbito do contrato de seguro, incluindo os serviços do Segurador e a Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF), e a possibilidade de recurso à arbitragem.",
+            "BlocoContent": "CLÁUSULA 35ª. RECLAMAÇÕES E ARBITRAGEM\n1. Podem ser apresentadas reclamações no âmbito do presente contrato aos serviços do Segurador identificados no contrato e, bem assim, à Autoridade de Supervisão de Seguros e Fundos de Pensões (www.asf.com.pt).\n2. Nos litígios surgidos ao abrigo deste contrato pode haver recurso à arbitragem, a efetuar nos termos da lei.",
+            "BlocoType": "texto",
+            "docPage_ini": 13,
+            "docPage_end": 13,
+            "ClausulaOuTopico": "CONDIÇÕES GERAIS, CLÁUSULA 35ª. RECLAMAÇÕES E ARBITRAGEM"
+        },
+        {
+            "BlocoID": 19,
+            "BlocoMetadata": "Define o foro competente para a resolução de litígios emergentes do contrato de seguro, que será o fixado na lei civil.",
+            "BlocoContent": "CLÁUSULA 36ª. FORO\nO foro competente para dirimir os litígios emergentes deste contrato é o fixado na lei civil.",
+            "BlocoType": "texto",
+            "docPage_ini": 13,
+            "docPage_end": 13,
+            "ClausulaOuTopico": "CONDIÇÕES GERAIS, CLÁUSULA 36ª. FORO"
+        },
+        {
+            "BlocoID": 20,
+            "BlocoMetadata": "Enquadramento no sistema de Bónus/Malus para clientes particulares, considerando o histórico do tomador, interrupções, número de anos com seguro e histórico de sinistros.",
+            "BlocoContent": "SISTEMA DE BONIFICAÇÕES E AGRAVAMENTOS POR SINISTRALIDADE (BÓNUS/MALUS)\nEnquadramento no Sistema de Bónus / Malus - Clientes Particulares\nNo momento da celebração do contrato, o enquadramento nas classes do sistema de Bónus / Malus aplicável é feito de acordo com a tabela de entrada anexa e tendo em conta os pressupostos que se seguem:\nSerá considerado o histórico do Tomador do Seguro relativo aos veículos de categorias equivalentes à categoria do veículo a contratar.\nCaso o Tomador do Seguro tenha uma interrupção de histórico em seu nome superior a 180 dias, os registos anteriores não serão contemplados.\nSerá considerada a seguinte informação do Tomador do Seguro que se presume ser o condutor:\na) O número de anos com seguro;\nb) O número de sinistros ocorridos nos últimos 5 anos, registados nas coberturas de Responsabilidade Civil e/ou Choque, Colisão ou Capotamento;\nc) O número de anos sem sinistros, correspondente ao número de anos completos entre a data de ocorrência do último sinistro registado nas coberturas referidas na alínea b) e a data início do seguro, não podendo este ser superior ao número de anos com seguro.",
+            "BlocoType": "texto",
+            "docPage_ini": 14,
+            "docPage_end": 14,
+            "ClausulaOuTopico": "ANEXO - BÓNUS/MALUS, Enquadramento no Sistema de Bónus / Malus - Clientes Particulares"
+        },
+        {
+            "BlocoID": 21,
+            "BlocoMetadata": "Enquadramento no sistema de Bónus/Malus para clientes empresariais, detalhando como o histórico de sinistralidade do tomador e do veículo afetam a classe de seguro na celebração do contrato.",
+            "BlocoContent": "Enquadramento no Sistema de Bónus / Malus - Clientes Empresa\nNo momento da celebração do contrato, o enquadramento nas classes do sistema de Bónus / Malus aplicável é feito de acordo com a tabela de entrada anexa e tendo em conta os pressupostos que se seguem:\nSerá considerado o histórico do Tomador do Seguro relativo aos veículos de categorias equivalentes à categoria do veículo a contratar.\nCaso o Tomador do Seguro tenha uma interrupção de histórico em seu nome superior a 180 dias, os registos anteriores não serão contemplados.\nSerá considerada a seguinte informação do Tomador do Seguro:\nCaso exista registo de histórico em nome do Tomador do Seguro para a matrícula a segurar, será considerado o histórico da mesma e o de todos os veículos de categorias equivalentes que tenham estado garantidos nessa apólice para a resposta às questões que se seguem:\na) O número de anos com seguro;\nb) O número de sinistros ocorridos nos últimos 5 anos, registados numa das seguintes coberturas: Responsabilidade Civil e/ou Choque, Colisão ou Capotamento, Responsabilidade Civil Cruzada e Responsabilidade Civil Laboração;\nc) O número de anos sem sinistros, correspondente ao número de anos completos entre a data de ocorrência do último sinistro registado nas coberturas referidas na alínea b) e a data início do seguro, não podendo este ser superior ao número de anos com seguro.\nCaso não exista registo de histórico em nome do Tomador do Seguro para a matrícula a segurar, será considerado o histórico de todos os veículos de categorias equivalentes para a resposta às questões que se seguem:\na) O número de anos com seguro;\nb) O número médio de sinistros ocorridos nos últimos 5 anos, registados numa das seguintes coberturas: Responsabilidade Civil e/ou Choque, Colisão ou Capotamento, Responsabilidade Civil Cruzada e Responsabilidade Civil Laboração;\nc) O número de anos sem sinistros, correspondente ao número de anos completos entre a data de ocorrência do último sinistro registado nas coberturas referidas na alínea b) e a data início do seguro, não podendo este ser superior ao número de anos com seguro.",
+            "BlocoType": "texto",
+            "docPage_ini": 14,
+            "docPage_end": 14,
+            "ClausulaOuTopico": "ANEXO - BÓNUS/MALUS, Enquadramento no Sistema de Bónus / Malus - Clientes Empresa"
+        },
+        {
+            "BlocoID": 22,
+            "BlocoMetadata": "Evolução e aplicação do sistema de Bónus/Malus, explicando que a evolução depende dos sinistros da anuidade anterior e que as bonificações/agravamentos incidem sobre os prémios de várias coberturas.",
+            "BlocoContent": "Evolução no Sistema de Bónus / Malus (Clientes Particulares e Empresas)\nA evolução no sistema de bonificações e agravamentos aplicável depende da verificação ou ausência de sinistros durante a anuidade anterior registados pelo menos numa das seguintes coberturas: Responsabilidade Civil, ou Choque, Colisão ou Capotamento, Proteção Vital do Condutor, Responsabilidade Civil Cruzada e Responsabilidade Civil Laboração. As bonificações ou agravamentos são aplicados na renovação contratual seguinte em função da classe de bonificação da anuidade anterior e do número de sinistros registados nessa anuidade de acordo com a tabela de transição anexa.\nAplicação do Sistema de Bónus / Malus (Clientes Particulares e Empresas)\n1. As bonificações e os agravamentos por sinistralidade incidem sobre os prémios das coberturas de Responsabilidade Civil, Choque, Colisão ou Capotamento, Proteção Vital do Condutor, Responsabilidade Civil Cruzada e Responsabilidade Civil Laboração.\n2. A bonificação ou agravamento será refletida nos prémios comerciais na data de início do risco, no caso de seguro novo, ou no momento da renovação do contrato.",
+            "BlocoType": "texto",
+            "docPage_ini": 14,
+            "docPage_end": 15,
+            "ClausulaOuTopico": "ANEXO - BÓNUS/MALUS, Evolução e Aplicação do Sistema de Bónus / Malus"
+        },
+        {
+            "BlocoID": 23,
+            "BlocoMetadata": "Tabela de entrada para determinar a classe de Bónus/Malus no início do contrato, cruzando o número de anos com seguro, o número de sinistros nos últimos 5 anos e o número de anos sem sinistros.",
+            "BlocoContent": "1.1. Tabela de Entrada – Classe de Bónus/Malus no início do contrato\nN.º DE SINISTROS NOS ÚLTIMOS 5 ANOS\nN.º DE ANOS COM SEGURO | 0 | 1 (N° DE ANOS SEM SINISTROS 0, 1 a 2, 3 a 4) | 2 (N° DE ANOS SEM SINISTROS 0, 1 a 2, 3 a 4) | 3 OU MAIS\n0 | 0% | 40% | | | 90% | | | \n1 | -10% | 20% | 20% | | 60% | 60% | | \n2 | -20% | 10% | 10% | | 60% | 40% | | \n3 | -25% | 0% | 0% | 0% | 40% | 20% | 20% | CASUÍSTICO\n4 | -30% | 0% | -10% | -10% | 20% | 10% | 10% | \n5 | -32,5% | -10% | -20% | -20% | 10% | 0% | 0% | \n6 | -35% | -10% | -20% | -25% | 10% | 0% | -10% | \n7 | -37,5% | -10% | -20% | -25% | 10% | 0% | -10% | \n8 | -37,5% | -20% | -25% | -30% | 10% | 0% | -10% | \n9 | -40% | -20% | -25% | -30% | 0% | 0% | -20% | \n10 | -42% | -20% | -25% | -30% | 0% | 0% | -20% | \n11 | -42% | -20% | -25% | -30% | 0% | 0% | -20% | \n12 | -44% | -20% | -25% | -30% | 0% | 0% | -20% | \n13 | -46% | -25% | -30% | -32,5% | 0% | 0% | -20% | \n14 | -48% | -25% | -30% | -32,5% | 0% | -10% | -20% | \n15 | -50% | -30% | -30% | -32,5% | 0% | -10% | -20% | \n16 | -50% | -32,5% | -32,5% | -35% | 0% | -10% | -20% | \n17 | -50% | -32,5% | -32,5% | -35% | 0% | -10% | -20% | \n18 OU + | -50% | -35% | -35% | -35% | 0% | -10% | -20% | ",
+            "BlocoType": "tabela",
+            "docPage_ini": 16,
+            "docPage_end": 16,
+            "ClausulaOuTopico": "ANEXO - BÓNUS/MALUS, Tabela 1.1 Tabela de Entrada"
+        },
+        {
+            "BlocoID": 24,
+            "BlocoMetadata": "Tabela de transição de Bónus/Malus para a renovação do contrato, mostrando a evolução da classe de bonificação (bónus ou malus) com base na situação da anuidade anterior e no número de sinistros ocorridos.",
+            "BlocoContent": "1.2. Tabela de Transição – Classe de Bónus / Malus na renovação do contrato\nSITUAÇÃO ANUIDADE ANTERIOR | N.º DE SINISTROS NA ANUIDADE ANTERIOR (0, 1, 2, 3, 4 OU MAIS)\nMALUS\n130,0 % | 90,0 % | 130,0 % | 130,0 % | 130,0 % | 130,0 %\n90,0 % | 60,0 % | 130,0 % | 130,0 % | 130,0 % | 130,0 %\n60,0 % | 40,0 % | 130,0 % | 130,0 % | 130,0 % | 130,0 %\n40,0 % | 20,0 % | 90,0 % | 130,0 % | 130,0 % | 130,0 %\n20,0 % | 10,0 % | 60,0 % | 130,0 % | 130,0 % | 130,0 %\n10,0 % | 0,0 % | 40,0 % | 90,0 % | 130,0 % | 130,0 %\n0 % | -10,0 % | 20,0 % | 60,0 % | 130,0 % | 130,0 %\n-10 % | -20,0 % | 10,0 % | 40,0 % | 90,0 % | 130,0 %\n-20 % | -25,0 % | 0,0 % | 20,0 % | 60,0 % | 130,0 %\n-25 % | -30,0 % | -10,0 % | 20,0 % | 60,0 % | 130,0 %\n-30 % | -32,5 % | -10,0 % | 20,0 % | 60,0 % | 130,0 %\n-32,5 % | -35,0 % | -20,0 % | 10,0 % | 40,0 % | 130,0 %\n-35 % | -37,5 % | -20,0 % | 10,0 % | 40,0 % | 130,0 %\nBÓNUS\n-37,5 % | -40,0 % | -25,0 % | 0,0 % | 20,0 % | 130,0 %\n-40 % | -42,0 % | -25,0 % | 0,0 % | 20,0 % | 130,0 %\n-42 % | -44,0 % | -30,0 % | -10,0 % | 20,0 % | 130,0 %\n-44 % | -46,0 % | -32,5 % | -10,0 % | 10,0 % | 130,0 %\n-46 % | -48,0 % | -35,0 % | -20,0 % | 10,0 % | 130,0 %\n-48 % | -50,0 % | -40,0 % | -20,0 % | 0,0 % | 130,0 %\n-50 % (1) | -50,0 % | -30,0 % | 0,0 % | 20,0 % | 130,0 %\n-50 % (2) | -50,0 % | -35,0 % | 0,0 % | 20,0 % | 130,0 %\n-50 % (3) | -50,0 % | -40,0 % | 0,0 % | 20,0 % | 130,0 %\n-50 % (4) | -52,5 % | -50,0 % | -25,0 % | 0,0 % | 130,0 %\n-52,5 % | -55,0 % | -50,0 % | -30,0 % | -10,0 % | 130,0 %\n-55,0 % | -55,0 % | -50,0 % | -32,5 % | -10,0 % | 130,0 %\nNota: Os veículos com bónus técnico de 50% transitam entre as classes de bónus de acordo com as referências entre parêntesis [(1), (2), (3), (4)].",
+            "BlocoType": "tabela",
+            "docPage_ini": 17,
+            "docPage_end": 17,
+            "ClausulaOuTopico": "ANEXO - BÓNUS/MALUS, Tabela 1.2 Tabela de Transição"
+        },
+        {
+            "BlocoID": 25,
+            "BlocoMetadata": "Âmbito do Seguro Automóvel Facultativo, listando as coberturas que podem ser abrangidas, como Responsabilidade Civil, Danos Próprios (Choque, Incêndio, Furto), Assistência em Viagem, Proteção Jurídica, entre outras.",
+            "BlocoContent": "CLÁUSULA 1ª. ÂMBITO DOSEGURO FACULTATIVO\n1. As presentes Condições Gerais são aplicáveis ao Seguro Automóvel Facultativo, que poderá abranger as seguintes coberturas:\n• Responsabilidade Civil Facultativa\n• Responsabilidade Civil Carga\n• Responsabilidade Civil Cruzada\n• Responsabilidade Civil Laboração\n• Choque, Colisão ou Capotamento\n• Incêndio, Raio ou Explosão\n• Quebra Isolada de Vidros\n• Furto ou Roubo\n• Fenómenos da Natureza\n• Atos de Vandalismo\n• Valor de Aquisição\n• Capital Seguro Proporcional nas Garantias de Danos ao Veículo\n• Veículo de Substituição\n• Privação de Uso\n• Assistência em Viagem\n• Proteção Jurídica\n• Proteção ao Condutor\n• Ocupantes da Viatura\n• Proteção Vital do Condutor\n• Outras garantias que venham a ser contratadas como Condições Especiais.\n2. As coberturas contratadas encontram-se expressamente indicadas nas Condições Particulares.",
+            "BlocoType": "texto",
+            "docPage_ini": 18,
+            "docPage_end": 18,
+            "ClausulaOuTopico": "SEGURO AUTOMÓVEL FACULTATIVO, CLÁUSULA 1ª. ÂMBITO DO SEGURO FACULTATIVO"
+        },
+        {
+            "BlocoID": 26,
+            "BlocoMetadata": "Disposições aplicáveis ao Seguro Automóvel Facultativo, estabelecendo que se rege pelas Condições Particulares, Especiais e Gerais, incluindo as do Seguro Obrigatório na parte não regulada.",
+            "BlocoContent": "CLÁUSULA 2ª. DISPOSIÇÕES APLICÁVEIS\nO Seguro Automóvel Facultativo rege-se pelo disposto nas Condições Particulares e nas Condições Especiais, aplicáveis às coberturas efetivamente contratadas, bem como pelo disposto nas presentes Condições Gerais do Seguro Automóvel Facultativo e, na parte não especificamente regulada, nas Condições Gerais do Seguro Obrigatório de Responsabilidade Civil Automóvel.",
+            "BlocoType": "texto",
+            "docPage_ini": 18,
+            "docPage_end": 18,
+            "ClausulaOuTopico": "SEGURO AUTOMÓVEL FACULTATIVO, CLÁUSULA 2ª. DISPOSIÇÕES APLICÁVEIS"
+        },
+        {
+            "BlocoID": 27,
+            "BlocoMetadata": "Definições de termos chave no contrato de seguro automóvel facultativo, como Acidente de Viação, Atividade de Laboração, Condutor Habitual, Valor em Novo, Valor Seguro, Opcionais, Extras, Capital Seguro, Perda Total e Garantias de Danos ao Veículo.",
+            "BlocoContent": "CLÁUSULA 3ª . DEFINIÇÕES\nPara efeitos do presente contrato, entende-se por:\nACIDENTE DE VIAÇÃO\nO acontecimento súbito, fortuito e independente da vontade do Tomador do Seguro e do Segurado, ocorrido em consequência exclusiva da circulação rodoviária, quer o veículo se encontre ou não em movimento.\nATIVIDADE DE LABORAÇÃO\nQuando o veículo seguro está a exercer atividades em funções meramente agrícolas, excluindo-se a atividade de circulação, ou de utilização como meio de transporte.\nCONDUTOR HABITUAL\nA pessoa que, nessa qualidade, for identificada nas Condições Particulares e que deverá corresponder àquela que conduz o veículo, com caráter de habitualidade e com uma utilização superior à do(s) outro(s) condutor(es), caso exista(m).\nVALOR EM NOVO\nPreço de venda ao público, incluindo encargos legais e impostos, do veículo, em estado novo, na data de registo da primeira matrícula, inscrita no respetivo Livrete ou Documento Único Automóvel, não considerando o custo de extras ainda que adquiridos no ato de compra do veículo.\nVALOR SEGURO DO VEÍCULO\nCorresponde ao valor em novo do veículo atualizado em conformidade com o critério de desvalorização acordado. Este incluirá também o valor atualizado dos componentes ou equipamentos não identificados como extras.\nOPCIONAIS\nComponentes ou equipamentos não integrados de série na versão do veículo seguro, mas disponibilizados pelo fabricante para montagem no veículo em fábrica, sendo descriminados e valorizados na fatura de aquisição do veículo.\nEXTRAS\nComponentes ou equipamentos não integrados de série na versão do veículo seguro, que o Segurado comprove documentalmente ter mandado instalar e cujo custo não se encontre incluído no valor seguro do veículo. Sem prejuízo do anteriormente referido, consideram-se sempre como extras: pintura de letras, desenhos, emblemas, dísticos alegóricos ou de reclamos ou propaganda no veículo.\nCAPITAL SEGURO\nPara efeito das coberturas \"Choque, Colisão ou Capotamento\", \"Incêndio, Raio ou Explosão”, “Furto ou Roubo\", \"Atos de Vandalismo\" e \"Fenómenos da Natureza\", o capital seguro corresponde ao valor seguro do veículo acrescido do valor seguro dos opcionais e extras, sempre que discriminados e valorizados no contrato, salvo quando seja contratada a Condição Especial Capital Seguro Proporcional nas Garantias de Danos ao Veículo, caso em que o capital seguro corresponderá a uma percentagem do valor seguro do veículo, nos termos estabelecidos na referida Condição Especial e indicado nas Condições Particulares.\nPERDA TOTAL\nQuando não seja contratada a Condição Especial Capital Seguro Proporcional nas Garantias de Danos ao Veículo, considera-se o veículo em situação de perda total, quando se verifique uma das seguintes situações:\na) Tenha ocorrido o seu desaparecimento ou a sua destruição total;\nb) A reparação seja materialmente impossível ou tecnicamente não aconselhável, por terem sido gravemente afetadas as suas condições de segurança;\nc) O valor da reparação, adicionado do valor do salvado, seja superior ao capital seguro do veículo e, simultaneamente, o valor da reparação seja superior a 70% do capital seguro do veículo.\nQuando seja contratada a Condição Especial Capital Seguro Proporcional nas Garantias de Danos ao Veículo, considera-se o veículo em situação de perda total, quando se verifique uma das seguintes situações:\nd) Tenha ocorrido o seu desaparecimento ou a sua destruição total;\ne) A reparação seja materialmente impossível ou tecnicamente não aconselhável, por terem sido gravemente afetadas as suas condições de segurança;\nf) O valor da reparação seja superior ao capital seguro do veículo.\nGARANTIAS DE DANOS AO VEÍCULO\nEntendem-se por garantias de danos ao veículo seguro as abrangidas pelas coberturas de “Choque, Colisão ou Capotamento”, “Incêndio, Raio ou Explosão\", \"Furto ou Roubo”, “Fenómenos da Natureza\" ou \"Atos de Vandalismo” que hajam sido contratadas e que se encontrem expressamente indicadas nas Condições Particulares.",
+            "BlocoType": "texto",
+            "docPage_ini": 18,
+            "docPage_end": 19,
+            "ClausulaOuTopico": "SEGURO AUTOMÓVEL FACULTATIVO, CLÁUSULA 3ª. DEFINIÇÕES"
+        },
+        {
+            "BlocoID": 28,
+            "BlocoMetadata": "Âmbito territorial das garantias do seguro facultativo, limitadas a Portugal Continental, Madeira e Açores, salvo disposição em contrário.",
+            "BlocoContent": "CLÁUSULA 4ª . ÂMBITO TERRITORIAL\nAs garantias contratadas estão limitadas ao território de Portugal Continental e das Regiões Autónomas da Madeira e dos Açores, salvo disposição em contrário constante das Condições Especiais ou Particulares.",
+            "BlocoType": "texto",
+            "docPage_ini": 19,
+            "docPage_end": 19,
+            "ClausulaOuTopico": "SEGURO AUTOMÓVEL FACULTATIVO, CLÁUSULA 4ª. ÂMBITO TERRITORIAL"
+        },
+        {
+            "BlocoID": 29,
+            "BlocoMetadata": "Exclusões gerais do Seguro Automóvel Facultativo, complementando as do seguro obrigatório. Inclui danos por furto/roubo, condução sem licença, dolo, álcool/drogas, guerra, avarias, excesso de carga, lucros cessantes, defeitos de construção, e outros cenários específicos.",
+            "BlocoContent": "CLÁUSULA 5ª. EXCLUSÕES\n1. Para além das exclusões previstas na Cláusula 5ª das Condições Gerais do Seguro Obrigatório de Responsabilidade Civil Automóvel e das exclusões específicas de cada uma das coberturas facultativas contratadas, ficam ainda excluídos do âmbito do Seguro Automóvel Facultativo:\na) Danos causados ao veículo seguro por ocasião de furto, roubo ou furto de uso ou de qualquer outra forma de subtração ilegítima ou utilização abusiva do veículo seguro, sem prejuízo, porém, dos direitos do Segurado que derivem da cobertura de “Furto ou Roubo\", quando haja sido contratada;\nb) Danos causados ao veículo seguro quando este seja conduzido por pessoa que não seja titular de licença de condução correspondente à categoria do veículo seguro ou que esteja, temporária ou definitivamente, inibida ou privada da faculdade de conduzir, sem prejuízo, porém, dos direitos do Segurado que derivem da cobertura de “Furto ou Roubo\", quando haja sido contratada;\nc) Danos causados intencionalmente, com o veículo seguro ou ao veículo seguro, pelo Tomador do Seguro, Segurado, Condutor ou restantes ocupantes ou por pessoas por quem qualquer um deles seja civilmente responsável ou que com qualquer um deles viva em economia comum;\nd) Danos causados ao veículo seguro quando o Condutor conduza com uma taxa de alcoolemia superior à legalmente admitida ou acuse consumo de estupefacientes ou de outras drogas ou produtos tóxicos ou esteja em estado de demência;\ne) Danos ocorridos quando o Condutor do veículo seguro recuse submeter-se a testes de alcoolémia ou de deteção de substâncias estupefacientes ou psicotrópicas, bem como quando voluntariamente abandone o local do acidente de viação antes da chegada da autoridade policial quando esta tenha sido chamada por si ou por outra entidade, com ou sem conhecimento do condutor;\nf) Danos ocorridos quando se verifiquem situações de guerra, guerra civil, insurreição, mobilização, execução da Lei Marcial, invasão ou hostilidade com outros países, levantamento popular, rebelião ou golpe militar, revolução ou usurpação de poder civil ou militar;\ng) Danos ocorridos quando o veículo seguro se encontre em serviço diferente e de maior risco do que o contratado;\nh) Danos ocorridos quando não tiverem sido cumpridas, em relação ao veículo seguro, as disposições sobre inspeção periódica ou outras relativas à homologação do veículo, exceto se for demonstrado que entre as infrações cometidas e os danos não houve qualquer relação de causalidade;\ni) Danos causados por excesso ou mau acondicionamento de carga;\nj) Danos causados por transporte de objetos ou participação em atividades que ponham em risco a estabilidade e domínio do veículo;\nk) Lucros cessantes ou perda de benefícios, rendimentos ou resultados sofridos pelo Tomador do Seguro ou pelo Segurado, em virtude de privação de uso, despesas de substituição do veículo seguro ou provenientes de depreciação, desgaste ou consumo naturais, sem prejuízo, porém, dos direitos do Segurado que derivem da cobertura de “Privação de Uso\", quando haja sido contratada;\nl) Danos direta e exclusivamente provenientes de defeito de construção, reparação, montagem ou afinação, vício próprio ou má conservação do veículo seguro;\nm) Danos produzidos diretamente por alcatrão ou outros materiais utilizados na construção das vias ou por lama existente nas mesmas;\nn) Danos causados ao veículo seguro, intencionalmente, com quaisquer objetos empunhados ou arremessados sem prejuízo, porém, dos direitos do Segurado que derivem da cobertura de \"Atos de Vandalismo\", quando haja sido contratada;\no) Acidentes em caso de suicídio, ou sua tentativa, bem como acidentes ocorridos em resultado de apostas ou desafios;\np) Danos causados ao meio ambiente, designadamente por poluição ou contaminação do solo, das águas ou da atmosfera;\nq) Danos causados ao veículo seguro durante operações de carga e descarga de objetos nele transportados;\nr) Danos ocorridos durante a utilização do veículo em autódromos ou outros circuitos fechados vocacionados para a realização de provas de desporto motorizado.\n2. Sem prejuízo do estabelecido nas Condições Especiais relativas às coberturas contratadas que se encontram expressamente indicadas nas Condições Particulares, e para além das exclusões previstas na Cláusula 5º das Condições Gerais do Seguro Obrigatório de Responsabilidade Civil Automóvel e no nº 1 da presente Cláusula, ficam ainda excluídos do âmbito do Seguro Automóvel Facultativo:\na) Danos resultantes de greves, tumultos, distúrbios laborais, motins e alterações da ordem pública, atos de vandalismo e/ou ações de pessoas com intenções maliciosas, atos de terrorismo e/ou sabotagem e atos praticados por qualquer autoridade legalmente constituída, em virtude de medidas tomadas por ocasião destas ocorrências para salvaguarda de pessoas e bens;\nb) Danos provocados por inundações, desmoronamentos, furacões e outras convulsões violentas da natureza, fenómenos sísmicos e meteorológicos;\nc) Danos em objetos e mercadorias transportadas no veículo seguro, ainda que sejam propriedade dos respetivos passageiros;\nd) Danos em pintura de letras, desenhos, emblemas, dísticos alegóricos ou de reclamos ou propaganda no veículo seguro, quando não for feita a sua menção e valorização nas Condições Particulares;\ne) Danos em Extras, quando das Condições Particulares não constem expressamente discriminados e com a indicação do respetivo valor, ou o seu valor não esteja incluído no valor seguro do veículo;\nf) Danos causados aos passageiros transportados nas caixas de carga dos veículos, salvo convenção em contrário constante nas Condições Particulares;\ng) Danos ocorridos ou resultantes da circulação do veículo em áreas de acesso restrito, nomeadamente, aeroportos, salvo convenção em contrário constante nas Condições Particulares;\nh) Danos ocorridos ou resultantes da circulação do veículo em zonas de acesso vedado ou locais reconhecidos como inadequados para a circulação do veículo seguro;\ni) Danos ocorridos quando o veículo seguro esteja a ser utilizado no transporte de matérias perigosas, independentemente de serem causadas por estas, ou por aquele. Consideram-se matérias perigosas, entre outras definidas na lei, combustíveis, matérias inflamáveis, explosivas ou tóxicas. Esta exclusão, porém, não será invocável sempre que o veículo seguro esteja devida e legalmente autorizado a realizar o transporte de matérias perigosas e se encontre expressamente indicado nas Condições Particulares que esse risco se encontra garantido.",
+            "BlocoType": "texto",
+            "docPage_ini": 19,
+            "docPage_end": 21,
+            "ClausulaOuTopico": "SEGURO AUTOMÓVEL FACULTATIVO, CLÁUSULA 5ª. EXCLUSÕES"
+        },
+        {
+            "BlocoID": 30,
+            "BlocoMetadata": "Regras sobre valores seguros e franquias no seguro automóvel facultativo, incluindo a atualização do valor seguro, dedução da franquia e modificação dos critérios de desvalorização.",
+            "BlocoContent": "CLÁUSULA 6ª. VALORES SEGUROS E FRANQUIAS\n1. Os valores máximos garantidos pelo Segurador, bem como as franquias contratadas constam expressamente nas respetivas Condições Especiais ou nas Condições Particulares.\n2. O valor seguro do veículo, a considerar para efeito do contrato, será automaticamente atualizado de acordo com a tabela de desvalorização do Segurador, anexa às presentes Condições Gerais do Seguro Automóvel Facultativo. Contudo, por acordo expresso nas Condições Particulares, as partes podem estipular qualquer outro critério de desvalorização ou valor segurável, nomeadamente a utilização de tabelas de cotação de mercado. O valor seguro dos opcionais e extras será atualizado na mesma proporção do valor seguro do veículo. Quando contratada a Condição Especial Capital Seguro Proporcional nas Garantias de Danos ao Veículo o valor seguro do veículo corresponderá ao capital seguro tal como definido na referida Condição Especial.\n3. A franquia contratual acordada para os danos no veículo seguro será sempre deduzida pelo Segurador no momento do pagamento da indemnização, ainda que o efetue diretamente à entidade reparadora do veículo ou a qualquer outra pessoa ou entidade com direito ao respetivo pagamento.\n4. O Tomador do Seguro ou o Segurador podem propor, por escrito e com a antecedência mínima de 60 dias em relação ao vencimento do contrato, a modificação do critério de desvalorização, do valor segurável ou do valor da franquia.\n5. Salvo convenção expressa em contrário nas Condições Particulares, a franquia nas Garantias de Danos ao Veículo será menor ou igual a 30% do valor do veículo em novo e menor ou igual a 30% do capital seguro do veículo.\nEm cada renovação do contrato será verificada a relação entre o capital seguro, o valor em novo e o valor da franquia. Caso, no início de uma anuidade, não se verifique o cumprimento das relações anteriormente referidas, a franquia será alterada para o valor inferior mais próximo que as satisfaça, de entre os valores praticados pelo Segurador, sendo o mesmo atualizado nas Condições Particulares.",
+            "BlocoType": "texto",
+            "docPage_ini": 21,
+            "docPage_end": 21,
+            "ClausulaOuTopico": "SEGURO AUTOMÓVEL FACULTATIVO, CLÁUSULA 6ª. VALORES SEGUROS E FRANQUIAS"
+        },
+        {
+            "BlocoID": 31,
+            "BlocoMetadata": "Obrigações do segurado em caso de evento que acione as garantias facultativas, incluindo participação do acidente em 8 dias, disponibilização do veículo para peritagem e entrega de documentos para reembolso.",
+            "BlocoContent": "CLÁUSULA 7ª. OBRIGAÇÕES DO TOMADOR DO SEGURO, SEGURADO E/OU PESSOA SEGURA\nVerificando-se qualquer evento que faça funcionar as garantias deste contrato, o Tomador do Seguro, o Segurado e/ou as Pessoas Seguras, sob pena de responderem por perdas e danos, para além do previsto na Cláusula 27° das Condições Gerais do Seguro Obrigatório de Responsabilidade Civil Automóvel, obrigam-se a:\na) Tomar todas as providências para evitar o agravamento dos danos decorrentes do acidente;\nb) Participar o acidente ao Segurador, por escrito e nos 8 dias imediatos à sua ocorrência, indicando dia, hora, local, causas, consequências, testemunhas e quaisquer outros elementos considerados relevantes, bem como informá-la de todos os factos e circunstâncias que possam influir na sua capacidade de análise. Existindo vários seguros sobre o mesmo risco, a comunicação acima referida deverá ser efetuada aos respetivos Seguradores com indicação do nome dos restantes;\nc) Disponibilizar o veículo seguro para realização da peritagem necessária à avaliação dos danos, nos termos indicados pelo Segurador;\nd) Entregar, para efeitos do reembolso a que houver lugar, a documentação original e todos os documentos justificativos das despesas efetuadas e abrangidas pelo contrato.",
+            "BlocoType": "texto",
+            "docPage_ini": 22,
+            "docPage_end": 22,
+            "ClausulaOuTopico": "SEGURO AUTOMÓVEL FACULTATIVO, CLÁUSULA 7ª. OBRIGAÇÕES DO TOMADOR DO SEGURO, SEGURADO E/OU PESSOA SEGURA"
+        },
+        {
+            "BlocoID": 32,
+            "BlocoMetadata": "Opções de ressarcimento dos danos no veículo seguro: reparação, substituição ou indemnização em dinheiro. O Segurador pode indicar a oficina e não se responsabiliza por demoras na obtenção de peças.",
+            "BlocoContent": "CLÁUSULA 8ª. RESSARCIMENTO DOS DANOS NO VEÍCULO SEGURO\n1. O Segurador pode optar pela reparação do veículo seguro, pela sua substituição, ou pela atribuição de uma indemnização em dinheiro.\n2. Optando o Segurador pela reparação, reserva--se ao direito de indicar a oficina que realizará a peritagem e a reparação dos danos no veículo seguro. As reparações serão feitas de maneira a repor a parte danificada do veículo seguro no estado anterior ao sinistro.\n3. Nas reparações que exijam substituição de peças ou sobressalentes e quando o Tomador do Seguro não queira sujeitar-se à demora para a sua obtenção, o Segurador não é responsável pelos prejuízos direta ou indiretamente daí resultantes limitando-se à obrigação de indemnizar pelo custo das peças ou sobressalentes.",
+            "BlocoType": "texto",
+            "docPage_ini": 22,
+            "docPage_end": 22,
+            "ClausulaOuTopico": "SEGURO AUTOMÓVEL FACULTATIVO, CLÁUSULA 8ª. RESSARCIMENTO DOS DANOS NO VEÍCULO SEGURO"
+        },
+        {
+            "BlocoID": 33,
+            "BlocoMetadata": "Redução e reposição do valor seguro após um sinistro. O montante da indemnização é deduzido ao valor seguro, que pode ser reposto mediante proposta do Tomador e aceitação do Segurador.",
+            "BlocoContent": "CLÁUSULA 9ª. REDUÇÃO E REPOSIÇÃO DO VALOR SEGURO\n1. O montante da indemnização será deduzido ao valor seguro, ficando este reduzido daquele valor desde a data do sinistro até ao vencimento anual do contrato.\n2. O Tomador do Seguro pode propor a reposição do valor seguro, ficando esta dependente da aceitação do Segurador.",
+            "BlocoType": "texto",
+            "docPage_ini": 22,
+            "docPage_end": 22,
+            "ClausulaOuTopico": "SEGURO AUTOMÓVEL FACULTATIVO, CLÁUSULA 9ª. REDUÇÃO E REPOSIÇÃO DO VALOR SEGURO"
+        }
+    ]
+}

@@ -1,0 +1,946 @@
+```json
+{
+  "totalChunks": 182,
+  "page": 92,
+  "items": [
+    {
+      "chunkID": 1,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Informações Gerais",
+      "chunkContent": "FIDELIDADE SEGUROS DESDE 1808. SEGURO AUTOMÓVEL LIBER 3G. CONDIÇÕES GERAIS - 58, CONDIÇÕES ESPECIAIS. Fidelidade - Companhia de Seguros, S.A. - NIPC e Matrícula 500 918 880, na CRC Lisboa. Sede: Largo do Calhariz, 30 1249-001 Lisboa - Portugal. Capital Social EUR 509.263.524. Apoio ao Cliente: Dias úteis das 9h às 20h. T. 217 94 87 01 Chamada para a rede fixa nacional. E. apoiocliente@fidelidade.pt. www.fidelidade.pt",
+      "chunkType": "texto",
+      "docPage": 1
+    },
+    {
+      "chunkID": 2,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Cláusula Preliminar",
+      "chunkContent": "CLÁUSULA PRELIMINAR\n1. Entre a Fidelidade - Companhia de Seguros, S.A., adiante designada por Segurador, e o Tomador do Seguro mencionado nas Condições Particulares, estabelece-se um contrato de seguro que se regula pelas presentes Condições Gerais e pelas Condições Particulares, e ainda, se contratadas, pelas Condições Especiais.\n2. A individualização do presente contrato é efetuada nas Condições Particulares, com, entre outros, a identificação das partes e do respetivo domicílio, os dados do Segurado, os dados do representante do Segurador para efeito dos sinistros, e a determinação do prémio ou a fórmula do respetivo cálculo.\n3. As Condições Especiais preveem a cobertura de outros riscos e ou garantias além dos previstos nas presentes Condições Gerais e carecem de ser especificamente identificadas nas Condições Particulares.\n4. Compõem ainda o presente contrato, além das Condições previstas nos números anteriores e que constituem a apólice, os documentos previstos na Cláusula 21ª, bem como as mensagens publicitárias concretas e objetivas que contrariem cláusulas da apólice, salvo se estas forem mais favoráveis ao Tomador do Seguro ou ao terceiro lesado.\n5. Não se aplica o previsto no número anterior relativamente às mensagens publicitárias cujo fim de emissão tenha ocorrido há mais de um ano em relação à celebração do contrato, ou quando as próprias mensagens fixem um período de vigência e o contrato tenha sido celebrado fora desse período.\n6. A apólice indica o sítio da Internet do Segurador onde é disponibilizado de forma fácil, gratuita e suscetível de impressão o texto do Capítulo III do Título II do Decreto-Lei n.º 291/2007, de 21 de agosto.",
+      "chunkType": "texto",
+      "docPage": 3
+    },
+    {
+      "chunkID": 3,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo I | Cláusula 1ª - Definições",
+      "chunkContent": "CAPÍTULO I - DEFINIÇÕES, OBJETO E GARANTIAS DO CONTRATO\nCLÁUSULA 1ª. DEFINIÇÕES\nPara efeitos do presente contrato entende-se por:\nApólice - Conjunto de Condições identificado na Cláusula anterior e na qual é formalizado o contrato de seguro celebrado;\nSegurador - A entidade legalmente autorizada para a exploração do Seguro Obrigatório de Responsabilidade Civil Automóvel, que subscreve o presente contrato;\nTomador do Seguro - A pessoa ou entidade que contrata com o Segurador, sendo responsável pelo pagamento do prémio.\nSegurado - A pessoa ou entidade titular do interesse seguro;\nTerceiro - Aquele que, em consequência de um sinistro coberto por este contrato, sofra um dano suscetível de, nos termos da lei civil e desta apólice, ser reparado ou indemnizado;\nSinistro - A verificação, total ou parcial, do evento que desencadeia o acionamento da cobertura do risco prevista no contrato, considerando-se como um único sinistro o evento ou série de eventos resultante de uma mesma causa;\nDano corporal - Prejuízo resultante de lesão da saúde física ou mental;\nDano material - Prejuízo resultante de lesão de coisa móvel, imóvel ou animal;\nFranquia - Valor da regularização do sinistro nos termos do contrato de seguro que não fica a cargo do Segurador.",
+      "chunkType": "texto",
+      "docPage": 3
+    },
+    {
+      "chunkID": 4,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo I | Cláusula 2ª - Objeto do Contrato",
+      "chunkContent": "CLÁUSULA 2ª. OBJETO DO CONTRATO\n1. O presente contrato destina-se a cumprir a obrigação de seguro de responsabilidade civil automóvel, fixada no Artigo 4.º do Decreto-Lei n.º 291/2007, de 21 de agosto.\n2. O presente contrato garante, até aos limites e nas condições legalmente estabelecidas:\na) A responsabilidade civil do Tomador do Seguro, proprietário do veículo, usufrutuário, adquirente com reserva de propriedade ou locatário em regime de locação financeira, bem como dos seus legítimos detentores e condutores, pelos danos, corporais e materiais, causados a terceiros;\nb) A satisfação da reparação devida pelos autores de furto, roubo, furto de uso de veículos ou de acidentes de viação dolosamente provocados.",
+      "chunkType": "texto",
+      "docPage": 3
+    },
+    {
+      "chunkID": 5,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo I | Cláusula 3ª - Âmbito Territorial e Temporal",
+      "chunkContent": "CLÁUSULA 3ª. ÂMBITO TERRITORIAL E TEMPORAL\n1. O presente contrato abrange a responsabilidade civil emergente de acidentes ocorridos:\na) Na totalidade dos territórios dos países cujos serviços nacionais de seguros tenham aderido ao Acordo entre os serviços nacionais de seguros, incluindo as estadias do veículo nalgum deles durante o período de vigência contratual;\nb) No trajeto que ligue diretamente dois territórios onde o Acordo do Espaço Económico Europeu é aplicável, quando nele não exista serviço nacional de seguros.\n2. Os países referidos na alínea a) do número anterior são, concretamente, os Estados membros da União Europeia, os demais países membros do Espaço Económico Europeu (Islândia, Liechtenstein e Noruega), e ainda o Reino Unido (Grã-Bretanha e Irlanda do Norte), Suíça, Ilhas Faroé, Ilhas da Mancha, Gilbraltar, Ilha de Man, República de São Marino, Estado do Vaticano, Andorra e Sérvia, bem como os outros países cujos serviços nacionais de seguros adiram ao mencionado Acordo e que venham a ser indicados no contrato ou nos respetivos documentos probatórios.\n3. O contrato pode ainda abranger a responsabilidade civil decorrente da circulação do veículo em outros territórios para além dos mencionados no n.º 1, concretamente nos de Estados onde exista um serviço nacional de seguros que tenha aderido à secção II do Regulamento anexo ao Acordo entre os serviços nacionais de seguros, desde que seja garantida por um certificado internacional de seguro ('carta verde') válido para a circulação nesses países.\n4. O presente contrato cobre a responsabilidade civil por acidentes ocorridos no período de vigência do contrato nos termos legais aplicáveis.",
+      "chunkType": "texto",
+      "docPage": 4
+    },
+    {
+      "chunkID": 6,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo I | Cláusula 4ª - Âmbito Material",
+      "chunkContent": "CLÁUSULA 4ª. ÂMBITO MATERIAL\n1. O presente contrato abrange:\na) Relativamente aos acidentes ocorridos no território de Portugal a obrigação de indemnizar estabelecida na lei civil;\nb) Relativamente aos acidentes ocorridos nos demais territórios dos países cujos serviços nacionais de seguros tenham aderido ao Acordo entre os serviços nacionais de seguros, a obrigação de indemnizar estabelecida na lei aplicável ao acidente, a qual, nos acidentes ocorridos nos territórios onde seja aplicado o Acordo do Espaço Económico Europeu, é substituída pela lei portuguesa sempre que esta estabeleça uma cobertura superior;\nc) Relativamente aos acidentes ocorridos no trajeto previsto na alínea b) do n.º 1 da Cláusula anterior, apenas os danos de residentes em Estados membros e países cujos serviços nacionais de seguros tenham aderido ao Acordo entre os serviços nacionais de seguros e nos termos da lei portuguesa.\n2. O presente contrato abrange os danos sofridos por peões, ciclistas e outros utilizadores não motorizados das estradas apenas quando e na medida em que a lei aplicável à responsabilidade civil decorrente do acidente automóvel determine o ressarcimento desses danos.",
+      "chunkType": "texto",
+      "docPage": 4
+    },
+    {
+      "chunkID": 7,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo I | Cláusula 5ª - Exclusões da Garantia Obrigatória",
+      "chunkContent": "CLÁUSULA 5ª. EXCLUSÕES DA GARANTIA OBRIGATÓRIA\n1. Excluem-se da garantia obrigatória do seguro os danos corporais sofridos pelo condutor do veículo seguro responsável pelo acidente, assim como os danos decorrentes daqueles.\n2. Excluem-se igualmente da garantia obrigatória do seguro quaisquer danos materiais causados às seguintes pessoas: a) Condutor do veículo responsável pelo acidente; b) Tomador do Seguro; c) Todos aqueles cuja responsabilidade é, nos termos legais, garantida, nomeadamente em consequência da compropriedade do veículo seguro; d) Sociedades ou representantes legais das pessoas coletivas responsáveis pelo acidente, quando no exercício das suas funções; e) Cônjuge, ascendentes, descendentes ou adotados das pessoas referidas nas alíneas a) a c), assim como outros parentes ou afins até ao 3.º grau das mesmas pessoas, mas, neste último caso, só quando elas coabitem ou vivam a seu cargo; f) Aqueles que, nos termos dos Artigos 495.°, 496.º e 499.º do Código Civil, beneficiem de uma pretensão indemnizatória decorrente de vínculos com alguma das pessoas referidas nas alíneas anteriores; g) A passageiros, quando transportados em contravenção às regras relativas ao transporte de passageiros constantes do Código da Estrada.\n3. No caso de falecimento, em consequência do acidente, de qualquer das pessoas referidas nas alíneas e) e f) do número anterior, é excluída qualquer indemnização ao responsável do acidente.\n4. Excluem-se igualmente da garantia obrigatória do seguro: a) Os danos causados no próprio veículo seguro; b) Os danos causados nos bens transportados no veículo seguro; c) Quaisquer danos causados a terceiros em consequência de operações de carga e descarga; d) Os danos devidos, direta ou indiretamente, a explosão, libertação de calor ou radiação, provenientes de desintegração ou fusão de átomos, aceleração artificial de partículas ou radioatividade; e) Quaisquer danos ocorridos durante provas desportivas e respetivos treinos oficiais, salvo tratando-se de seguro de provas desportivas.\n5. Nos casos de roubo, furto ou furto de uso de veículos e acidentes de viação dolosamente provocados, o seguro não garante a satisfação das indemnizações devidas pelos respetivos autores e cúmplices para com o proprietário, usufrutuário, adquirente com reserva de propriedade ou locatário em regime de locação financeira, nem para com os autores ou cúmplices ou para com os passageiros transportados que tivessem conhecimento da posse ilegítima do veículo e de livre vontade nele fossem transportados.",
+      "chunkType": "texto",
+      "docPage": 4
+    },
+    {
+      "chunkID": 8,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo II | Cláusula 6ª - Dever de Declaração Inicial do Risco",
+      "chunkContent": "CAPÍTULO II - DECLARAÇÃO DO RISCO, INICIAL E SUPERVENIENTE\nCLÁUSULA 6ª. DEVER DE DECLARAÇÃO INICIAL DO RISCO\n1. O Tomador do Seguro ou o Segurado está obrigado, antes da celebração do contrato, a declarar com exatidão todas as circunstâncias que conheça e razoavelmente deva ter por significativas para a apreciação do risco pelo Segurador.\n2. O disposto no número anterior é igualmente aplicável a circunstâncias cuja menção não seja solicitada em questionário eventualmente fornecido pelo Segurador para o efeito.\n3. O Segurador que tenha aceitado o contrato, salvo havendo dolo do Tomador do Seguro ou do Segurado com o propósito de obter uma vantagem, não pode prevalecer-se: a) Da omissão de resposta a pergunta do questionário; b) De resposta imprecisa a questão formulada em termos demasiado genéricos; c) De incoerência ou contradição evidente nas respostas ao questionário; d) De facto que o seu representante, aquando da celebração do contrato, saiba ser inexato ou, tendo sido omitido, conheça; e) De circunstâncias conhecidas do Segurador, em especial quando são públicas e notórias.\n4. O Segurador, antes da celebração do contrato, deve esclarecer o eventual Tomador do Seguro ou o Segurado acerca do dever referido no n.º 1, bem como do regime do seu incumprimento, sob pena de incorrer em responsabilidade civil, nos termos gerais.",
+      "chunkType": "texto",
+      "docPage": 5
+    },
+    {
+      "chunkID": 9,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo II | Cláusula 7ª - Incumprimento Doloso do Dever de Declaração Inicial do Risco",
+      "chunkContent": "CLÁUSULA 7ª. INCUMPRIMENTO DOLOSO DO DEVER DE DECLARAÇÃO INICIAL DO RISCO\n1. Em caso de incumprimento doloso do dever referido no n.º 1 da Cláusula anterior, o contrato é anulável mediante declaração enviada pelo Segurador ao Tomador do Seguro.\n2. Não tendo ocorrido sinistro, a declaração referida no número anterior deve ser enviada no prazo de três meses a contar do conhecimento daquele incumprimento.\n3. O Segurador não está obrigado a cobrir o sinistro que ocorra antes de ter tido conhecimento do incumprimento doloso referido no n.º 1 ou no decurso do prazo previsto no número anterior, seguindo-se o regime geral da anulabilidade.\n4. O Segurador tem direito ao prémio devido até ao final do prazo referido no n.º 2, salvo se tiver concorrido dolo ou negligência grosseira do Segurador ou do seu representante.\n5. Em caso de dolo do Tomador do Seguro ou do Segurado com o propósito de obter uma vantagem, o prémio é devido até ao termo do contrato.",
+      "chunkType": "texto",
+      "docPage": 6
+    },
+    {
+      "chunkID": 10,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo II | Cláusula 8ª - Incumprimento Negligente do Dever de Declaração Inicial do Risco",
+      "chunkContent": "CLÁUSULA 8ª. INCUMPRIMENTO NEGLIGENTE DO DEVER DE DECLARAÇÃO INICIAL DO RISCO\n1. Em caso de incumprimento com negligência do dever referido no n.º 1 da Cláusula 6.ª, o Segurador pode, mediante declaração a enviar ao Tomador do Seguro, no prazo de três meses a contar do seu conhecimento: a) Propor uma alteração do contrato, fixando um prazo, não inferior a 14 dias, para o envio da aceitação ou, caso a admita, da contraproposta; b) Fazer cessar o contrato, demonstrando que, em caso algum, celebra contratos para a cobertura de riscos relacionados com o facto omitido ou declarado inexatamente.\n2. O contrato cessa os seus efeitos 30 dias após o envio da declaração de cessação ou 20 dias após a receção pelo Tomador do Seguro da proposta de alteração, caso este nada responda ou a rejeite.\n3. No caso referido no número anterior, o prémio é devolvido pro rata temporis atendendo à cobertura havida.\n4. Se, antes da cessação ou da alteração do contrato, ocorrer um sinistro cuja verificação ou consequências tenham sido influenciadas por facto relativamente ao qual tenha havido omissões ou inexatidões negligentes: a) O Segurador cobre o sinistro na proporção da diferença entre o prémio pago e o prémio que seria devido, caso, aquando da celebração do contrato, tivesse conhecido o facto omitido ou declarado inexatamente; b) O Segurador, demonstrando que, em caso algum, teria celebrado o contrato se tivesse conhecido o facto omitido ou declarado inexatamente, não cobre o sinistro e fica apenas vinculado à devolução do prémio.",
+      "chunkType": "texto",
+      "docPage": 6
+    },
+    {
+      "chunkID": 11,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo II | Cláusula 9ª - Agravamento do Risco",
+      "chunkContent": "CLÁUSULA 9ª. AGRAVAMENTO DO RISCO\n1. O Tomador do Seguro ou o Segurado tem o dever de, durante a execução do contrato, no prazo de 14 dias a contar do conhecimento do facto, comunicar ao Segurador todas as circunstâncias que agravem o risco, desde que estas, caso fossem conhecidas pelo Segurador aquando da celebração do contrato, tivessem podido influir na decisão de contratar ou nas condições do contrato.\n2. No prazo de 30 dias a contar do momento em que tenha conhecimento do agravamento do risco, o Segurador pode: a) Apresentar ao Tomador do Seguro proposta de modificação do contrato, que este deve aceitar ou recusar em igual prazo, findo o qual se entende aprovada a modificação proposta; b) Resolver o contrato, demonstrando que, em caso algum, celebra contratos que cubram riscos com as características resultantes desse agravamento do risco.\n3. A resolução produz efeitos decorridos que sejam quinze dias sobre a data da sua comunicação.",
+      "chunkType": "texto",
+      "docPage": 7
+    },
+    {
+      "chunkID": 12,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo II | Cláusula 10ª - Sinistro e Agravamento do Risco",
+      "chunkContent": "CLÁUSULA 10ª. SINISTRO E AGRAVAMENTO DO RISCO\n1. Se antes da cessação ou da alteração do contrato nos termos previstos na Cláusula anterior ocorrer o sinistro cuja verificação ou consequência tenha sido influenciada pelo agravamento do risco, o Segurador: a) Cobre o risco, efetuando a prestação convencionada, se o agravamento tiver sido correta e tempestivamente comunicado antes do sinistro ou antes de decorrido o prazo previsto no n.º 1 da Cláusula anterior; b) Cobre parcialmente o risco, reduzindo-se a sua prestação na proporção entre o prémio efetivamente cobrado e aquele que seria devido em função das reais circunstâncias do risco, se o agravamento não tiver sido correta e tempestivamente comunicado antes do sinistro; c) Pode recusar a cobertura em caso de comportamento doloso do Tomador do Seguro ou do Segurado com o propósito de obter uma vantagem, mantendo direito aos prémios vencidos.\n2. Na situação prevista nas alíneas a) e b) do número anterior, sendo o agravamento do risco resultante de facto do Tomador do Seguro ou do Segurado, o Segurador não está obrigado ao pagamento da prestação se demonstrar que, em caso algum, celebra contratos que cubram riscos com as características resultantes desse agravamento do risco.",
+      "chunkType": "texto",
+      "docPage": 7
+    },
+    {
+      "chunkID": 13,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo III | Cláusulas 11ª, 12ª, 13ª - Pagamento e Prémios",
+      "chunkContent": "CAPÍTULO III - PAGAMENTO E ALTERAÇÃO DOS PRÉMIOS\nCLÁUSULA 11ª. VENCIMENTO DOS PRÉMIOS\n1. Salvo convenção em contrário, o prémio inicial, ou a primeira fração deste, é devido na data da celebração do contrato.\n2. As frações seguintes do prémio inicial, o prémio de anuidades subsequentes e as sucessivas frações deste são devidos nas datas estabelecidas no contrato.\n3. A parte do prémio de montante variável relativa a acerto do valor e, quando seja o caso, a parte do prémio correspondente a alterações ao contrato são devidas nas datas indicadas nos respetivos avisos.\nCLÁUSULA 12ª. COBERTURA\nA cobertura dos riscos depende do prévio pagamento do prémio.\nCLÁUSULA 13ª. AVISO DE PAGAMENTO DOS PRÉMIOS\n1. Na vigência do contrato, o Segurador deve avisar por escrito o Tomador do Seguro do montante a pagar, assim como da forma e do lugar de pagamento, com uma antecedência mínima de 30 dias em relação à data em que se vence o prémio, ou frações deste.\n2. Do aviso devem constar, de modo legível, as consequências da falta de pagamento do prémio ou de sua fração.\n3. Nos contratos de seguro em que seja convencionado o pagamento do prémio em frações de periodicidade igual ou inferior a três meses e em cuja documentação contratual se indiquem as datas de vencimento das sucessivas frações do prémio e os respetivos valores a pagar, bem como as consequências do seu não pagamento, o Segurador pode optar por não enviar o aviso referido no n.º 1, cabendo-lhe, nesse caso, a prova da emissão, da aceitação e do envio ao Tomador do Seguro da documentação contratual referida neste número.",
+      "chunkType": "texto",
+      "docPage": 7
+    },
+    {
+      "chunkID": 14,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo III | Cláusula 14ª - Falta de Pagamento dos Prémios",
+      "chunkContent": "CLÁUSULA 14ª. FALTA DE PAGAMENTO DOS PRÉMIOS\n1. A falta de pagamento do prémio inicial, ou da primeira fração deste, na data do vencimento, determina a resolução automática do contrato a partir da data da sua celebração.\n2. A falta de pagamento do prémio de anuidades subsequentes, ou da primeira fração deste, na data do vencimento, impede a prorrogação do contrato.\n3. A falta de pagamento determina a resolução automática do contrato na data do vencimento de: a) Uma fração do prémio no decurso de uma anuidade; b) Um prémio de acerto ou parte de um prémio de montante variável; c) Um prémio adicional resultante de uma modificação do contrato fundada num agravamento superveniente do risco.\n4. O não pagamento, até à data do vencimento, de um prémio adicional resultante de uma modificação contratual determina a ineficácia da alteração, subsistindo o contrato com o âmbito e nas condições que vigoravam antes da pretendida modificação, a menos que a subsistência do contrato se revele impossível, caso em que se considera resolvido na data do vencimento do prémio não pago.",
+      "chunkType": "texto",
+      "docPage": 8
+    },
+    {
+      "chunkID": 15,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo III | Cláusula 15ª - Alteração do Prémio",
+      "chunkContent": "CLÁUSULA 15ª. ALTERAÇÃO DO PRÉMIO\n1. Não havendo alteração no risco, qualquer alteração do prémio aplicável ao contrato apenas pode efetuar-se no vencimento anual seguinte.\n2. A alteração do prémio por aplicação das bonificações por ausência de sinistros ou dos agravamentos por sinistralidade, regulados no Capítulo VIII, é aplicada no vencimento seguinte à data da constatação do facto.\n3. Para além da variação prevista no n.º 2, a alteração do prémio pode ocorrer pela combinação de diversos fatores, tais como a alteração de capitais, a inflação específica dos serviços associados à regularização de sinistros e a evolução da sinistralidade da carteira.",
+      "chunkType": "texto",
+      "docPage": 8
+    },
+    {
+      "chunkID": 16,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo IV | Cláusulas 16ª, 17ª, 18ª - Início, Duração e Resolução",
+      "chunkContent": "CAPÍTULO IV - INÍCIO DE EFEITOS, DURAÇÃO E VICISSITUDES DO CONTRATO\nCLÁUSULA 16ª. INÍCIO DA COBERTURA E DE EFEITOS\n1. O dia e hora do início da cobertura dos riscos são indicados nas Condições Particulares do contrato, e o dia no documento comprovativo do seguro, atendendo ao previsto na Cláusula 12ª.\n2. O fixado no número anterior é igualmente aplicável ao início de efeitos do contrato, caso distinto do início da cobertura dos riscos.\nCLÁUSULA 17ª. DURAÇÃO\n1. A duração do contrato é indicada nas Condições Particulares e no documento comprovativo do seguro, podendo ser por período certo e determinado (seguro temporário) ou por um ano prorrogável por novos períodos de um ano.\n2. Os efeitos do contrato cessam às 24 horas do último dia do seu prazo.\n3. A prorrogação prevista no n.º 1 não se efetua se qualquer das partes denunciar o contrato com 30 dias de antecedência mínima em relação à data da prorrogação, ou se o Tomador do Seguro não proceder ao pagamento do prémio.\nCLÁUSULA 18ª. RESOLUÇÃO DO CONTRATO\n1. O contrato pode ser resolvido pelas partes a todo o tempo, havendo justa causa, mediante correio registado.\n2. O Segurador não pode invocar a ocorrência de sinistro como causa relevante para o efeito previsto no número anterior.",
+      "chunkType": "texto",
+      "docPage": 8
+    },
+    {
+      "chunkID": 17,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo IV | Cláusula 18ª e 19ª - Resolução e Alienação do Veículo",
+      "chunkContent": "CLÁUSULA 18ª. RESOLUÇÃO DO CONTRATO (continuação)\n3. O montante do prémio a devolver ao Tomador do Seguro em caso de cessação antecipada do contrato é calculado proporcionalmente ao período de tempo que decorreria da data da cessação da cobertura até ao vencimento do contrato, salvo convenção em contrário nos termos legais.\n4. Sempre que o contrato for resolvido, o Tomador do Seguro devolve ao Segurador o certificado e o dístico comprovativos da existência de seguro, se estes tiverem data de validade posterior à da resolução, no prazo de 8 dias a contar do momento em que aquela produziu efeitos.\n5. A devolução dos documentos previstos no número anterior funciona como condição suspensiva da devolução do prémio, salvo motivo atendível que impeça a devolução.\n6. A resolução do contrato produz os seus efeitos às 24 horas do dia em que seja eficaz.\n7. Sempre que o Tomador do Seguro não coincida com o Segurado, o Segurador deve avisar o Segurado da resolução do contrato logo que possível, no máximo até 20 dias após a não renovação ou resolução.\n8. A resolução produz efeitos decorridos que sejam quinze dias sobre a data da sua comunicação.\nCLÁUSULA 19ª. ALIENAÇÃO DO VEÍCULO\n1. O contrato de seguro não se transmite em caso de alienação do veículo, cessando os seus efeitos às 24 horas do próprio dia da alienação, salvo se for utilizado pelo próprio Tomador do Seguro para segurar novo veículo.\n2. O Tomador do Seguro avisa o Segurador, por escrito, da alienação do veículo, nas 24 horas seguintes à mesma, devendo juntar o certificado provisório do seguro, o certificado de responsabilidade civil ou o aviso-recibo e o certificado internacional de seguro ('carta verde').\n3. Na falta de cumprimento da obrigação de aviso prevista no número anterior, o Segurador tem direito a uma indemnização de valor igual ao montante do prémio correspondente ao período de tempo que decorre entre o momento da alienação do veículo e o termo da anuidade do seguro em que esta se verifique, sem prejuízo de terem cessado os efeitos do contrato, nos termos do disposto no n.º 1.\n4. As partes podem limitar a sanção prevista no número anterior em função do tempo efetivo de duração do incumprimento aí previsto.\n5. Na comunicação da alienação do veículo ao Segurador, o Tomador do Seguro pode solicitar a suspensão dos efeitos do contrato, até à substituição do veículo, com prorrogação do prazo de validade da apólice.\n6. Não se dando a substituição do veículo dentro de 120 dias contados da data do pedido de suspensão, não há lugar à prorrogação do prazo, pelo que o contrato considera-se resolvido desde a data do início da suspensão, sendo o prémio a devolver pelo Segurador calculado de acordo com o n.º 3 da Cláusula anterior.",
+      "chunkType": "texto",
+      "docPage": 9
+    },
+    {
+      "chunkID": 18,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo IV | Cláusula 20ª - Transmissão de Direitos",
+      "chunkContent": "CLÁUSULA 20ª. TRANSMISSÃO DE DIREITOS\nSalvo convenção em contrário, o falecimento do Tomador do Seguro não faz caducar o contrato, sucedendo os seus herdeiros nos respetivos direitos e obrigações nos termos da lei.",
+      "chunkType": "texto",
+      "docPage": 9
+    },
+    {
+      "chunkID": 19,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo V | Cláusula 21ª - Prova de Seguro",
+      "chunkContent": "CAPÍTULO V - PROVA DO SEGURO\nCLÁUSULA 21ª. PROVA DE SEGURO\n1. Constitui documento comprovativo do presente contrato de seguro: a) Relativamente a veículos com estacionamento habitual em Portugal, o certificado internacional de seguro (carta verde), o certificado provisório, o aviso-recibo, ou o certificado de responsabilidade civil, quando válidos; b) Relativamente a veículos com estacionamento habitual fora do território do Espaço Económico Europeu, os documentos previstos na alínea anterior e ainda o certificado de seguro de fronteira, quando válido.\n2. Tratando-se de contrato cujo pagamento do prémio se efetue em frações inferiores ao quadrimestre e relativamente ao qual o Segurador tenha optado pelo regime de emissão automática apenas de certificados provisórios, o Tomador do Seguro tem o direito de solicitar a emissão do certificado internacional de seguro, que será emitido em 5 dias úteis e sem encargos adicionais.",
+      "chunkType": "texto",
+      "docPage": 9
+    },
+    {
+      "chunkID": 20,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo V | Cláusula 22ª - Intervenção de Mediador de Seguros",
+      "chunkContent": "CLÁUSULA 22ª. INTERVENÇÃO DE MEDIADOR DE SEGUROS\n1. Nenhum mediador de seguros se presume autorizado a, em nome do Segurador, celebrar ou extinguir contratos de seguro, a contrair ou alterar as obrigações deles emergentes ou a validar declarações adicionais, salvo o disposto nos números seguintes.\n2. Pode celebrar contratos de seguro, contrair ou alterar as obrigações deles emergentes ou validar declarações adicionais, em nome do Segurador, o mediador de seguros ao qual o Segurador tenha conferido, por escrito, os necessários poderes.\n3. Não obstante a carência de poderes específicos para o efeito da parte do mediador de seguros, o seguro considera-se eficaz quando existam razões ponderosas, objetivamente apreciadas, tendo em conta as circunstâncias do caso, que justifiquem a confiança do Tomador do Seguro de boa fé na legitimidade do mediador, desde que o Segurador tenha igualmente contribuído para fundar a confiança do Tomador do Seguro.",
+      "chunkType": "texto",
+      "docPage": 10
+    },
+    {
+      "chunkID": 21,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo VI | Cláusula 23ª - Limites da Prestação",
+      "chunkContent": "CAPÍTULO VI - PRESTAÇÃO PRINCIPAL DO SEGURADOR\nCLÁUSULA 23ª. LIMITES DA PRESTAÇÃO\n1. A responsabilidade do Segurador é sempre limitada à importância máxima fixada nas Condições Particulares da apólice, seja qual for o número de pessoas lesadas por um sinistro, e corresponde, em cada momento, pelo menos ao capital mínimo obrigatório.\n2. Salvo convenção em contrário, estabelecida nas Condições Particulares: a) Quando a indemnização atribuída aos lesados for igual ou exceder o capital seguro, o Segurador não responde pelas despesas judiciais; b) Quando a indemnização atribuída aos lesados for inferior, o Segurador responde pela indemnização e pelas mesmas despesas até ao limite do capital seguro.",
+      "chunkType": "texto",
+      "docPage": 10
+    },
+    {
+      "chunkID": 22,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo VI | Cláusula 24ª - Franquia",
+      "chunkContent": "CLÁUSULA 24ª. FRANQUIA\n1. Mediante convenção expressa, pode ficar a cargo do Tomador do Seguro ou do Segurado uma parte da indemnização devida a terceiros, não sendo, porém, esta limitação de garantia oponível a estes.\n2. Compete ao Segurador, em caso de pedido de indemnização de terceiros, responder integralmente pela indemnização devida, sem prejuízo do direito a ser reembolsado pelo obrigado nos termos do previsto no n.º 1 do valor da franquia aplicada.",
+      "chunkType": "texto",
+      "docPage": 10
+    },
+    {
+      "chunkID": 23,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo VI | Cláusula 25ª - Pluralidade de Seguros",
+      "chunkContent": "CLÁUSULA 25ª. PLURALIDADE DE SEGUROS\nNo caso de, relativamente ao mesmo veículo, existirem vários seguros, responde, em primeiro lugar e, para todos os efeitos legais, o seguro de provas desportivas, ou, em caso de inexistência deste, o seguro de garagista ou, em caso de inexistência destes dois, o seguro de automobilista ou, em caso de inexistência destes três, o contrato residual, celebrado nos termos do n.º 2 do Artigo 6.° do Decreto-Lei n.º 291/2007, de 21 de agosto, ou, em caso de inexistência destes quatro, o seguro do proprietário do veículo, ou dos outros sujeitos da obrigação de segurar.",
+      "chunkType": "texto",
+      "docPage": 10
+    },
+    {
+      "chunkID": 24,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo VI | Cláusula 26ª - Insuficiência do Capital",
+      "chunkContent": "CLÁUSULA 26ª. INSUFICIÊNCIA DO CAPITAL\n1. Se existirem vários lesados pelo mesmo sinistro com direito a indemnizações que, na sua globalidade, excedam o montante do capital seguro, os direitos dos lesados contra o Segurador reduzem-se proporcionalmente até à concorrência daquele montante.\n2. O Segurador que, de boa fé e por desconhecimento da existência de outras pretensões, tiver liquidado a um lesado uma indemnização de valor superior à que lhe competiria nos termos do número anterior, não fica obrigado para com os outros lesados senão até perfazer a parte restante do capital seguro.",
+      "chunkType": "texto",
+      "docPage": 10
+    },
+    {
+      "chunkID": 25,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo VII | Cláusula 27ª - Obrigações do Tomador do Seguro e do Segurado",
+      "chunkContent": "CAPÍTULO VII - OBRIGAÇÕES E DIREITOS DAS PARTES\nCLÁUSULA 27ª. OBRIGAÇÕES DO TOMADOR DO SEGURO E DO SEGURADO\n1. Em caso de sinistro coberto pelo presente contrato, o Tomador do Seguro ou o Segurado, sob pena de responderem por perdas e danos, obrigam-se: a) A comunicar tal facto, por escrito, ao Segurador, no mais curto prazo de tempo possível, nunca superior a 8 dias a contar do dia da ocorrência ou do dia em que tenha conhecimento da mesma, fornecendo todas as indicações e provas documentais e ou testemunhais relevantes para uma correta determinação das responsabilidades; b) A tomar as medidas ao seu alcance no sentido de evitar ou limitar as consequências do sinistro; c) A prestar ao Segurador as informações relevantes que este solicite relativas ao sinistro e às suas consequências.\n2. A comunicação do sinistro, prevista na alínea a) do número anterior, deve ser feita em impresso próprio fornecido pelo Segurador ou disponível no seu sítio na Internet, ou por qualquer outro meio de comunicação que possa ser utilizado sem a presença física e simultânea das partes, desde que dela fique registo escrito ou gravado.\n3. A responsabilidade por perdas e danos prevista no n.º 1 não é aplicável quando o Segurador tiver conhecimento do sinistro por outro meio durante os 8 dias previstos na respetiva alínea a), ou o obrigado à comunicação prove que não poderia razoavelmente ter procedido à comunicação devida em momento anterior àquele em que o fez.",
+      "chunkType": "texto",
+      "docPage": 11
+    },
+    {
+      "chunkID": 26,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo VII | Cláusula 27ª - Proibições do Tomador do Seguro e do Segurado",
+      "chunkContent": "4. O Tomador do Seguro e o Segurado não podem, sob pena de responderem por perdas e danos: a) Abonar extrajudicialmente a indemnização reclamada ou adiantar dinheiro, por conta, em nome ou sob a responsabilidade do Segurador, sem a sua expressa autorização; b) Dar ocasião, ainda que por omissão ou negligência, a sentença favorável a terceiro ou, quando não der imediato conhecimento ao Segurador, a qualquer procedimento judicial intentado contra ele por motivo de sinistro a coberto da apólice; c) Prejudicar o direito de sub-rogação do Segurador nos direitos do Segurado contra o terceiro responsável pelo sinistro, decorrente da cobertura do sinistro por aquele.",
+      "chunkType": "texto",
+      "docPage": 11
+    },
+    {
+      "chunkID": 27,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo VII | Cláusula 28ª - Obrigação de Reembolso pelo Segurador",
+      "chunkContent": "CLÁUSULA 28ª. OBRIGAÇÃO DE REEMBOLSO PELO SEGURADOR DAS DESPESAS HAVIDAS COM O AFASTAMENTO E MITIGAÇÃO DO SINISTRO\n1. O Segurador paga ao Tomador do Seguro ou ao Segurado as despesas efetuadas em cumprimento do dever fixado na alínea b) do n.º 1 da Cláusula anterior, desde que razoáveis e proporcionadas, ainda que os meios empregados se revelem ineficazes.\n2. As despesas indicadas no número anterior devem ser pagas pelo Segurador antecipadamente à data da regularização do sinistro, quando o Tomador do Seguro ou o Segurado exija o reembolso, as circunstâncias o não impeçam e o sinistro esteja coberto pelo seguro.\n3. O valor devido pelo Segurador nos termos do n.º 1 é deduzido ao montante do capital seguro disponível, salvo se corresponder a despesas efetuadas em cumprimento de determinações concretas do Segurador ou a sua cobertura autónoma resultar do contrato.",
+      "chunkType": "texto",
+      "docPage": 11
+    },
+    {
+      "chunkID": 28,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo VII | Cláusula 29ª - Obrigações do Segurador",
+      "chunkContent": "CLÁUSULA 29ª. OBRIGAÇÕES DO SEGURADOR\n1. O Segurador substitui o Segurado na regularização amigável ou litigiosa de qualquer sinistro que, ao abrigo do presente contrato, ocorra durante o período de vigência do mesmo, sujeitando-se à ação direta de terceiros lesados ou respetivos herdeiros. Quando o Segurado e o lesado tiverem contratado um seguro com o mesmo Segurador ou existindo qualquer outro conflito de interesses, o Segurado, frustrada a resolução do litígio por acordo, pode confiar a sua defesa a quem entender, não assumindo o Segurador quaisquer custos daí decorrentes.\n2. O Segurador notifica o Tomador do Seguro das reclamações apresentadas por terceiros, mencionando expressamente que, caso não efetue a participação do sinistro, lhe será aplicável a sanção prevista na parte final do n.º 3 do Artigo 34.° do Decreto-Lei n.º 291/2007, de 21 de agosto, ou outra prevista no contrato.\n3. O Segurador presta ao Tomador do Seguro e ao Segurado os esclarecimentos necessários ao correto entendimento dos procedimentos a adotar em caso de sinistro, disponibilizando informação escrita quanto aos prazos a que se compromete, tendo em conta a tipologia dos sinistros.",
+      "chunkType": "texto",
+      "docPage": 11
+    },
+    {
+      "chunkID": 29,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo VII | Cláusula 30ª - Códigos de Conduta, Convenções ou Acordos",
+      "chunkContent": "CLÁUSULA 30ª. CÓDIGOS DE CONDUTA, CONVENÇÕES OU ACORDOS\nO Segurador, informa o Tomador do Seguro e o Segurado, da sua adesão a código de conduta, convenção ou acordo entre Seguradores destinado à regularização dos sinistros, nomeadamente que assegurem procedimentos mais céleres, identificando os respetivos subscritores e, bem assim, prestando os esclarecimentos necessários ou convenientes ao correto entendimento da sua aplicação.",
+      "chunkType": "texto",
+      "docPage": 12
+    },
+    {
+      "chunkID": 30,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo VII | Cláusula 31ª - Direito de Regresso do Segurador",
+      "chunkContent": "CLÁUSULA 31ª. DIREITO DE REGRESSO DO SEGURADOR\nSatisfeita a indemnização, o Segurador apenas tem direito de regresso:\na) Contra o causador do acidente que o tenha provocado dolosamente;\nb) Contra os autores e cúmplices de roubo, furto ou furto de uso do veículo causador do acidente, bem como, subsidiariamente, o condutor do veículo objeto de tais crimes que os devesse conhecer e causador do acidente;\nc) Contra o condutor, quando este tenha dado causa ao acidente e conduzir com uma taxa de alcoolemia superior à legalmente admitida, ou acusar consumo de estupefacientes ou outras drogas ou produtos tóxicos;\nd) Contra o condutor, se não estiver legalmente habilitado, ou quando haja abandonado o sinistrado;\ne) Contra o responsável civil por danos causados a terceiros em virtude de queda de carga decorrente de deficiência de acondicionamento;\nf) Contra o incumpridor da obrigação de seguro de responsabilidade civil do garagista;\ng) Estando o veículo à guarda de garagista, contra o responsável civil pelos danos causados pela utilização do veículo fora do âmbito da atividade profissional do garagista;\nh) Estando o veículo à guarda de garagista, e subsidiariamente ao direito previsto na alínea b), contra a pessoa responsável pela guarda cuja negligência tenha ocasionado o crime de furto, roubo ou furto de uso do veículo causador do acidente;\ni) Contra o responsável civil por danos causados a terceiros em virtude de utilização ou condução de veículos que não cumpram as obrigações legais de caráter técnico relativamente ao estado e condições de segurança do veículo, na medida em que o acidente tenha sido provocado ou agravado pelo mau funcionamento do veículo;\nj) Em especial relativamente ao previsto na alínea anterior, contra o responsável pela apresentação do veículo a inspeção periódica que, na pendência do contrato de seguro, tenha incumprido a obrigação de renovação periódica dessa apresentação, na medida em que o acidente tenha sido provocado ou agravado pelo mau funcionamento do veículo.",
+      "chunkType": "texto",
+      "docPage": 12
+    },
+    {
+      "chunkID": 31,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo VIII | Cláusula 32ª - Bonificações ou Agravamentos por Sinistralidade",
+      "chunkContent": "CAPÍTULO VIII - BONIFICAÇÕES OU AGRAVAMENTOS POR SINISTRALIDADE\nCLÁUSULA 32ª. BONIFICAÇÕES OU AGRAVAMENTOS DOS PRÉMIOS POR SINISTRALIDADE\n1. As bonificações por ausência de sinistros e os agravamentos por sinistralidade e (bonus/malus) regem-se pela tabela e disposições constantes do Anexo destas Condições Gerais.\n2. Para efeito de aplicação do regime de bónus ou de agravamento, só é considerado o sinistro que tenha dado lugar ao pagamento de indemnização ou à constituição de uma provisão e, neste último caso, desde que o Segurador tenha assumido a correspondente responsabilidade.\n3. Em caso de constituição de provisão, o Segurador pode suspender a atribuição de bónus durante o período máximo de dois anos, devendo, findo esse prazo, o mesmo ser devolvido e reposta a situação tarifária sem prejuízo para o Tomador do Seguro, caso o Segurador não tenha, entretanto, assumido a responsabilidade perante terceiros.",
+      "chunkType": "texto",
+      "docPage": 12
+    },
+    {
+      "chunkID": 32,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo VIII | Cláusula 33ª - Certificado de Tarifação",
+      "chunkContent": "CLÁUSULA 33ª. CERTIFICADO DE TARIFAÇÃO\nO Segurador entrega ao Tomador do Seguro um certificado que incida sobre os últimos cinco anos da relação contratual, identificando a existência ou a ausência de acidentes que envolvam responsabilidade civil provocados pelo veículo ou veículos cobertos pelo contrato de seguro:\na) Sempre que aquele lho solicite, e num prazo de 15 dias a contar do pedido;\nb) Sempre que a resolução do contrato seja da sua iniciativa, com uma antecedência de 30 dias em relação à data daquela.",
+      "chunkType": "texto",
+      "docPage": 13
+    },
+    {
+      "chunkID": 33,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo IX | Cláusula 34ª - Comunicações e Notificações entre as Partes",
+      "chunkContent": "CAPÍTULO IX - DISPOSIÇÕES DIVERSAS\nCLÁUSULA 34ª. COMUNICAÇÕES E NOTIFICAÇÕES ENTRE AS PARTES\n1. As comunicações ou notificações do Tomador do Seguro ou do Segurado previstas nesta apólice consideram-se válidas e eficazes caso sejam efetuadas para a sede social do Segurador ou da sucursal, consoante o caso.\n2. São igualmente válidas e eficazes as comunicações ou notificações feitas, nos termos do número anterior, para o endereço do representante do Segurador não estabelecido em Portugal, relativamente a sinistros abrangidos por esta apólice.\n3. As comunicações previstas no presente contrato devem revestir forma escrita ou ser prestadas por outro meio de que fique registo duradouro.\n4. O Segurador só está obrigado a enviar as comunicações previstas no presente contrato se o destinatário das mesmas estiver devidamente identificado no contrato, considerando-se validamente efetuadas se remetidas para o respetivo endereço constante da apólice.\n5. Para os efeitos previstos no Capítulo III do Título II do Decreto-Lei n.º 291/2007, de 21 de agosto, o Segurador pode recorrer a meio de que fique registo gravado, caso esteja autorizado a fazê-lo nos termos da lei.",
+      "chunkType": "texto",
+      "docPage": 13
+    },
+    {
+      "chunkID": 34,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Obrigatório | Capítulo IX | Cláusulas 35ª e 36ª - Reclamações, Arbitragem e Foro",
+      "chunkContent": "CLÁUSULA 35ª. RECLAMAÇÕES E ARBITRAGEM\n1. Podem ser apresentadas reclamações no âmbito do presente contrato aos serviços do Segurador identificados no contrato e, bem assim, à Autoridade de Supervisão de Seguros e Fundos de Pensões (www.asf.com.pt).\n2. Nos litígios surgidos ao abrigo deste contrato pode haver recurso à arbitragem, a efetuar nos termos da lei.\nCLÁUSULA 36ª. FORO\nO foro competente para dirimir os litígios emergentes deste contrato é o fixado na lei civil.",
+      "chunkType": "texto",
+      "docPage": 13
+    },
+    {
+      "chunkID": 35,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Anexo - Bónus/Malus | Sistema de Bonificações e Agravamentos",
+      "chunkContent": "SEGURO AUTOMÓVEL - ANEXO - BÓNUS/MALUS\nSISTEMA DE BONIFICAÇÕES E AGRAVAMENTOS POR SINISTRALIDADE (BÓNUS/MALUS)\nEnquadramento no Sistema de Bónus / Malus - Clientes Particulares\nNo momento da celebração do contrato, o enquadramento nas classes do sistema de Bónus / Malus aplicável é feito de acordo com a tabela de entrada anexa e tendo em conta os pressupostos que se seguem: Será considerado o histórico do Tomador do Seguro relativo aos veículos de categorias equivalentes à categoria do veículo a contratar. Caso o Tomador do Seguro tenha uma interrupção de histórico em seu nome superior a 180 dias, os registos anteriores não serão contemplados. Será considerada a seguinte informação do Tomador do Seguro que se presume ser o condutor: a) O número de anos com seguro; b) O número de sinistros ocorridos nos últimos 5 anos, registados nas coberturas de Responsabilidade Civil e/ou Choque, Colisão ou Capotamento; c) O número de anos sem sinistros, correspondente ao número de anos completos entre a data de ocorrência do último sinistro registado nas coberturas referidas na alínea b) e a data início do seguro, não podendo este ser superior ao número de anos com seguro.",
+      "chunkType": "texto",
+      "docPage": 14
+    },
+    {
+      "chunkID": 36,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Anexo - Bónus/Malus | Enquadramento - Clientes Empresa",
+      "chunkContent": "Enquadramento no Sistema de Bónus / Malus - Clientes Empresa\nNo momento da celebração do contrato, o enquadramento nas classes do sistema de Bónus / Malus aplicável é feito de acordo com a tabela de entrada anexa e tendo em conta os pressupostos que se seguem: Será considerado o histórico do Tomador do Seguro relativo aos veículos de categorias equivalentes à categoria do veículo a contratar. Caso o Tomador do Seguro tenha uma interrupção de histórico em seu nome superior a 180 dias, os registos anteriores não serão contemplados. Será considerada a seguinte informação do Tomador do Seguro: Caso exista registo de histórico em nome do Tomador do Seguro para a matrícula a segurar, será considerado o histórico da mesma e o de todos os veículos de categorias equivalentes que tenham estado garantidos nessa apólice para a resposta às questões que se seguem: a) O número de anos com seguro; b) O número de sinistros ocorridos nos últimos 5 anos, registados numa das seguintes coberturas: Responsabilidade Civil e/ou Choque, Colisão ou Capotamento, Responsabilidade Civil Cruzada e Responsabilidade Civil Laboração; c) O número de anos sem sinistros. Caso não exista registo de histórico em nome do Tomador do Seguro para a matrícula a segurar, será considerado o histórico de todos os veículos de categorias equivalentes para a resposta às questões que se seguem: a) O número de anos com seguro; b) O número médio de sinistros ocorridos nos últimos 5 anos, registados numa das seguintes coberturas: Responsabilidade Civil e/ou Choque, Colisão ou Capotamento, Responsabilidade Civil Cruzada e Responsabilidade Civil Laboração; c) O número de anos sem sinistros.",
+      "chunkType": "texto",
+      "docPage": 14
+    },
+    {
+      "chunkID": 37,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Anexo - Bónus/Malus | Evolução e Aplicação do Sistema",
+      "chunkContent": "Evolução no Sistema de Bónus / Malus (Clientes Particulares e Empresas)\nA evolução no sistema de bonificações e agravamentos aplicável depende da verificação ou ausência de sinistros durante a anuidade anterior registados pelo menos numa das seguintes coberturas: Responsabilidade Civil, ou Choque, Colisão ou Capotamento, Proteção Vital do Condutor, Responsabilidade Civil Cruzada e Responsabilidade Civil Laboração. As bonificações ou agravamentos são aplicados na renovação contratual seguinte em função da classe de bonificação da anuidade anterior e do número de sinistros registados nessa anuidade de acordo com a tabela de transição anexa.\nAplicação do Sistema de Bónus / Malus (Clientes Particulares e Empresas)\n1. As bonificações e os agravamentos por sinistralidade incidem sobre os prémios das coberturas de Responsabilidade Civil, Choque, Colisão ou Capotamento, Proteção Vital do Condutor, Responsabilidade Civil Cruzada e Responsabilidade Civil Laboração.\n2. A bonificação ou agravamento será refletida nos prémios comerciais na data de início do risco, no caso de seguro novo, ou no momento da renovação do contrato.",
+      "chunkType": "texto",
+      "docPage": 14
+    },
+    {
+      "chunkID": 38,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Anexo - Bónus/Malus | Tabela 1.1 - Tabela de Entrada",
+      "chunkContent": "Tabela 1.1. Tabela de Entrada – Classe de Bónus/Malus no início do contrato\nN.º DE ANOS COM SEGURO | N.º DE SINISTROS NOS ÚLTIMOS 5 ANOS: 0 | N.º DE SINISTROS NOS ÚLTIMOS 5 ANOS: 1 (Nº DE ANOS SEM SINISTROS 0, 1 a 2, 3 a 4) | N.º DE SINISTROS NOS ÚLTIMOS 5 ANOS: 2 (Nº DE ANOS SEM SINISTROS 0, 1 a 2, 3 a 4) | N.º DE SINISTROS NOS ÚLTIMOS 5 ANOS: 3 OU MAIS\n0: 0% | 40% | --- | --- | 90% | --- | --- | CASUÍSTICO\n1: -10% | 20% | 20% | --- | 60% | 60% | --- | CASUÍSTICO\n2: -20% | 10% | 10% | --- | 60% | 40% | --- | CASUÍSTICO\n3: -25% | 0% | 0% | 0% | 40% | 20% | 20% | CASUÍSTICO\n4: -30% | 0% | -10% | -10% | 20% | 10% | 10% | CASUÍSTICO\n5: -32,5% | -10% | -20% | -20% | 10% | 0% | 0% | CASUÍSTICO\n6: -35% | -10% | -20% | -25% | 10% | 0% | -10% | CASUÍSTICO\n7: -37,5% | -10% | -20% | -25% | 10% | 0% | -10% | CASUÍSTICO\n8: -37,5% | -20% | -25% | -30% | 10% | 0% | -10% | CASUÍSTICO\n9: -40% | -20% | -25% | -30% | 0% | 0% | -20% | CASUÍSTICO\n10: -42% | -20% | -25% | -30% | 0% | 0% | -20% | CASUÍSTICO\n11: -42% | -20% | -25% | -30% | 0% | 0% | -20% | CASUÍSTICO\n12: -44% | -20% | -25% | -30% | 0% | 0% | -20% | CASUÍSTICO\n13: -46% | -25% | -30% | -32,5% | 0% | 0% | -20% | CASUÍSTICO\n14: -48% | -25% | -30% | -32,5% | 0% | -10% | -20% | CASUÍSTICO\n15: -50% | -30% | -30% | -32,5% | 0% | -10% | -20% | CASUÍSTICO\n16: -50% | -32,5% | -32,5% | -35% | 0% | -10% | -20% | CASUÍSTICO\n17: -50% | -32,5% | -32,5% | -35% | 0% | -10% | -20% | CASUÍSTICO\n18 OU +: -50% | -35% | -35% | -35% | 0% | -10% | -20% | CASUÍSTICO",
+      "chunkType": "tabela",
+      "docPage": 16
+    },
+    {
+      "chunkID": 39,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Anexo - Bónus/Malus | Tabela 1.2 - Tabela de Transição",
+      "chunkContent": "Tabela 1.2. Tabela de Transição – Classe de Bónus / Malus na renovação do contrato\nSITUAÇÃO ANUIDADE ANTERIOR | N.º DE SINISTROS NA ANUIDADE ANTERIOR: 0 | 1 | 2 | 3 | 4 OU MAIS\nMALUS\n130,0%: 90,0% | 130,0% | 130,0% | 130,0% | 130,0%\n90,0%: 60,0% | 130,0% | 130,0% | 130,0% | 130,0%\n60,0%: 40,0% | 130,0% | 130,0% | 130,0% | 130,0%\n40,0%: 20,0% | 90,0% | 130,0% | 130,0% | 130,0%\n20,0%: 10,0% | 60,0% | 130,0% | 130,0% | 130,0%\n10,0%: 0,0% | 40,0% | 90,0% | 130,0% | 130,0%\nBÓNUS\n0%: -10,0% | 20,0% | 60,0% | 130,0% | 130,0%\n-10%: -20,0% | 10,0% | 40,0% | 90,0% | 130,0%\n-20%: -25,0% | 0,0% | 20,0% | 60,0% | 130,0%\n-25%: -30,0% | -10,0% | 20,0% | 60,0% | 130,0%\n-30%: -32,5% | -10,0% | 20,0% | 60,0% | 130,0%\n-32,5%: -35,0% | -20,0% | 10,0% | 40,0% | 130,0%\n-35%: -37,5% | -20,0% | 10,0% | 40,0% | 130,0%\n-37,5%: -40,0% | -25,0% | 0,0% | 20,0% | 130,0%\n-40%: -42,0% | -25,0% | 0,0% | 20,0% | 130,0%\n-42%: -44,0% | -30,0% | -10,0% | 20,0% | 130,0%\n-44%: -46,0% | -32,5% | -10,0% | 10,0% | 130,0%\n-46%: -48,0% | -35,0% | -20,0% | 10,0% | 130,0%\n-48%: -50,0% | -40,0% | -20,0% | 0,0% | 130,0%\n-50% (1): -50,0% | -30,0% | 0,0% | 20,0% | 130,0%\n-50% (2): -50,0% | -35,0% | 0,0% | 20,0% | 130,0%\n-50% (3): -50,0% | -40,0% | 0,0% | 20,0% | 130,0%\n-50% (4): -52,5% | -50,0% | -25,0% | 0,0% | 130,0%\n-52,5%: -55,0% | -50,0% | -30,0% | -10,0% | 130,0%\n-55,0%: -55,0% | -50,0% | -32,5% | -10,0% | 130,0%\nNota: Os veículos com bónus técnico de 50% transitam entre as classes de bónus de acordo com as referências entre parêntesis [(1), (2), (3), (4)].",
+      "chunkType": "tabela",
+      "docPage": 17
+    },
+    {
+      "chunkID": 40,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Facultativo | Cláusula 1ª - Âmbito do Seguro Facultativo",
+      "chunkContent": "SEGURO AUTOMÓVEL FACULTATIVO\nCLÁUSULA 1ª. ÂMBITO DO SEGURO FACULTATIVO\n1. As presentes Condições Gerais são aplicáveis ao Seguro Automóvel Facultativo, que poderá abranger as seguintes coberturas: Responsabilidade Civil Facultativa, Responsabilidade Civil Carga, Responsabilidade Civil Cruzada, Responsabilidade Civil Laboração, Choque, Colisão ou Capotamento, Incêndio, Raio ou Explosão, Quebra Isolada de Vidros, Furto ou Roubo, Fenómenos da Natureza, Atos de Vandalismo, Valor de Aquisição, Capital Seguro Proporcional nas Garantias de Danos ao Veículo, Veículo de Substituição, Privação de Uso, Assistência em Viagem, Proteção Jurídica, Proteção ao Condutor, Ocupantes da Viatura, Proteção Vital do Condutor, Outras garantias que venham a ser contratadas como Condições Especiais.\n2. As coberturas contratadas encontram-se expressamente indicadas nas Condições Particulares.",
+      "chunkType": "texto",
+      "docPage": 18
+    },
+    {
+      "chunkID": 41,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Facultativo | Cláusula 2ª - Disposições Aplicáveis",
+      "chunkContent": "CLÁUSULA 2ª. DISPOSIÇÕES APLICÁVEIS\nO Seguro Automóvel Facultativo rege-se pelo disposto nas Condições Particulares e nas Condições Especiais, aplicáveis às coberturas efetivamente contratadas, bem como pelo disposto nas presentes Condições Gerais do Seguro Automóvel Facultativo e, na parte não especificamente regulada, nas Condições Gerais do Seguro Obrigatório de Responsabilidade Civil Automóvel.",
+      "chunkType": "texto",
+      "docPage": 18
+    },
+    {
+      "chunkID": 42,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Facultativo | Cláusula 3ª - Definições",
+      "chunkContent": "CLÁUSULA 3ª. DEFINIÇÕES\nPara efeitos do presente contrato, entende-se por:\nACIDENTE DE VIAÇÃO: O acontecimento súbito, fortuito e independente da vontade do Tomador do Seguro e do Segurado, ocorrido em consequência exclusiva da circulação rodoviária, quer o veículo se encontre ou não em movimento.\nATIVIDADE DE LABORAÇÃO: Quando o veículo seguro está a exercer atividades em funções meramente agrícolas, excluindo-se a atividade de circulação, ou de utilização como meio de transporte.\nCONDUTOR HABITUAL: A pessoa que, nessa qualidade, for identificada nas Condições Particulares e que deverá corresponder àquela que conduz o veículo, com caráter de habitualidade e com uma utilização superior à do(s) outro(s) condutor(es), caso exista(m).\nVALOR EM NOVO: Preço de venda ao público, incluindo encargos legais e impostos, do veículo, em estado novo, na data de registo da primeira matrícula, inscrita no respetivo Livrete ou Documento Único Automóvel, não considerando o custo de extras ainda que adquiridos no ato de compra do veículo.\nVALOR SEGURO DO VEÍCULO: Corresponde ao valor em novo do veículo atualizado em conformidade com o critério de desvalorização acordado. Este incluirá também o valor atualizado dos componentes ou equipamentos não identificados como extras.\nOPCIONAIS: Componentes ou equipamentos não integrados de série na versão do veículo seguro, mas disponibilizados pelo fabricante para montagem no veículo em fábrica, sendo descriminados e valorizados na fatura de aquisição do veículo.\nEXTRAS: Componentes ou equipamentos não integrados de série na versão do veículo seguro, que o Segurado comprove documentalmente ter mandado instalar e cujo custo não se encontre incluído no valor seguro do veículo. Sem prejuízo do anteriormente referido, consideram-se sempre como extras: pintura de letras, desenhos, emblemas, dísticos alegóricos ou de reclamos ou propaganda no veículo.\nCAPITAL SEGURO: Para efeito das coberturas 'Choque, Colisão ou Capotamento', 'Incêndio, Raio ou Explosão', 'Furto ou Roubo', 'Atos de Vandalismo' e 'Fenómenos da Natureza', o capital seguro corresponde ao valor seguro do veículo acrescido do valor seguro dos opcionais e extras, sempre que discriminados e valorizados no contrato, salvo quando seja contratada a Condição Especial Capital Seguro Proporcional nas Garantias de Danos ao Veículo, caso em que o capital seguro corresponderá a uma percentagem do valor seguro do veículo, nos termos estabelecidos na referida Condição Especial e indicado nas Condições Particulares.",
+      "chunkType": "texto",
+      "docPage": 18
+    },
+    {
+      "chunkID": 43,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Facultativo | Cláusula 3ª - Definições (Perda Total, Garantias de Danos)",
+      "chunkContent": "PERDA TOTAL\nQuando não seja contratada a Condição Especial Capital Seguro Proporcional nas Garantias de Danos ao Veículo, considera-se o veículo em situação de perda total, quando se verifique uma das seguintes situações: a) Tenha ocorrido o seu desaparecimento ou a sua destruição total; b) A reparação seja materialmente impossível ou tecnicamente não aconselhável, por terem sido gravemente afetadas as suas condições de segurança; c) O valor da reparação, adicionado do valor do salvado, seja superior ao capital seguro do veículo e, simultaneamente, o valor da reparação seja superior a 70% do capital seguro do veículo.\nQuando seja contratada a Condição Especial Capital Seguro Proporcional nas Garantias de Danos ao Veículo, considera-se o veículo em situação de perda total, quando se verifique uma das seguintes situações: d) Tenha ocorrido o seu desaparecimento ou a sua destruição total; e) A reparação seja materialmente impossível ou tecnicamente não aconselhável, por terem sido gravemente afetadas as suas condições de segurança; f) O valor da reparação seja superior ao capital seguro do veículo.\nGARANTIAS DE DANOS AO VEÍCULO\nEntendem-se por garantias de danos ao veículo seguro as abrangidas pelas coberturas de 'Choque, Colisão ou Capotamento', 'Incêndio, Raio ou Explosão', 'Furto ou Roubo', 'Fenómenos da Natureza' ou 'Atos de Vandalismo' que hajam sido contratadas e que se encontrem expressamente indicadas nas Condições Particulares.",
+      "chunkType": "texto",
+      "docPage": 19
+    },
+    {
+      "chunkID": 44,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Facultativo | Cláusula 4ª - Âmbito Territorial",
+      "chunkContent": "CLÁUSULA 4ª. ÂMBITO TERRITORIAL\nAs garantias contratadas estão limitadas ao território de Portugal Continental e das Regiões Autónomas da Madeira e dos Açores, salvo disposição em contrário constante das Condições Especiais ou Particulares.",
+      "chunkType": "texto",
+      "docPage": 19
+    },
+    {
+      "chunkID": 45,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Facultativo | Cláusula 5ª - Exclusões Gerais",
+      "chunkContent": "CLÁUSULA 5ª. EXCLUSÕES\n1. Para além das exclusões previstas na Cláusula 5ª das Condições Gerais do Seguro Obrigatório de Responsabilidade Civil Automóvel e das exclusões específicas de cada uma das coberturas facultativas contratadas, ficam ainda excluídos do âmbito do Seguro Automóvel Facultativo:\na) Danos causados ao veículo seguro por ocasião de furto, roubo ou furto de uso ou de qualquer outra forma de subtração ilegítima ou utilização abusiva do veículo seguro, sem prejuízo, porém, dos direitos do Segurado que derivem da cobertura de 'Furto ou Roubo', quando haja sido contratada;\nb) Danos causados ao veículo seguro quando este seja conduzido por pessoa que não seja titular de licença de condução correspondente à categoria do veículo seguro ou que esteja, temporária ou definitivamente, inibida ou privada da faculdade de conduzir, sem prejuízo, porém, dos direitos do Segurado que derivem da cobertura de 'Furto ou Roubo', quando haja sido contratada;\nc) Danos causados intencionalmente, com o veículo seguro ou ao veículo seguro, pelo Tomador do Seguro, Segurado, Condutor ou restantes ocupantes ou por pessoas por quem qualquer um deles seja civilmente responsável ou que com qualquer um deles viva em economia comum;\nd) Danos causados ao veículo seguro quando o Condutor conduza com uma taxa de alcoolemia superior à legalmente admitida ou acuse consumo de estupefacientes ou de outras drogas ou produtos tóxicos ou esteja em estado de demência;",
+      "chunkType": "texto",
+      "docPage": 19
+    },
+    {
+      "chunkID": 46,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Facultativo | Cláusula 5ª - Exclusões Gerais (Continuação)",
+      "chunkContent": "CLÁUSULA 5ª. EXCLUSÕES (continuação)\ne) Danos ocorridos quando o Condutor do veículo seguro recuse submeter-se a testes de alcoolémia ou de deteção de substâncias estupefacientes ou psicotrópicas, bem como quando voluntariamente abandone o local do acidente de viação antes da chegada da autoridade policial quando esta tenha sido chamada por si ou por outra entidade, com ou sem conhecimento do condutor;\nf) Danos ocorridos quando se verifiquem situações de guerra, guerra civil, insurreição, mobilização, execução da Lei Marcial, invasão ou hostilidade com outros países, levantamento popular, rebelião ou golpe militar, revolução ou usurpação de poder civil ou militar;\ng) Danos ocorridos quando o veículo seguro se encontre em serviço diferente e de maior risco do que o contratado;\nh) Danos ocorridos quando não tiverem sido cumpridas, em relação ao veículo seguro, as disposições sobre inspeção periódica ou outras relativas à homologação do veículo, exceto se for demonstrado que entre as infrações cometidas e os danos não houve qualquer relação de causalidade;\ni) Danos causados por excesso ou mau acondicionamento de carga;\nj) Danos causados por transporte de objetos ou participação em atividades que ponham em risco a estabilidade e domínio do veículo;\nk) Lucros cessantes ou perda de benefícios, rendimentos ou resultados sofridos pelo Tomador do Seguro ou pelo Segurado, em virtude de privação de uso, despesas de substituição do veículo seguro ou provenientes de depreciação, desgaste ou consumo naturais, sem prejuízo, porém, dos direitos do Segurado que derivem da cobertura de 'Privação de Uso', quando haja sido contratada;\nl) Danos direta e exclusivamente provenientes de defeito de construção, reparação, montagem ou afinação, vício próprio ou má conservação do veículo seguro;\nm) Danos produzidos diretamente por alcatrão ou outros materiais utilizados na construção das vias ou por lama existente nas mesmas;\nn) Danos causados ao veículo seguro, intencionalmente, com quaisquer objetos empunhados ou arremessados sem prejuízo, porém, dos direitos do Segurado que derivem da cobertura de 'Atos de Vandalismo', quando haja sido contratada;\no) Acidentes em caso de suicídio, ou sua tentativa, bem como acidentes ocorridos em resultado de apostas ou desafios;\np) Danos causados ao meio ambiente, designadamente por poluição ou contaminação do solo, das águas ou da atmosfera;\nq) Danos causados ao veículo seguro durante operações de carga e descarga de objetos nele transportados;\nr) Danos ocorridos durante a utilização do veículo em autódromos ou outros circuitos fechados vocacionados para a realização de provas de desporto motorizado.",
+      "chunkType": "texto",
+      "docPage": 20
+    },
+    {
+      "chunkID": 47,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Facultativo | Cláusula 5ª - Exclusões Adicionais",
+      "chunkContent": "2. Sem prejuízo do estabelecido nas Condições Especiais relativas às coberturas contratadas que se encontram expressamente indicadas nas Condições Particulares, e para além das exclusões previstas na Cláusula 5ª das Condições Gerais do Seguro Obrigatório de Responsabilidade Civil Automóvel e no nº 1 da presente Cláusula, ficam ainda excluídos do âmbito do Seguro Automóvel Facultativo:\na) Danos resultantes de greves, tumultos, distúrbios laborais, motins e alterações da ordem pública, atos de vandalismo e/ou ações de pessoas com intenções maliciosas, atos de terrorismo e/ou sabotagem e atos praticados por qualquer autoridade legalmente constituída, em virtude de medidas tomadas por ocasião destas ocorrências para salvaguarda de pessoas e bens;\nb) Danos provocados por inundações, desmoronamentos, furacões e outras convulsões violentas da natureza, fenómenos sísmicos e meteorológicos;\nc) Danos em objetos e mercadorias transportadas no veículo seguro, ainda que sejam propriedade dos respetivos passageiros;\nd) Danos em pintura de letras, desenhos, emblemas, dísticos alegóricos ou de reclamos ou propaganda no veículo seguro, quando não for feita a sua menção e valorização nas Condições Particulares;\ne) Danos em Extras, quando das Condições Particulares não constem expressamente discriminados e com a indicação do respetivo valor, ou o seu valor não esteja incluído no valor seguro do veículo;\nf) Danos causados aos passageiros transportados nas caixas de carga dos veículos, salvo convenção em contrário constante nas Condições Particulares;\ng) Danos ocorridos ou resultantes da circulação do veículo em áreas de acesso restrito, nomeadamente, aeroportos, salvo convenção em contrário constante nas Condições Particulares;\nh) Danos ocorridos ou resultantes da circulação do veículo em zonas de acesso vedado ou locais reconhecidos como inadequados para a circulação do veículo seguro;\ni) Danos ocorridos quando o veículo seguro esteja a ser utilizado no transporte de matérias perigosas, independentemente de serem causadas por estas, ou por aquele. Consideram-se matérias perigosas, entre outras definidas na lei, combustíveis, matérias inflamáveis, explosivas ou tóxicas. Esta exclusão, porém, não será invocável sempre que o veículo seguro esteja devida e legalmente autorizado a realizar o transporte de matérias perigosas e se encontre expressamente indicado nas Condições Particulares que esse risco se encontra garantido.",
+      "chunkType": "texto",
+      "docPage": 20
+    },
+    {
+      "chunkID": 48,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Facultativo | Cláusula 6ª - Valores Seguros e Franquias",
+      "chunkContent": "CLÁUSULA 6ª. VALORES SEGUROS E FRANQUIAS\n1. Os valores máximos garantidos pelo Segurador, bem como as franquias contratadas constam expressamente nas respetivas Condições Especiais ou nas Condições Particulares.\n2. O valor seguro do veículo, a considerar para efeito do contrato, será automaticamente atualizado de acordo com a tabela de desvalorização do Segurador, anexa às presentes Condições Gerais do Seguro Automóvel Facultativo. Contudo, por acordo expresso nas Condições Particulares, as partes podem estipular qualquer outro critério de desvalorização ou valor segurável, nomeadamente a utilização de tabelas de cotação de mercado. O valor seguro dos opcionais e extras será atualizado na mesma proporção do valor seguro do veículo. Quando contratada a Condição Especial Capital Seguro Proporcional nas Garantias de Danos ao Veículo o valor seguro do veículo corresponderá ao capital seguro tal como definido na referida Condição Especial.\n3. A franquia contratual acordada para os danos no veículo seguro será sempre deduzida pelo Segurador no momento do pagamento da indemnização, ainda que o efetue diretamente à entidade reparadora do veículo ou a qualquer outra pessoa ou entidade com direito ao respetivo pagamento.\n4. O Tomador do Seguro ou o Segurador podem propor, por escrito e com a antecedência mínima de 60 dias em relação ao vencimento do contrato, a modificação do critério de desvalorização, do valor segurável ou do valor da franquia.\n5. Salvo convenção expressa em contrário nas Condições Particulares, a franquia nas Garantias de Danos ao Veículo será menor ou igual a 30% do valor do veículo em novo e menor ou igual a 30% do capital seguro do veículo. Em cada renovação do contrato será verificada a relação entre o capital seguro, o valor em novo e o valor da franquia. Caso, no início de uma anuidade, não se verifique o cumprimento das relações anteriormente referidas, a franquia será alterada para o valor inferior mais próximo que as satisfaça, de entre os valores praticados pelo Segurador, sendo o mesmo atualizado nas Condições Particulares.",
+      "chunkType": "texto",
+      "docPage": 21
+    },
+    {
+      "chunkID": 49,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Facultativo | Cláusula 7ª - Obrigações em Caso de Sinistro",
+      "chunkContent": "CLÁUSULA 7ª. OBRIGAÇÕES DO TOMADOR DO SEGURO, SEGURADO E/OU PESSOA SEGURA\nVerificando-se qualquer evento que faça funcionar as garantias deste contrato, o Tomador do Seguro, o Segurado e/ou as Pessoas Seguras, sob pena de responderem por perdas e danos, para além do previsto na Cláusula 27° das Condições Gerais do Seguro Obrigatório de Responsabilidade Civil Automóvel, obrigam-se a:\na) Tomar todas as providências para evitar o agravamento dos danos decorrentes do acidente;\nb) Participar o acidente ao Segurador, por escrito e nos 8 dias imediatos à sua ocorrência, indicando dia, hora, local, causas, consequências, testemunhas e quaisquer outros elementos considerados relevantes, bem como informá-la de todos os factos e circunstâncias que possam influir na sua capacidade de análise. Existindo vários seguros sobre o mesmo risco, a comunicação acima referida deverá ser efetuada aos respetivos Seguradores com indicação do nome dos restantes;\nc) Disponibilizar o veículo seguro para realização da peritagem necessária à avaliação dos danos, nos termos indicados pelo Segurador;\nd) Entregar, para efeitos do reembolso a que houver lugar, a documentação original e todos os documentos justificativos das despesas efetuadas e abrangidas pelo contrato.",
+      "chunkType": "texto",
+      "docPage": 22
+    },
+    {
+      "chunkID": 50,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Facultativo | Cláusula 8ª - Ressarcimento dos Danos no Veículo Seguro",
+      "chunkContent": "CLÁUSULA 8ª. RESSARCIMENTO DOS DANOS NO VEÍCULO SEGURO\n1. O Segurador pode optar pela reparação do veículo seguro, pela sua substituição, ou pela atribuição de uma indemnização em dinheiro.\n2. Optando o Segurador pela reparação, reserva-se ao direito de indicar a oficina que realizará a peritagem e a reparação dos danos no veículo seguro. As reparações serão feitas de maneira a repor a parte danificada do veículo seguro no estado anterior ao sinistro.\n3. Nas reparações que exijam substituição de peças ou sobressalentes e quando o Tomador do Seguro não queira sujeitar-se à demora para a sua obtenção, o Segurador não é responsável pelos prejuízos direta ou indiretamente daí resultantes limitando-se à obrigação de indemnizar pelo custo das peças ou sobressalentes.",
+      "chunkType": "texto",
+      "docPage": 22
+    },
+    {
+      "chunkID": 51,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Facultativo | Cláusula 9ª - Redução e Reposição do Valor Seguro",
+      "chunkContent": "CLÁUSULA 9ª. REDUÇÃO E REPOSIÇÃO DO VALOR SEGURO\n1. O montante da indemnização será deduzido ao valor seguro, ficando este reduzido daquele valor desde a data do sinistro até ao vencimento anual do contrato.\n2. O Tomador do Seguro pode propor a reposição do valor seguro, ficando esta dependente da aceitação do Segurador.",
+      "chunkType": "texto",
+      "docPage": 22
+    },
+    {
+      "chunkID": 52,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Facultativo | Cláusula 10ª - Direitos Ressalvados",
+      "chunkContent": "CLÁUSULA 10ª. DIREITOS RESSALVADOS\nQuando o Segurador haja aceite a ressalva de direitos desta apólice a favor das pessoas ou entidades identificadas nas Condições Particulares, o pagamento das indemnizações não poderá ser efetuado sem o prévio acordo das referidas pessoas ou entidades.",
+      "chunkType": "texto",
+      "docPage": 22
+    },
+    {
+      "chunkID": 53,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Facultativo | Cláusula 11ª - Redução ou Exclusão de Garantias Facultativas e Resolução Após Sinistro",
+      "chunkContent": "CLÁUSULA 11ª. REDUÇÃO OU EXCLUSÃO DE GARANTIAS FACULTATIVAS E RESOLUÇÃO APÓS SINISTRO\n1. O Tomador do Seguro e o Segurador podem, na data de vencimento do seguro, reduzir ou excluir do contrato garantias contratadas, mediante comunicação escrita à outra parte, com a antecedência de, pelo menos, 30 dias, face à referida data.\n2. Em caso de dois ou mais sinistros que afetem as coberturas facultativas numa anuidade, assiste ao Segurador o direito a proceder à exclusão do todo ou parte das garantias facultativas, mediante comunicação a efetuar ao Tomador do Seguro com antecedência mínima de 30 dias em relação à data em que pretende que aquela alteração produza os seus efeitos.\n3. Sempre que o Tomador do Seguro não coincida com o Segurado, este deve ser avisado, com 30 dias de antecedência, da redução ou exclusão das garantias contratadas e bem assim da resolução após sinistro.\n4. No caso de haver direitos ressalvados nos termos da Cláusula anterior, a comunicação deverá também ser enviada às pessoas ou entidades respetivas.\n5. Quando, por força de redução ou exclusão de garantias, houver lugar a estorno ou reembolso do prémio, o Segurador devolverá uma parte do prémio pago calculada proporcionalmente ao período de tempo não decorrido.\n6. Quando no decurso de uma anuidade ocorrer um ou mais sinistros, para efeito de cálculo da parte do prémio a devolver nos termos do número anterior, atender-se-á apenas à parte do valor seguro que exceda o valor global das indemnizações liquidadas.",
+      "chunkType": "texto",
+      "docPage": 22
+    },
+    {
+      "chunkID": 54,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Facultativo | Cláusula 12ª - Direito de Regresso e Sub-rogação",
+      "chunkContent": "CLÁUSULA 12ª. DIREITO DE REGRESSO E SUB-ROGAÇÃO\nRelativamente às indemnizações pagas ao abrigo de garantias facultativas, o Segurador tem direito de regresso e de sub-rogação em todos os casos em que contratual ou legalmente esse direito lhe assista, sem prejuízo das situações previstas na Cláusula 31ª. das Condições Gerais do Seguro Obrigatório de Responsabilidade Civil Automóvel situações estas que são também aplicáveis às garantias facultativas.",
+      "chunkType": "texto",
+      "docPage": 23
+    },
+    {
+      "chunkID": 55,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Facultativo | Cláusula 13ª - Bonificações e Agravamentos",
+      "chunkContent": "CLÁUSULA 13ª. BONIFICAÇÕES E AGRAVAMENTOS\n1. Sem prejuízo do disposto na Cláusula 32ª das Condições Gerais do Seguro Obrigatório de Responsabilidade Civil Automóvel, o Segurador poderá conceder ao Tomador do Seguro uma bonificação antecipada de prémio, de acordo com o sistema de bonificações e agravamentos por sinistralidade.\n2. O regime de bonificações e agravamentos por ausência ou ocorrência de sinistros, previsto na Cláusula 32ª das Condições Gerais do Seguro Obrigatório de Responsabilidade Civil Automóvel, apenas é aplicável às coberturas de Responsabilidade Civil Facultativa e Choque Colisão ou Capotamento, Responsabilidade Civil Cruzada e Responsabilidade Civil Laboração.",
+      "chunkType": "texto",
+      "docPage": 23
+    },
+    {
+      "chunkID": 56,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Gerais - Facultativo | Cláusula 14ª - Pluralidade de Seguros",
+      "chunkContent": "CLÁUSULA 14ª. PLURALIDADE DE SEGUROS\n1. Existindo dois ou mais contratos ou coberturas garantindo, simultaneamente, os mesmos riscos segurados facultativamente, esta situação de coexistência ou cumulação de seguros deve ser comunicada ao Segurador, pelo Tomador do Seguro ou pelo Segurado, aquando da celebração do contrato ou da participação do sinistro.\n2. Verificando-se a situação prevista no número anterior e sem prejuízo da obrigação nele estipulada, as garantias contratadas funcionarão nos termos legalmente previstos.\nANEXO: Tabelas de Desvalorização de Veículos, páginas 86 e seguintes.",
+      "chunkType": "texto",
+      "docPage": 23
+    },
+    {
+      "chunkID": 57,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Responsabilidade Civil Facultativa",
+      "chunkContent": "CONDIÇÕES ESPECIAIS - RESPONSABILIDADE CIVIL FACULTATIVA\nCLÁUSULA 1ª. DISPOSIÇÕES APLICÁVEIS: Em tudo o que não contrarie o disposto na presente Condição Especial, aplicam-se as Condições Gerais do Seguro Automóvel Facultativo.\nCLÁUSULA 2ª. ÂMBITO DA GARANTIA E CAPITAL SEGURO: 1. A presente Condição Especial garante a cobertura complementar de Responsabilidade Civil para além do montante legalmente exigido. 2. O capital seguro corresponde ao diferencial entre o capital contratado para a cobertura de Responsabilidade Civil e o capital mínimo, em cada momento em vigor, do Seguro Obrigatório de Responsabilidade Civil Automóvel.\nCLÁUSULA 3ª. EXCLUSÕES: A presente cobertura não garante, para além dos danos excluídos pela Cláusula 5ª das Condições Gerais do Seguro Obrigatório e pela Cláusula 5ª das Condições Gerais do Seguro Automóvel Facultativo, as seguintes situações: a) A responsabilidade civil contratual; b) A responsabilidade por danos causados por um veículo rebocado; c) A responsabilidade civil por danos ocorridos em serviço de rebocador, salvo se contratado; d) Gastos de defesa do Segurado em ações penais e pagamento de multas, coimas ou sanções.\nCLÁUSULA 4ª. DIREITO DE REGRESSO: Satisfeita a indemnização, o Segurador tem direito de regresso: a) Contra o Condutor, por danos causados quando conduza com uma taxa de alcoolemia superior à legalmente admitida ou acuse consumo de estupefacientes; b) Contra o Condutor, quando o veículo seja conduzido por pessoa que não seja titular de licença de condução.",
+      "chunkType": "texto",
+      "docPage": 24
+    },
+    {
+      "chunkID": 58,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Responsabilidade Civil Carga",
+      "chunkContent": "CONDIÇÕES ESPECIAIS - RESPONSABILIDADE CIVIL CARGA\nCLÁUSULA 1ª. DISPOSIÇÕES APLICÁVEIS: Em tudo o que não contrarie o disposto na presente Condição Especial, aplicam-se as Condições Gerais do Seguro Automóvel Facultativo.\nCLÁUSULA 2ª. ÂMBITO DA GARANTIA E CAPITAL SEGURO: A presente condição especial permite que o segurador renuncie o direito de regresso sobre o responsável civil por danos causados a terceiros, em virtude de queda de carga decorrente de deficiência de acondicionamento. Esta condição é garantida até ao limite do capital mínimo em vigor para o seguro obrigatório de Responsabilidade Civil Automóvel.\nCLÁUSULA 3ª. EXCLUSÕES: A presente cobertura não garante danos excluídos pela Cláusula 5ª das Condições Gerais do Seguro Obrigatório de Responsabilidade Civil Automóvel e pela Cláusula 5ª das Condições Gerais do Seguro Automóvel Facultativo.",
+      "chunkType": "texto",
+      "docPage": 24
+    },
+    {
+      "chunkID": 59,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Responsabilidade Civil Cruzada",
+      "chunkContent": "CONDIÇÕES ESPECIAIS - RESPONSABILIDADE CIVIL CRUZADA\nCLÁUSULA 1ª. DISPOSIÇÕES APLICÁVEIS: Em tudo o que não contrarie o disposto na presente Condição Especial, aplicam-se as Condições Gerais do Seguro Automóvel Facultativo.\nCLÁUSULA 2ª. ÂMBITO DA GARANTIA E CAPITAL SEGURO: 1. A presente Condição Especial garante, até ao limite do capital constante nas Condições Particulares, os danos materiais causados pelo veículo seguro, por choque ou colisão, a outros veículos cuja propriedade seja de: a) Tomador do Seguro; b) Aqueles cuja responsabilidade é garantida por compropriedade; c) Sociedades ou representantes legais; d) Cônjuge, ascendentes, descendentes ou adotados, parentes ou afins até ao 3.º grau que coabitem. 2. Garante danos não cobertos pela responsabilidade civil obrigatória.\nCLÁUSULA 3ª. EXCLUSÕES: Não garante danos já excluídos, com exceção dos expressamente garantidos, e acidentes em operações de reboque.\nCLÁUSULA 4ª. - INDEMNIZAÇÕES: O Segurado não pode assumir responsabilidades perante Terceiros sem o prévio acordo escrito do Segurador.\nCLÁUSULA 5ª. CONDIÇÕES DE ACIONAMENTO DA GARANTIA: Acionada quando: a) Resultem danos materiais em pelo menos dois veículos; b) O veículo responsável e o lesado tenham contratada esta Condição Especial; c) Todos os veículos na apólice tenham esta Condição Especial; d) Todos os veículos envolvidos estejam seguros na Fidelidade.",
+      "chunkType": "texto",
+      "docPage": 25
+    },
+    {
+      "chunkID": 60,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Responsabilidade Civil Laboração",
+      "chunkContent": "CONDIÇÕES ESPECIAIS - RESPONSABILIDADE CIVIL LABORAÇÃO\nCLÁUSULA 1ª. DISPOSIÇÕES APLICÁVEIS: Aplicam-se as Condições Gerais do Seguro Automóvel Facultativo.\nCLÁUSULA 2ª. ÂMBITO DA GARANTIA E CAPITAL SEGURO: 1. Garante a responsabilidade civil extracontratual por danos materiais e/ou corporais, causados a terceiros, pelo(s) veículo(s) identificado(s) durante a sua utilização numa operação de laboração. 2. A garantia funciona apenas se o acidente não for enquadrável no seguro obrigatório de responsabilidade civil. 3. Em caso de acidente de trabalho, abrange apenas os danos não cobertos pelo seguro de acidentes de trabalho.\nCLÁUSULA 3ª. EXCLUSÕES: Não garante, além das exclusões gerais, a) responsabilidade civil contratual; b) lesões ou morte do Segurado, sócios ou familiares; c) perdas ou danos em bens do Segurado; d) acidentes em carga e descarga; e) acidentes em operações de reboque.\nCLÁUSULA 4ª. - INDEMNIZAÇÕES: O Segurado não pode assumir responsabilidades ou estabelecer valores de indemnização sem o prévio acordo escrito do Segurador.",
+      "chunkType": "texto",
+      "docPage": 25
+    },
+    {
+      "chunkID": 61,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Choque, Colisão ou Capotamento - Definições e Âmbito",
+      "chunkContent": "CONDIÇÕES ESPECIAIS - CHOQUE, COLISÃO OU CAPOTAMENTO\nCLÁUSULA 1ª. DISPOSIÇÕES APLICÁVEIS: Em tudo o que não contrarie o disposto na presente Condição Especial, aplicam-se as Condições Gerais do Seguro Automóvel Facultativo.\nCLÁUSULA 2ª. DEFINIÇÕES: CHOQUE: Embate do veículo contra qualquer corpo fixo ou sofrido por aquele quando imobilizado. COLISÃO: Embate do veículo em movimento contra qualquer outro corpo em movimento. CAPOTAMENTO: Acidente em que o veículo perca a sua posição normal e não resulte de Choque ou Colisão.\nCLÁUSULA 3ª. ÂMBITO DA GARANTIA: A presente Condição Especial garante ao Segurado, nos termos constantes das Condições Particulares, o ressarcimento dos danos causados ao veículo seguro em virtude de choque, colisão ou capotamento.",
+      "chunkType": "texto",
+      "docPage": 26
+    },
+    {
+      "chunkID": 62,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Choque, Colisão ou Capotamento - Exclusões",
+      "chunkContent": "CLÁUSULA 4ª. EXCLUSÕES\n1. Para além das situações previstas na Cláusula 5ª das Condições Gerais do Seguro Obrigatório e na Cláusula 5ª das Condições Gerais do Seguro Automóvel Facultativo, e salvo convenção expressa em contrário, ficam também excluídos os danos: a) Causados pelo mau estado das estradas ou caminhos, quando deste facto não resulte choque, colisão ou capotamento; b) Provocados em jantes, câmaras de ar e pneus, exceto quando resultem de choque, colisão ou capotamento e forem acompanhados de outros danos ao veículo; c) Consubstanciados ou decorrentes de avarias provocadas pela circulação do veículo seguro em espaços cobertos de água. d) Sofridos pelo veículo em circulação quando estiver a fazer serviço de reboque, caso não tenha sido declarado previamente ao Segurador que o veículo seguro efetua serviço de reboque.\n2. Ficam igualmente excluídos do âmbito da presente Condição Especial os danos sofridos pelo veículo seguro enquadráveis nas Condições Especiais de 'Furto ou Roubo', 'Incêndio, Raio ou Explosão', 'Fenómenos da Natureza' ou 'Atos de Vandalismo'.",
+      "chunkType": "texto",
+      "docPage": 26
+    },
+    {
+      "chunkID": 63,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Incêndio, Raio ou Explosão",
+      "chunkContent": "CONDIÇÕES ESPECIAIS - INCÊNDIO, RAIO OU EXPLOSÃO\nCLÁUSULA 1ª. DISPOSIÇÕES APLICÁVEIS: Em tudo o que não contrarie o disposto na presente Condição Especial, aplicam-se as Condições Gerais do Seguro Automóvel Facultativo.\nCLÁUSULA 2ª. ÂMBITO DA GARANTIA: A presente Condição Especial garante ao Segurado, nos termos constantes das Condições Particulares, o ressarcimento dos danos causados ao veículo seguro em consequência de incêndio, queda de raio ou explosão, quer o mesmo se encontre em marcha ou parado, recolhido ou não em garagem.\nCLÁUSULA 3ª. EXCLUSÕES: Para além das situações previstas nas exclusões gerais, ficam também excluídos os danos na aparelhagem ou instalação elétrica quando não resultem de incêndio ou explosão, bem como os danos provocados por incêndio que tenham origem em ato ou omissão que traduza dolo, culpa grave ou negligencia grosseira do Tomador do Seguro, do Segurado, do Condutor, ou de pessoas que com eles coabitem, deles dependam economicamente, incluindo assalariados, ou por quem, em geral, qualquer um deles seja civilmente responsável.",
+      "chunkType": "texto",
+      "docPage": 26
+    },
+    {
+      "chunkID": 64,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Quebra Isolada de Vidros",
+      "chunkContent": "CONDIÇÕES ESPECIAIS - QUEBRA ISOLADA DE VIDROS\nCLÁUSULA 1ª. DISPOSIÇÕES APLICÁVEIS: Aplicam-se as Condições Gerais do Seguro Automóvel Facultativo.\nCLÁUSULA 2ª. ÂMBITO DA GARANTIA: Garante o ressarcimento dos danos causados ao veículo seguro em virtude de quebra ou rutura isolada dos vidros (ou equivalente), do para-brisas, do óculo traseiro, do teto de abrir ou panorâmico e dos vidros laterais, ocasionada por evento que não cause outros danos no veículo.\nCLÁUSULA 3ª. RESSARCIMENTO DOS DANOS NO VEÍCULO SEGURO: O Segurador reserva-se ao direito de indicar o reparador que efetuará a reparação dos danos no veículo seguro.\nCLÁUSULA 4ª. ÂMBITO TERRITORIAL: As garantias abrangidas pela presente Condição Especial acompanharão o âmbito territorial contratado para o Seguro Obrigatório de Responsabilidade Civil Automóvel.\nCLÁUSULA 5ª. EXCLUSÕES: Excluem-se os danos que: a) Ocorram em faróis, farolins, espelhos retrovisores e indicadores de mudança de direção; b) Consistam em riscos, fendas ou raspões ou que ocorram em consequência de colocação defeituosa ou durante a operação de montagem ou de desmontagem; c) Sejam causados intencionalmente por qualquer pessoa com objetos que empunhem ou arremessem.",
+      "chunkType": "texto",
+      "docPage": 27
+    },
+    {
+      "chunkID": 65,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Furto ou Roubo",
+      "chunkContent": "CONDIÇÕES ESPECIAIS - FURTO OU ROUBO\nCLÁUSULA 1ª. DISPOSIÇÕES APLICÁVEIS: Aplicam-se as Condições Gerais do Seguro Automóvel Facultativo.\nCLÁUSULA 2ª. DEFINIÇÕES: Entende-se por FURTO OU ROUBO a subtração ilegítima do veículo seguro, dos seus componentes, acessórios ou extras, por motivo de roubo, furto ou furto de uso, na sua forma tentada, frustrada ou consumada.\nCLÁUSULA 3ª. ÂMBITO DA GARANTIA: Garante o ressarcimento dos danos causados ao veículo seguro resultantes do seu desaparecimento, destruição ou deterioração em consequência de roubo, furto ou furto de uso, na sua forma tentada, frustrada ou consumada.\nCLÁUSULA 4ª. EXCLUSÕES: Exclui-se o desaparecimento, a destruição, a danificação ou deterioração do veículo seguro que tenha origem ou seja devida a dolo, culpa grave ou negligência grosseira do Tomador do Seguro, do Segurado, do Condutor ou de pessoas que com eles coabitem, deles dependam economicamente, incluindo assalariados, ou por quem, em geral, qualquer um deles seja civilmente responsável. Fica igualmente excluído o desaparecimento, a destruição, a danificação ou deterioração do veículo seguro que tenha origem ou seja devida a abandono temporário do veículo seguro, aberto e/ou com a chave no seu interior, em espaço público.\nCLÁUSULA 5ª. CONDIÇÕES DE ACIONAMENTO DA GARANTIA: 1. Ocorrendo roubo, furto ou furto de uso, o Segurado deverá apresentar queixa às autoridades. 2. Em caso de desaparecimento do veículo, o Segurado adquire direito ao pagamento da indemnização após 60 dias da participação, se o veículo não tiver sido recuperado.",
+      "chunkType": "texto",
+      "docPage": 27
+    },
+    {
+      "chunkID": 66,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Fenómenos da Natureza - Definições e Âmbito",
+      "chunkContent": "CONDIÇÕES ESPECIAIS - FENÓMENOS DA NATUREZA\nCLÁUSULA 1ª. DISPOSIÇÕES APLICÁVEIS: Aplicam-se as Condições Gerais do Seguro Automóvel Facultativo.\nCLÁUSULA 2ª. DEFINIÇÕES: TEMPESTADES: Tufões, ciclones, furacões, queda de granizo, tornados e ventos fortes (>80 km/h) ou choque de objetos por eles projetados. INUNDAÇÕES: Trombas de água, chuvas torrenciais (>10mm em 10 min), rebentamento de adutores, coletores, drenos, diques e barragens, enxurradas ou transbordamento de cursos de água. FENÓMENOS SÍSMICOS: Tremores de terra, terramotos, maremotos, erupções vulcânicas, fogo subterrâneo e incêndio resultante. MOVIMENTOS DE TERRAS: Aluimentos, deslizamentos, derrocadas e afundamento de terrenos devidos a fenómenos geológicos.\nCLÁUSULA 3ª. ÂMBITO DA GARANTIA: Garante o ressarcimento dos danos causados ao veículo por tempestades, inundações, fenómenos sísmicos ou movimentos de terras, bem como pela queda de árvores, de telhas, de chaminés, de muros ou construções urbanas provocada pelos fenómenos referidos.",
+      "chunkType": "texto",
+      "docPage": 28
+    },
+    {
+      "chunkID": 67,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Fenómenos da Natureza - Exclusões e Condições de Acionamento",
+      "chunkContent": "CLÁUSULA 4ª. EXCLUSÕES: Exclui-se os danos: a) Causados por ação do mar não decorrente dos riscos garantidos; b) Causados pela ação continuada de outras superfícies de água; c) Resultantes de poluição, chuvas ácidas, radiações e radioatividade; d) Causados pelo mau estado das estradas; e) Provocados em jantes, câmaras de ar e pneus, quando não acompanhados de outros danos; f) Decorrentes de avarias pela circulação em espaços cobertos de água.\nCLÁUSULA 5ª. CONDIÇÕES DE ACIONAMENTO DA GARANTIA: 1. Danos por tempestades e inundações são considerados um único sinistro se ocorrerem nas 48h seguintes à primeira manifestação. A prova de ventos de 80km/h é feita por estação meteorológica ou por verificação de destruição num raio de 5km. 2. Danos por Fenómenos Sísmicos são considerados um único sinistro se ocorrerem nas 72h seguintes à primeira manifestação.",
+      "chunkType": "texto",
+      "docPage": 28
+    },
+    {
+      "chunkID": 68,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Atos de Vandalismo",
+      "chunkContent": "CONDIÇÕES ESPECIAIS - ATOS DE VANDALISMO\nCLÁUSULA 1ª. DISPOSIÇÕES APLICÁVEIS: Aplicam-se as Condições Gerais do Seguro Automóvel Facultativo.\nCLÁUSULA 2ª. ÂMBITO DA GARANTIA: Garante o ressarcimento dos danos causados ao veículo em consequência de: a) Atos de vandalismo, terrorismo e sabotagem; b) Ação de greves, tumultos, distúrbios laborais, motins e alterações da ordem pública; c) Atos praticados por autoridade legalmente constituída para salvaguarda de pessoas e bens.\nCLÁUSULA 3ª. EXCLUSÕES: Excluem-se os danos resultantes de roubo, furto, furto de uso, ou qualquer outra forma de subtração ilegítima do veículo seguro, direta ou indiretamente relacionados com os riscos garantidos por esta Condição Especial.",
+      "chunkType": "texto",
+      "docPage": 29
+    },
+    {
+      "chunkID": 69,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Valor de Aquisição",
+      "chunkContent": "CONDIÇÕES ESPECIAIS - VALOR DE AQUISIÇÃO\nCLÁUSULA 1ª. DISPOSIÇÕES APLICÁVEIS: Aplicam-se as Condições Gerais do Seguro Automóvel Facultativo.\nCLÁUSULA 2ª. DEFINIÇÕES: VALOR DE AQUISIÇÃO é o preço de venda ao público do veículo seguro, na data da sua aquisição, constante do catálogo de base, acrescido do custo do equipamento opcional de fábrica e extras adquiridos no ato de compra do veículo.\nCLÁUSULA 3ª. ÂMBITO E DURAÇÃO DA GARANTIA: 1. Garante o pagamento do Valor de Aquisição em caso de perda total do veículo seguro, ocorrida em consequência de sinistro abrangido pelas Garantias de Danos ao Veículo. 2. A garantia vigora até ao termo da anuidade em que o veículo seguro complete 3 anos, contados a partir da data do primeiro registo, salvo convenção em contrário.\nCLÁUSULA 4ª. CAPITAL SEGURO: O capital seguro corresponde ao valor de aquisição até ao termo do prazo de 3 anos. O Segurador e o Tomador do Seguro podem acordar, por escrito, a atualização do valor de aquisição.",
+      "chunkType": "texto",
+      "docPage": 29
+    },
+    {
+      "chunkID": 70,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Capital Seguro Proporcional nas Garantias de Danos ao Veículo",
+      "chunkContent": "CONDIÇÕES ESPECIAIS - CAPITAL SEGURO PROPORCIONAL NAS GARANTIAS DE DANOS AO VEÍCULO\nCLÁUSULA 1.ª - DISPOSIÇÕES APLICÁVEIS: Aplicam-se as Condições Gerais do Seguro Automóvel Facultativo.\nCLÁUSULA 2.ª - DEFINIÇÕES: VALOR VENAL é o valor de venda do veículo seguro apurado com base em tabelas de cotação de mercado ou, na sua ausência, com base na desvalorização convencionada sobre o último valor disponível.\nCLÁUSULA 3.ª - ÂMBITO DA GARANTIA: 1. Garante o ressarcimento dos danos causados ao veículo seguro em consequência de sinistro abrangido pelas Garantias de Danos ao Veículo, até ao limite do capital seguro. 2. As reparações podem ser realizadas com peças usadas ou de fabricantes independentes (IAM), desde que garantam o correto funcionamento. 3. Em caso de Perda Total: a) Não há dedução de franquia nem de salvado se este for <= 30% do valor venal; b) O Segurador pode procurar um veículo de substituição, com custos de aquisição a cargo do Segurado. 4. Em caso de sinistro, a indemnização é deduzida ao capital seguro, sem reposição.\nCLÁUSULA 4.ª - CAPITAL SEGURO: O capital seguro das Garantias de Danos ao Veículo corresponde a 70% do valor venal do veículo seguro, e encontra-se expresso nas Condições Particulares.",
+      "chunkType": "texto",
+      "docPage": 30
+    },
+    {
+      "chunkID": 71,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Veículo de Substituição - Definições",
+      "chunkContent": "CONDIÇÕES ESPECIAIS - VEÍCULO DE SUBSTITUIÇÃO\nCLÁUSULA 1ª. DISPOSIÇÕES APLICÁVEIS: Aplicam-se as Condições Gerais do Seguro Automóvel Facultativo.\nCLÁUSULA 2ª. DEFINIÇÕES:\nVEÍCULO DE GAMA BASE: a) Ligeiro de passageiros utilitário/compacto, 5 lugares, gasolina ou económico a gasóleo. b) Veículo comercial económico, misto ou pequeno furgão.\nVEÍCULO DE GAMA EQUIVALENTE: Ligeiro de passageiros semelhante ao seguro, 5 lugares, gasolina/gasóleo, até grupo familiar/intermédio. Exclui tração integral e monovolumes.\nVEÍCULO ECONÓMICO: Ligeiro de passageiros citadino, 4-5 lugares, combustível equivalente ao do seguro. Exclui veículos a gasóleo. Indisponível para Autocaravana/Caminheta.\nVEÍCULO FAMILIAR: Ligeiro de passageiros familiar, 5 lugares, combustível equivalente. Exclui veículos a gasóleo. Indisponível para Autocaravana, Caminheta, Ligeiro de Uso Misto, Pick-Up e Quadriciclo.\nVEÍCULO EXECUTIVO: Ligeiro de passageiros de gama superior ao Familiar, 5 lugares, combustível equivalente. Exclui veículos a gasóleo. Indisponível para Autocaravana, Caminheta, Ligeiro de Uso Misto, Pick-Up e Quadriciclo.\nVEÍCULO PEQUENO COMERCIAL: Comercial pequeno, 2-3 lugares, gasóleo, carga até 4 m³. Indisponível para Autocaravana, Ligeiro de Passageiros, Todo-o-Terreno e Quadriciclo.",
+      "chunkType": "texto",
+      "docPage": 31
+    },
+    {
+      "chunkID": 72,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Veículo de Substituição - Âmbito e Período",
+      "chunkContent": "CLÁUSULA 3ª. ÂMBITO DA GARANTIA: 1. Contratada na modalidade Acidente/Nível 1 ou Acidente e Avaria/Nível 2. 2. Garante a disponibilização de um veículo ligeiro nas seguintes situações: a) Acidente/Nível 1 - Em caso de privação de uso por acionamento de 'Responsabilidade Civil' ou 'Danos ao Veículo'. Também disponível se só esta cobertura for acionada, após prova do acidente. b) Acidente e Avaria/Nível 2 - Em caso de privação de uso por avaria ou situação do Nível 1. 3. A tipologia do veículo de substituição é a definida nas Condições Particulares. 4. Se não houver veículo idêntico disponível, o Segurador fornece um de acordo com a oferta de mercado. Em caso de desacordo, o Segurador paga um valor diário equivalente ao aluguer. 5. Em sinistros no estrangeiro, o Segurador reembolsa o valor do aluguer em Portugal de um veículo com características idênticas.\nCLÁUSULA 4ª. PERÍODO DE PRIVAÇÃO DE USO: 1. Conta-se: a) Danos sem imobilização: desde o início da reparação. b) Danos com imobilização: desde a participação do sinistro, com limite de 5 dias para o veículo de substituição até ao início da reparação. c) Perda total com indemnização: a partir da participação até 3º dia útil após verificação. d) Perda total sem indemnização: desde a participação, máximo 5 dias. e) Desaparecimento por furto/roubo: desde a participação até à localização ou reparação. 2. Limites por sinistro: a) Furto/roubo: dobro dos dias indicados. b) Avaria: um terço dos dias. c) Outras garantias: os dias indicados. 3. Limites por anuidade: a) Furto/roubo: 90 dias. b) Avaria: 20 dias. c) Outras garantias: dobro dos dias indicados.",
+      "chunkType": "texto",
+      "docPage": 31
+    },
+    {
+      "chunkID": 73,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Privação de Uso",
+      "chunkContent": "CONDIÇÕES ESPECIAIS - PRIVAÇÃO DE USO\nCLÁUSULA 1ª. DISPOSIÇÕES APLICÁVEIS: Aplicam-se as Condições Gerais do Seguro Automóvel Facultativo.\nCLÁUSULA 2ª. ÂMBITO DA GARANTIA: 1. Contratada na modalidade Acidente/Nível 1 ou Acidente e Avaria/Nível 2. 2. Garante indemnização diária em caso de: a) Acidente/Nível 1: privação de uso por danos cobertos por uma garantia de danos ao veículo. b) Acidente e Avaria/Nível 2: privação de uso por avaria ou qualquer situação do Nível 1.\nCLÁUSULA 3ª. PERÍODO DE PRIVAÇÃO DE USO: 1. Conta-se: a) Com indemnização: desde a participação do sinistro até dia útil posterior à comunicação da verificação de perda total. b) Danos com imobilização imediata: desde a participação até à reparação. O período entre participação e início da reparação está limitado a 5 dias. c) Desaparecimento por furto/roubo: desde a participação até à localização ou reparação. d) Perda total sem indemnização: desde a participação, máximo 5 dias. 2. É deduzida franquia em dias. 3. Limite por sinistro: a) Roubo: dobro dos dias indicados. b) Avaria: um terço dos dias. c) Outra garantia: os dias indicados. 4. Limite por anuidade: a) Roubo: 90 dias. b) Avaria: 20 dias (exceto pesados > 3.500 Kg). c) Outra garantia: dobro dos dias indicados.\nCLÁUSULA 4ª. DISPOSIÇÕES DIVERSAS: O Tomador do Seguro deve fornecer todos os elementos necessários à caracterização do risco, danos e dias a considerar.",
+      "chunkType": "texto",
+      "docPage": 33
+    },
+    {
+      "chunkID": 74,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem - Definições (Pessoas, Veículos)",
+      "chunkContent": "CONDIÇÕES ESPECIAIS - ASSISTÊNCIA EM VIAGEM\nCLÁUSULA PRELIMINAR: 1. Aplicável a Condição Especial de Assistência em Viagem. 2. Aplicável separadamente a cada veículo, salvo reboques. 3. Não aplicável a veículos de transporte de passageiros com mais de 9 lugares (aplicável Condição Especial para Autocarros).\nCLÁUSULA 1ª. DISPOSIÇÕES APLICÁVEIS: Aplicam-se as Condições Gerais do Seguro Automóvel Facultativo.\nCLÁUSULA 2ª. DEFINIÇÕES:\nPESSOAS SEGURAS: Tomador do Seguro, Segurado com residência em Portugal, cônjuge/pessoa em união de facto, ascendentes/descendentes de 1º grau, adotados, tutelados que coabitem. Representantes legais de pessoas coletivas e seus familiares nas mesmas condições, e empregados em deslocação no veículo seguro. Condutor legítimo e habilitado com residência em Portugal, e pessoas transportadas gratuitamente com domicílio em Portugal (exceto 'auto-stop').\nVEÍCULO SEGURO: O veículo identificado, bem como caravana ou reboque atrelados. Se o veículo for ligeiro, o peso do reboque não pode ultrapassar o peso bruto rebocável autorizado.\nVEÍCULO ELÉTRICO: Veículo ligeiro de passageiros ou motociclo/ciclomotor movido, exclusivamente, a proporção elétrica.",
+      "chunkType": "texto",
+      "docPage": 34
+    },
+    {
+      "chunkID": 75,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem - Definições (Operacionais)",
+      "chunkContent": "CLÁUSULA 2ª. DEFINIÇÕES (continuação):\nAVARIA: Falha de funcionamento que impeça o uso, exceto falta de combustível/energia, abastecimento incorreto ou furo/rebentamento de pneu (salvo se coberturas PLUS, VIP, eVIP forem contratadas).\nREBOQUE: Transferência do veículo do local do acidente/avaria para reparação/domicílio em Portugal ou local de recolha.\nDESEMPANAGEM: Tarefas no local para reposição em marcha provisória/definitiva. Por segurança, pode ser deslocado para estacionamento autorizado.\nTRANSPORTE: Transferência do veículo do local de recolha para reparação/domicílio em Portugal.\nREMOÇÃO OU EXTRAÇÃO: Tarefas para colocar o veículo sinistrado (capotado/queda) na via.\nRESIDÊNCIA HABITUAL: Local onde a Pessoa Segura reside habitualmente, com estabilidade e continuidade.\nSERVIÇO DE ASSISTÊNCIA: Serviço executado por entidade terceira, por conta do Segurador.\nSERVIÇO FÚNEBRE: Conjunto de serviços para o funeral da Pessoa Segura, conforme costumes locais.\nENTIDADE RESPONSÁVEL PELA ORGANIZAÇÃO DO SERVIÇO FÚNEBRE: Empresa contratada pelo Segurador para organizar o serviço de funeral.",
+      "chunkType": "texto",
+      "docPage": 35
+    },
+    {
+      "chunkID": 76,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Tabela - Garantias de Assistência às Pessoas Seguras",
+      "chunkContent": "Tabela de Garantias de Assistência às Pessoas Seguras, com Residência Habitual em Portugal e Bagagens\n1. Transporte ou Repatriamento Sanitário de Feridos ou Doentes: Standard/Basic: Não Garantido; Plus/VIP/eVIP/Standard Pesados/VIP Pesados: Ilimitado; Agrícola: Não Garantido. Âmbito: Portugal e Estrangeiro.\n2. Acompanhamento Durante o Transporte ou Repatriamento Sanitário: Standard/Basic: Não Garantido; Plus/VIP/eVIP/Standard Pesados/VIP Pesados: Ilimitado; Agrícola: Não Garantido. Âmbito: Portugal e Estrangeiro.\n3. Transporte ou Repatriamento das Pessoas Seguras: Standard/Basic: Não Garantido; Plus/VIP/eVIP/Standard Pesados/VIP Pesados: Ilimitado; Agrícola: Não Garantido. Âmbito: Portugal e Estrangeiro.\n4. Acompanhamento de Pessoa Segura Hospitalizada: Por Dia: Plus/VIP/eVIP: 125€; Standard/VIP Pesados: 75€. Máximo por Anuidade: Plus/VIP/eVIP: 1.250€; Standard/VIP Pesados: 750€. Standard/Basic/Agrícola: Não Garantido. Âmbito: Portugal e Estrangeiro.\n5. Bilhete de Ida e Volta para um Familiar e Respetiva Estadia: Transporte: Ilimitado para Plus/VIP/eVIP/Standard Pesados/VIP Pesados. Alojamento (Por Dia): Plus/VIP/eVIP: 125€; Standard/VIP Pesados: 100€. Alojamento (Máximo por Anuidade): Plus/VIP/eVIP: 1.250€; Standard/VIP Pesados: 1.000€. Standard/Basic/Agrícola: Não Garantido. Âmbito: Portugal e Estrangeiro.",
+      "chunkType": "tabela",
+      "docPage": 36
+    },
+    {
+      "chunkID": 77,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Tabela - Garantias de Assistência às Pessoas Seguras (Continuação)",
+      "chunkContent": "Tabela de Garantias de Assistência às Pessoas Seguras, com Residência Habitual em Portugal e Bagagens (Continuação)\n6. Despesas Médicas, Cirúrgicas, Farmacêuticas e de Hospitalização no Estrangeiro (*Limitado a 2 Ocupantes): Por Pessoa/Viagem: Plus/VIP/eVIP: 10.000€; Standard/VIP Pesados: 5.000€*. Máximo por Viagem: Plus/VIP/eVIP: 40.000€; Standard/VIP Pesados: 10.000€*. Standard/Basic/Agrícola: Não Garantido. Âmbito: Estrangeiro.\n7. Despesas com Prolongamento de Estadia em Hotel no Estrangeiro: Por Pessoa/Viagem: Plus/VIP/eVIP: 125€; Standard/VIP Pesados: 100€. Máximo por Viagem: Plus/VIP/eVIP: 1.250€; Standard/VIP Pesados: 1.000€. Standard/Basic/Agrícola: Não Garantido. Âmbito: Estrangeiro.\n8. Adiantamento de Fundos no Caso de Internamento Hospitalar no Estrangeiro: Por Pessoa/Viagem: Plus/VIP/eVIP: 10.000€. Máximo por Viagem: Plus/VIP/eVIP: 40.000€. Máximo por Anuidade: Standard/VIP Pesados: 3.750€. Outros: Não Garantido. Âmbito: Estrangeiro.\n9. Adiantamento de Fundos no Estrangeiro por Motivo de Força Maior: Por Pessoa/Viagem: Plus/VIP/eVIP: 1.250€. Máximo por Viagem: Plus/VIP/eVIP: 6.250€. Outros: Não Garantido. Âmbito: Estrangeiro.\n10. Envio Urgente, para o Estrangeiro, de Medicamentos Indispensáveis e de Uso Habitual: Standard/Basic: Não Garantido; Plus/VIP/eVIP/Standard Pesados/VIP Pesados: Ilimitado; Agrícola: Não Garantido. Âmbito: Estrangeiro.",
+      "chunkType": "tabela",
+      "docPage": 37
+    },
+    {
+      "chunkID": 78,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Tabela - Garantias de Assistência às Pessoas Seguras (Falecimento)",
+      "chunkContent": "Tabela de Garantias de Assistência às Pessoas Seguras, com Residência Habitual em Portugal e Bagagens (Continuação)\n11. Transporte ou Repatriamento de Pessoas Seguras Falecidas e Acompanhantes:\n- Transporte ou Repatriamento do Falecido e Formalidades: Ilimitado para Plus/VIP/eVIP/Pesados. Âmbito: Portugal e Estrangeiro.\n- Transporte dos Acompanhantes: Ilimitado para Plus/VIP/eVIP/Pesados. Âmbito: Portugal e Estrangeiro.\n- Transporte de um Familiar: Standard/Basic: Não Garantido; Plus/VIP/eVIP/Pesados: Ilimitado. Agrícola: Não Garantido. Âmbito: Portugal e Estrangeiro.\n- Alojamento de um Familiar: Por Dia: Plus/VIP/eVIP: 125€; Pesados: 75€. Máximo por Anuidade: Plus/VIP/eVIP: 1.250€; Pesados: 750€. Standard/Basic/Agrícola: Não Garantido. Âmbito: Portugal e Estrangeiro.\n- Urna: Plus: 750€; VIP/eVIP/Pesados: Não Garantido. Standard/Basic/Agrícola: Não Garantido.\n12. Regresso Antecipado da Pessoa Segura por Falecimento, Acidente Grave ou Doença Grave de um Familiar: Standard/Basic: Não Garantido; Plus/VIP/eVIP/Pesados: Ilimitado; Agrícola: Não Garantido. Âmbito: Estrangeiro.\n13. Assistência e Transporte em Caso de Furto, Roubo, Perda ou Extravio de Bagagens e/ou Objetos Pessoais: Standard/Basic: Não Garantido; Plus/VIP/eVIP/Pesados: Ilimitado; Agrícola: Não Garantido. Âmbito: Portugal e Estrangeiro.\n14. Transmissão de Mensagens Urgentes: Standard/Basic/Plus: Não Garantido; VIP/eVIP/Pesados: Ilimitado; Agrícola: Não Garantido. Âmbito: Portugal e Estrangeiro.",
+      "chunkType": "tabela",
+      "docPage": 38
+    },
+    {
+      "chunkID": 79,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Tabela - Assistência ao Veículo e Ocupantes (1)",
+      "chunkContent": "Tabela de Garantias de Assistência ao Veículo e Seus Ocupantes\n1.1. Desempanagem e/ou Reboque do Veículo Seguro e Remoção ou Extração: Desempanagem/Reboque: Standard/Basic: 200€; Plus/VIP/eVIP: 500€; Standard Pesados: 1.500€; VIP Pesados: 2.500€; Agrícola: 500€. Remoção/Extração: Standard/Basic: 75€; Plus/VIP/eVIP: 200€; Standard Pesados: 750€; VIP Pesados: 1.500€; Agrícola: 250€. Âmbito: Europa(2) ou Portugal.\n1.2. Substituição de Pneu em Caso de Furo ou Rebentamento: Standard/Basic: Não Garantido; Plus/VIP/eVIP: 250€; Standard Pesados: Não Garantido; VIP Pesados: 750€; Agrícola: Não Garantido. Âmbito: Europa ou Portugal.\n1.3. Envio de Peças de Substituição: Standard/Basic: Não Garantido; Plus/VIP/eVIP/Pesados: Ilimitado; Agrícola: Não Garantido. Âmbito: Europa(2) ou Portugal.\n1.4. Transporte ou Repatriamento do Veículo e Despesas de Recolha: Repatriamento/Transporte (Máximo 3 Ocorrências/Anuidade): Standard/Basic: Não Garantido; Plus/VIP/eVIP: Ilimitado; Pesados/Agrícola: Não Garantido. Despesas de Recolha: Standard/Basic: 250€; Plus/VIP/eVIP: 500€. Âmbito: Europa(2) ou Portugal.\n1.5. Despesas de Transporte a Fim de Recuperar o Veículo Seguro: Todos os planos exceto Agrícola: Ilimitado. Agrícola: Não Garantido. Âmbito: Europa(2) ou Portugal.",
+      "chunkType": "tabela",
+      "docPage": 39
+    },
+    {
+      "chunkID": 80,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Tabela - Assistência ao Veículo e Ocupantes (2)",
+      "chunkContent": "Tabela de Garantias de Assistência ao Veículo e Seus Ocupantes (Continuação)\n1.6. Envio de Motorista Profissional: Standard/Basic: Não Garantido; Plus/VIP/eVIP: Ilimitado(4); Pesados/Agrícola: Não Garantido. Âmbito: Europa(2) ou Portugal.\n1.7. Diligências para Localização do Veículo Seguro Roubado: Standard/Basic: Não Garantido; Plus/VIP/eVIP: Ilimitado; Pesados/Agrícola: Não Garantido. Âmbito: Europa(2) ou Portugal.\n1.8. Reboque em Caso de Furto ou Roubo: Standard/Basic: Não Garantido; Plus/VIP/eVIP: 100€; Pesados/Agrícola: Não Garantido. Âmbito: Europa(2) ou Portugal.\n1.9. Falta de Combustível/Energia Elétrica ou Abastecimento Incorreto (*Limite de 4 ocorrências/anuidade para elétricos): Standard/Basic: Não Garantido; Plus: Ilimitado*; VIP: Ilimitado; eVIP/Pesados/Agrícola: Não Garantido. Âmbito: Portugal.\n1.10. Perda de Chaves ou Chaves Trancadas Dentro da Viatura: Standard/Basic: Não Garantido; Plus/VIP/eVIP: Ilimitado(4); Pesados/Agrícola: Não Garantido. Âmbito: Europa(2) ou Portugal.\n1.11. Proteção, Vigilância e Transbordo das Mercadorias(5): 1.11.1 Proteção e Vigilância (Em Caso de Acidente): Por Dia: Plus: 200€; VIP/eVIP: 200€(4). Máximo por Anuidade: Plus: 400€; VIP/eVIP: 400€(4). 1.11.2 Transbordo das Mercadorias (Perecíveis): Plus: 375€; VIP/eVIP: 375€(4). Outros planos: Não Garantido. Âmbito: Europa(2) ou Portugal.",
+      "chunkType": "tabela",
+      "docPage": 40
+    },
+    {
+      "chunkID": 81,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Tabela - Assistência ao Veículo e Ocupantes (3)",
+      "chunkContent": "Tabela de Garantias de Assistência ao Veículo e Seus Ocupantes (Continuação)\n1.12. Falta de Energia do Veículo Elétrico: Standard/Basic/Plus/VIP: Não Garantido; eVIP: Ilimitado; Pesados/Agrícola: Não Garantido. Âmbito: Europa(2) ou Portugal.\n1.13. Transporte dos Ocupantes em Caso de Falta de Energia do Veículo Elétrico: Standard/Basic/Plus/VIP: Não Garantido; eVIP: Ilimitado; Pesados/Agrícola: Não Garantido. Âmbito: Europa(2) ou Portugal.\n1.14. Serviço de Reserva de Veículo de Substituição: Standard/Basic/Plus/VIP: Não Garantido; eVIP: Ilimitado(4); Pesados/Agrícola: Não Garantido. Âmbito: Europa(2) ou Portugal.\n1.15. Substituição do Veículo Elétrico em Caso de Urgência Médica com Familiar: Standard/Basic/Plus/VIP: Não Garantido; eVIP: 5 Dias(4); Pesados/Agrícola: Não Garantido. Âmbito: Europa(2) ou Portugal.\n2. Assistência aos Ocupantes do Veículo Seguro\n2.1. Transporte, Repatriamento ou Continuação de Viagem das Pessoas Seguras (Ocupantes):\n- 2.1.1. Transporte, Repatriamento ou Continuação da Viagem: Máx. Ocorrências: Standard: 2/anuidade; Basic/Plus/VIP/eVIP: 3/anuidade. Limites: Standard/Basic: Ilimitado; Plus/VIP/eVIP: Ilimitado; Pesados: Até 100 Km (Táxi, Comboio, Rodoviário). Agrícola: Não Garantido. Âmbito: Europa(2) ou Portugal.\n- 2.1.2. Veículo de Aluguer: Em Portugal: Standard/Basic/Plus/VIP/eVIP: 300€. No Estrangeiro: Standard: Não Garantido; Basic/Plus/VIP/eVIP: 300€. Pesados/Agrícola: Não Garantido.\n2.2. Transporte ou Repatriamento de Bagagens: Máx. Ocorrências: Standard: 2/anuidade; Basic/Plus/VIP/eVIP: 3/anuidade. Limites: Ilimitado para todos os planos exceto Agrícola. Âmbito: Europa(2) ou Portugal.",
+      "chunkType": "tabela",
+      "docPage": 41
+    },
+    {
+      "chunkID": 82,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Tabela - Assistência ao Veículo e Ocupantes (4) e Notas de Rodapé",
+      "chunkContent": "Tabela de Garantias de Assistência ao Veículo e Seus Ocupantes (Continuação)\n2.3. Despesas de Dormida em Hotel: Por Dia/Pessoa: Plus/VIP/eVIP: 125€; Pesados: 75€. Máximo por Anuidade e Pessoa: Plus/VIP/eVIP: 250€; Pesados: 150€. Outros planos: Não Garantido. Âmbito: Europa(2) ou Portugal.\n2.4. Veículo de Substituição em Caso de Acidente ou Avaria (Até 5 Dias, Máx 3 Ocorrências/Anuidade): Standard/Basic: Não Garantido; Plus: Ilimitado(4); VIP/eVIP: Grupo Económico ou Familiar(4); Pesados/Agrícola: Não Garantido. Âmbito: Europa ou Portugal.\n2.5. Condutor Particular em Caso de Incapacidade Física (Máx 30 Dias/Anuidade, 7h-22h): Standard/Basic: Não Garantido; Plus/VIP/eVIP: 1.500€(4); Pesados/Agrícola: Não Garantido. Âmbito: Europa(2) ou Portugal.\n2.6. Transporte de Animais Domésticos (Em Caso de Acidente): Standard/Basic: Não Garantido; Plus/VIP/eVIP: Ilimitado(4); Pesados/Agrícola: Não Garantido. Âmbito: Europa(2) ou Portugal.\n2.7. Repatriamento e Organização de Serviço Fúnebre: Standard/Basic: Não Garantido; Todos os outros: Ilimitado. Âmbito: Europa(2) ou Portugal.\nNotas de Rodapé:\n(1) Âmbito territorial para Pessoas Seguras com residência no estrangeiro e domicílio em Portugal é unicamente Portugal.\n(2) Países não europeus da bacia do Mediterrâneo garantidos (Síria, Líbano, Israel, Palestina, Egito, Líbia, Tunísia, Argélia, Marrocos).\n(3) Ponto 1.4: se o valor do veículo no mercado português for inferior ao custo de reparação, a Assistência suporta apenas as despesas de abandono legal.\n(4) Garantia aplica-se a veículos automóveis ligeiros de uso particular.\n(5) Ponto 1.11: garantias válidas somente para veículos destinados ao transporte de mercadorias.\n(6) Assistência em Viagem eVIP destina-se exclusivamente a veículos elétricos.\n(7) Assistência a máquinas agrícolas está limitada ao território português.",
+      "chunkType": "tabela",
+      "docPage": 42
+    },
+    {
+      "chunkID": 83,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Tabela - Outros Serviços Associados e Notas de Rodapé",
+      "chunkContent": "Tabela de Outros Serviços Associados\n1.1. Assistência Telefónica no Momento do Sinistro: Ilimitado para todos os planos, exceto Agrícola (Não Garantido). Âmbito: Europa e Países não Europeus da Bacia do Mediterrâneo.\n1.2. Informações Úteis em Viagem: Ilimitado para todos os planos, exceto Agrícola (Não Garantido). Âmbito: Europa.\n1.3. Agendamento e Reserva de Serviços em Viagem: Ilimitado para todos os planos, exceto Agrícola (Não Garantido). Âmbito: Europa e Países não Europeus da Bacia do Mediterrâneo.\n1.4. Informação Sobre a Evolução do Estado de Saúde dos Sinistrados Graves Internados: Ilimitado para todos os planos, exceto Agrícola (Não Garantido). Âmbito: Portugal e Estrangeiro.\n2. Informação Sobre Profissionais que Possam Assegurar o Transporte: Ilimitado para todos os planos (VIP/eVIP com nota 2), exceto Agrícola (Não Garantido). Âmbito: Portugal.\nNotas de Rodapé:\n(1) O custo dos serviços prestados pelos referidos profissionais será pago pelo Segurado, a um preço/hora negociado pelo Serviço de Assistência.\n(2) Esta garantia só se aplica a veículos automóveis ligeiros de uso particular.",
+      "chunkType": "tabela",
+      "docPage": 43
+    },
+    {
+      "chunkID": 84,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Cláusula 4ª - Âmbito Territorial",
+      "chunkContent": "CLÁUSULA 4.ª - ÂMBITO TERRITORIAL\n1. As garantias de assistência às Pessoas Seguras com residência habitual em Portugal (Cláusula 6ª) vigoram em todo o Mundo, exceto as dos nºs 6, 7, 8, 9, 10 e 12 que só vigoram fora de Portugal.\n2. As garantias de assistência ao veículo seguro e ocupantes com residência habitual em Portugal (Cláusula 7ª) vigoram em Portugal, resto da Europa e países não europeus da bacia do Mediterrâneo (Síria, Líbano, Israel, etc.), exceto: a) A indicada no nº 1.9 (Falta de combustível/energia) que só vigora em Portugal; b) As indicadas nos n.os 1.2 (Substituição de pneu) e 2.4 (Veículo de substituição), que só vigoram em Portugal e nos restantes Países da Europa.\n3. As garantias de assistência ao veículo e ocupantes com domicílio em Portugal mas residência habitual no estrangeiro estão limitadas a Portugal.\n4. Os Outros Serviços Associados às Pessoas Seguras com residência habitual em Portugal (Cláusula 8ª) vigoram na Europa e países da bacia do Mediterrâneo, exceto: a) O indicado em 1.2 (Informações úteis) que vigora na Europa; b) O indicado em 1.4 (Informação de saúde) que vigora em todo o Mundo; c) O indicado em 2. (Informação sobre profissionais) que vigora em Portugal.",
+      "chunkType": "texto",
+      "docPage": 44
+    },
+    {
+      "chunkID": 85,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Cláusula 5ª - Validade",
+      "chunkContent": "CLÁUSULA 5.ª - VALIDADE\n1. As garantias são válidas desde que as Pessoas Seguras tenham domicílio em Portugal e não se ausentem por mais de 60 dias.\n2. Sem prejuízo do ponto 3, as garantias suspendem-se para cada Pessoa Segura durante a sua permanência no estrangeiro por mais de 60 dias e caducam se deixar de ter domicílio em Portugal.\n3. A permanência do Veículo Seguro no estrangeiro por mais de 60 dias determina a suspensão das garantias enquanto aí permanecer.",
+      "chunkType": "texto",
+      "docPage": 44
+    },
+    {
+      "chunkID": 86,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Cláusula 6ª - Garantias de Assistência a Pessoas (Transporte e Repatriamento)",
+      "chunkContent": "CLÁUSULA 6.ª - GARANTIAS DE ASSISTÊNCIA A PESSOAS E SUAS BAGAGENS\n1. Transporte ou repatriamento sanitário de feridos ou doentes: Se as Pessoas Seguras adoecerem ou sofrerem ferimentos, o Serviço de Assistência cobre, até aos limites, a) despesas de transporte em ambulância ou outro meio para a clínica/hospital mais próximo; b) determinação do tratamento e meio de transporte para transferência para outro hospital ou domicílio em Portugal. O meio de transporte (ex: avião sanitário) depende da urgência e local. Esta garantia requer contratação de Assistência em Viagem PLUS, VIP, eVIP, STANDARD PESADOS ou VIP PESADOS.\n2. Acompanhamento, durante o transporte ou repatriamento sanitário: O Serviço de Assistência pode suportar as despesas de acompanhamento por outra pessoa que se encontre no local, se clinicamente aconselhável. Requer contratação de Assistência em Viagem PLUS, VIP, eVIP, STANDARD PESADOS ou VIP PESADOS.\n3. Transporte ou repatriamento das Pessoas Seguras: Se o repatriamento de uma Pessoa Segura impedir o regresso das restantes, o Serviço de Assistência suporta o transporte destas para o seu domicílio. Para menores de 15 anos sem acompanhante, o serviço contrata uma pessoa para viajar com eles. Requer contratação de Assistência em Viagem PLUS, VIP, eVIP, STANDARD PESADOS ou VIP PESADOS.",
+      "chunkType": "texto",
+      "docPage": 44
+    },
+    {
+      "chunkID": 87,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Cláusula 6ª - Garantias de Assistência a Pessoas (Acompanhamento e Despesas Médicas)",
+      "chunkContent": "CLÁUSULA 6.ª - GARANTIAS DE ASSISTÊNCIA A PESSOAS E SUAS BAGAGENS (Continuação)\n4. Acompanhamento de Pessoa Segura hospitalizada: Se a Pessoa Segura for hospitalizada e não puder ser transportada, o Serviço de Assistência suporta a estadia em hotel de um familiar ou outra pessoa presente no local. Requer contratação de Assistência em Viagem PLUS, VIP, eVIP, STANDARD PESADOS ou VIP PESADOS.\n5. Bilhete de ida e volta para um familiar e respetiva estadia: Se a hospitalização for superior a 5 dias e não houver outra Pessoa Segura para acompanhar, o serviço paga a viagem e estadia de um familiar para a visitar. Requer contratação de Assistência em Viagem PLUS, VIP, eVIP, STANDARD PESADOS ou VIP PESADOS.\n6. Despesas médicas, cirúrgicas, farmacêuticas e de hospitalização no estrangeiro: Em caso de doença ou acidente no estrangeiro, o Serviço de Assistência suporta, até aos limites, a) Honorários médicos e cirúrgicos; b) Despesas com produtos farmacêuticos prescritos; c) Despesas de hospitalização; d) Despesas de enfermagem. Requer contratação de Assistência em Viagem PLUS, VIP, eVIP, STANDARD PESADOS ou VIP PESADOS.",
+      "chunkType": "texto",
+      "docPage": 45
+    },
+    {
+      "chunkID": 88,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Cláusula 6ª - Garantias de Assistência a Pessoas (Adiantamentos e Envio de Medicamentos)",
+      "chunkContent": "CLÁUSULA 6.ª - GARANTIAS DE ASSISTÊNCIA A PESSOAS E SUAS BAGAGENS (Continuação)\n7. Despesas com prolongamento de estadia em hotel no estrangeiro: Se, após doença/acidente, a Pessoa Segura não precisar de hospitalização mas não puder regressar na data prevista, o serviço suporta a estadia em hotel para si e um acompanhante. Requer contratação de Assistência em Viagem PLUS, VIP, eVIP, STANDARD PESADOS ou VIP PESADOS.\n8. Adiantamento de fundos em caso de internamento hospitalar no estrangeiro: Se as despesas de internamento excederem o capital seguro, o Serviço de Assistência pode adiantar o valor necessário, mediante documento de dívida. O reembolso deve ser feito em 60 dias. Requer contratação de Assistência em Viagem PLUS, VIP, eVIP, STANDARD PESADOS ou VIP PESADOS.\n9. Adiantamento de fundos no estrangeiro por motivo de força maior: Em caso de necessidade de fundos por força maior, o serviço adianta valores, mediante documento de dívida e, em caso de furto/roubo, denúncia às autoridades. Reembolso em 60 dias. Requer contratação de Assistência em Viagem PLUS, VIP ou eVIP.\n10. Envio urgente de medicamentos indispensáveis: O serviço suporta o envio de medicamentos indispensáveis e sem sucedâneos locais. O custo dos medicamentos é da Pessoa Segura. Requer contratação de Assistência em Viagem PLUS, VIP, eVIP, STANDARD PESADOS ou VIP PESADOS.",
+      "chunkType": "texto",
+      "docPage": 46
+    },
+    {
+      "chunkID": 89,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Cláusula 6ª - Garantias de Assistência a Pessoas (Falecimento, Regresso Antecipado, Bagagens)",
+      "chunkContent": "CLÁUSULA 6.ª - GARANTIAS DE ASSISTÊNCIA A PESSOAS E SUAS BAGAGENS (Continuação)\n11. Transporte ou repatriamento de Pessoas Seguras falecidas e acompanhantes: Em caso de morte em viagem, o serviço suporta as formalidades e o transporte/repatriamento para o local de inumação/cremação em Portugal. Comparticipa no custo da urna (exclusivo para Viagem PLUS). Se necessário, suporta o transporte de um familiar para o local. Requer contratação de Assistência em Viagem PLUS, VIP, eVIP, STANDARD PESADOS ou VIP PESADOS.\n12. Regresso antecipado da Pessoa Segura por falecimento, acidente ou doença grave de um familiar: Em caso de morte ou doença/acidente grave de familiar próximo em Portugal, enquanto a Pessoa Segura está no estrangeiro, o serviço suporta o transporte para o local em Portugal e o regresso ao local da viagem. Requer contratação de Assistência em Viagem PLUS, VIP, eVIP, STANDARD PESADOS ou VIP PESADOS.\n13. Assistência e transporte em caso de furto, roubo, perda ou extravio de bagagens e/ou objetos pessoais: O serviço assiste na participação às autoridades e, se os bens forem encontrados, paga o seu envio. Requer contratação de Assistência em Viagem PLUS, VIP, eVIP, STANDARD PESADOS ou VIP PESADOS.",
+      "chunkType": "texto",
+      "docPage": 47
+    },
+    {
+      "chunkID": 90,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Cláusula 7ª - Garantias de Assistência ao Veículo e Ocupantes",
+      "chunkContent": "CLÁUSULA 7.ª - GARANTIAS DE ASSISTÊNCIA AO VEÍCULO E SEUS OCUPANTES\n14. Transmissão de mensagens urgentes: O Serviço de Assistência transmite mensagens urgentes solicitadas pela Pessoa Segura. Requer contratação de Assistência em Viagem PLUS.\n1. Assistência ao Veículo Seguro\n1.1. Desempanagem e/ou Reboque: Em caso de avaria, acidente ou furto/roubo que imobilize o veículo, o serviço suporta o reboque para a oficina indicada/mais próxima. Pode, em alternativa, enviar um mecânico para reparação no local. Limitado a 3 ocorrências/anuidade por avaria.\n1.2. Substituição de pneu: Em Portugal, se houver furo/rebentamento, o serviço envia um mecânico para substituir pelo sobresselente. Se impossível, paga o reboque. Requer contratação de Assistência em Viagem PLUS, VIP, eVIP ou VIP PESADOS.\n1.3. Envio de peças de substituição: O serviço suporta o envio das peças necessárias à reparação, sendo o custo das peças e direitos aduaneiros por conta da Pessoa Segura. Requer contratação de Assistência em Viagem PLUS, VIP, STANDARD PESADOS ou VIP PESADOS.",
+      "chunkType": "texto",
+      "docPage": 48
+    },
+    {
+      "chunkID": 91,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Cláusula 7ª - Garantias ao Veículo (Transporte, Recuperação, Motorista)",
+      "chunkContent": "CLÁUSULA 7.ª - GARANTIAS DE ASSISTÊNCIA AO VEÍCULO E SEUS OCUPANTES (Continuação)\n1.4. Transporte ou repatriamento do veículo: Quando o veículo precisa de reparação que não possa ser feita no dia (em Portugal), ou demora mais de 72h (ou 8h de tarifário) ou é recuperado de furto após o regresso da Pessoa Segura, o Serviço de Assistência suporta o transporte/repatriamento do veículo para o domicílio ou oficina. Se o valor do veículo for inferior ao custo do transporte, suporta apenas as despesas de abandono legal. Requer contratação de Assistência em Viagem BASIC, PLUS, STANDARD, VIP ou eVIP.\n1.5. Despesas de transporte para recuperar o veículo: Se o veículo for reparado no local do sinistro e não se usou a garantia de repatriamento, o serviço suporta o transporte da Pessoa Segura para recuperar o veículo. Requer contratação de Assistência em Viagem BASIC, PLUS, STANDARD, VIP, eVIP, STANDARD PESADOS ou VIP PESADOS.\n1.6. Envio de motorista profissional: Se a Pessoa Segura for repatriada por doença/morte ou ficar incapacitada para conduzir, o serviço suporta um motorista para reconduzir o veículo e ocupantes ao domicílio. Requer contratação de Assistência em Viagem PLUS, VIP ou eVIP.",
+      "chunkType": "texto",
+      "docPage": 49
+    },
+    {
+      "chunkID": 92,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Cláusula 7ª - Garantias ao Veículo (Roubo, Combustível, Chaves)",
+      "chunkContent": "CLÁUSULA 7.ª - GARANTIAS DE ASSISTÊNCIA AO VEÍCULO E SEUS OCUPANTES (Continuação)\n1.7. Diligências para localização do veículo seguro roubado: Após comunicação do desaparecimento, o serviço regista os dados do veículo e divulga-os à ARGOS, alfândegas e INTERPOL. Requer contratação de Assistência em Viagem PLUS, VIP ou eVIP.\n1.8. Reboque em caso de Furto ou Roubo: Se o veículo furtado for localizado e rebocado por iniciativa policial, o serviço reembolsa as despesas de reboque. Requer contratação de Assistência em Viagem PLUS, VIP ou eVIP.\n1.9. Falta de combustível/energia elétrica ou abastecimento incorreto: Em Portugal, se o veículo ficar imobilizado por falta de combustível, o serviço envia um profissional para fornecer o necessário. Se for por abastecimento incorreto, o serviço suporta a desempanagem/reboque. Se for veículo elétrico, o serviço suporta o reboque para o Posto de Carregamento mais próximo. Requer contratação de Assistência em Viagem PLUS ou VIP.\n1.10. Perda de chaves ou chaves trancadas dentro da viatura: O serviço suporta o envio de um perito para abrir a porta e o arranque. Custos de reposição/arranjo da fechadura/chaves são da Pessoa Segura. Aplica-se a veículos ligeiros particulares com Assistência PLUS, VIP ou eVIP.",
+      "chunkType": "texto",
+      "docPage": 50
+    },
+    {
+      "chunkID": 93,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Cláusula 7ª - Garantias ao Veículo (Mercadorias, Energia, Reserva)",
+      "chunkContent": "CLÁUSULA 7.ª - GARANTIAS DE ASSISTÊNCIA AO VEÍCULO E SEUS OCUPANTES (Continuação)\n1.11. Proteção, vigilância e transbordo das mercadorias: Apenas para veículos de transporte de mercadorias. 1.11.1 Proteção e vigilância: Se o veículo e mercadorias ficarem abandonados, o serviço garante vigilância por até 48 horas. 1.11.2 Transbordo das mercadorias: Se o veículo ficar impedido de prosseguir, o serviço assiste no transbordo das mercadorias perecíveis. Requer Assistência em Viagem PLUS, VIP ou eVIP.\n1.12. Falta de energia do veículo elétrico: O serviço suporta o reboque do veículo elétrico para o Posto de Carregamento Rápido mais próximo ou Residência Habitual. Requer Assistência em Viagem eVIP.\n1.13. Transporte dos ocupantes em caso de falta de energia do veículo elétrico: O serviço organiza e suporta o transporte dos ocupantes por táxi para o domicílio (em Portugal) ou para o posto de carregamento mais próximo (no Estrangeiro). Requer Assistência em Viagem eVIP.\n1.14. Serviço de reserva de veículo de substituição: Mediante solicitação, o serviço procede ao transporte do veículo seguro para o local de férias ou de um aluguer de veículo. Custo do transporte/aluguer é da Pessoa Segura.",
+      "chunkType": "texto",
+      "docPage": 51
+    },
+    {
+      "chunkID": 94,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Cláusula 7ª - Garantias aos Ocupantes",
+      "chunkContent": "CLÁUSULA 7.ª - GARANTIAS DE ASSISTÊNCIA AO VEÍCULO E SEUS OCUPANTES (Continuação)\n1.15. Substituição do veículo elétrico em caso de urgência médica com familiar: Após acidente/morte de um Familiar que obrigue a deslocação da Pessoa Segura a mais de 150 km, o serviço organiza e suporta o aluguer de um veículo de substituição. Requer Assistência em Viagem eVIP.\n2. Assistência aos Ocupantes do Veículo Seguro\n2.1. Transporte, repatriamento ou continuação de viagem das Pessoas Seguras (Ocupantes): Se o veículo não for reparável no dia (ou a reparação demorar mais de 6h) ou em caso de desaparecimento, o serviço encarrega-se do transporte, repatriamento ou continuação da viagem, ou pode disponibilizar um veículo de aluguer. \n2.1.1. Transporte, repatriamento ou continuação da viagem: O serviço garante o transporte até ao domicílio ou destino da viagem. Requer Assistência BASIC, PLUS, STANDARD, VIP, eVIP, ou PESADOS.\n2.1.2. Veículo de aluguer: O serviço pode disponibilizar um veículo de aluguer por até 48 horas, para o trajeto entre a ocorrência e o domicílio ou destino. Requer Assistência BASIC (só PT), PLUS, STANDARD (só PT), VIP, eVIP.\n2.2. Transporte ou Repatriamento de bagagens: O serviço encarrega-se do transporte de bagagens e objetos pessoais (até 100Kg por veículo). Requer Assistência BASIC, PLUS, STANDARD, VIP, eVIP, ou PESADOS.",
+      "chunkType": "texto",
+      "docPage": 52
+    },
+    {
+      "chunkID": 95,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Cláusula 7ª - Garantias aos Ocupantes (Continuação)",
+      "chunkContent": "CLÁUSULA 7.ª - GARANTIAS DE ASSISTÊNCIA AO VEÍCULO E SEUS OCUPANTES (Continuação)\n2.3. Despesas de dormida em hotel: Se o veículo não for reparável no dia, o serviço suporta as despesas de hotel para as Pessoas Seguras aguardarem a reparação. Requer Assistência PLUS, VIP, eVIP, STANDARD PESADOS ou VIP PESADOS.\n2.4. Veículo de substituição em caso de acidente ou avaria: Se o acidente/avaria imobilizar o veículo, o serviço disponibiliza um veículo de substituição (ligeiro de passageiros ou comercial, conforme o seguro) por até 5 dias por anuidade (máx. 3 ocorrências). Se não houver veículo disponível, paga um valor equivalente ao aluguer. O custo do seguro do veículo de substituição é limitado ao obrigatório. A garantia não abrange avaria por mau uso, culpa do condutor ou durante manutenção/reparação. Requer Assistência PLUS, VIP ou eVIP para veículos ligeiros particulares.\n2.5. Condutor particular em caso de incapacidade física, por acidente de viação, para a condução: Para o condutor habitual, se ficar incapacitado, o serviço disponibiliza um motorista para deslocações casa-trabalho/clínica, por até 30 dias/anuidade. Requer Assistência PLUS, VIP ou eVIP para veículos ligeiros particulares.",
+      "chunkType": "texto",
+      "docPage": 53
+    },
+    {
+      "chunkID": 96,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Cláusula 7ª - Garantias aos Ocupantes (Animais e Serviço Fúnebre)",
+      "chunkContent": "CLÁUSULA 7.ª - GARANTIAS DE ASSISTÊNCIA AO VEÍCULO E SUAS OCUPANTES (Continuação)\n2.6. Transporte de animais domésticos: Em caso de acidente que ative as garantias de transporte, o serviço garante o transporte dos animais domésticos que viajavam no veículo para o domicílio ou destino. Não abrange animais de competição ou caça. Requer Assistência PLUS, VIP ou eVIP para veículos ligeiros particulares.\n2.7. Repatriamento e organização de serviço fúnebre: Se ocorrer a morte do condutor ou ocupante por acidente de viação, o serviço organiza o serviço fúnebre em Portugal, incluindo transladação. Se a morte ocorrer no estrangeiro, o serviço trata das formalidades e repatriamento do corpo para inumação ou cremação em Portugal. O serviço fúnebre inclui: a) Inumação ou cremação; b) Urna em pinho; c) Pote ou urna de cinzas; d) Duas coroas ou palma de flores; e) Transporte funerário (200km); f) Obtenção de documentos; g) Pagamento de taxas cemiteriais. Não inclui aquisição de jazigo/sepultura. Requer Assistência PLUS, VIP, eVIP, STANDARD PESADOS, VIP PESADOS ou AGRÍCOLA.",
+      "chunkType": "texto",
+      "docPage": 54
+    },
+    {
+      "chunkID": 97,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Cláusula 8ª - Outros Serviços Associados",
+      "chunkContent": "CLÁUSULA 8ª - OUTROS SERVIÇOS ASSOCIADOS\n1. O Serviço de Assistência dispõe de um serviço telefónico 24h para:\n1.1. Assistência telefónica no momento do sinistro: Fornece apoio e recomendações para: a) Preenchimento da declaração amigável; b) Recolha de elementos do acidente; c) Recolha e identificação de testemunhas; d) Participação do sinistro ao Segurador.\n1.2. Informações úteis em viagem: Fornece informações em Portugal e Europa sobre: a) Meteorologia; b) Trânsito; c) Itinerários; d) Oficinas; e) Estações de combustível, hotéis, pousadas e restaurantes.\n1.3. Agendamento e reserva de serviços em viagem: Promove a marcação e reserva de alojamento, refeições e reparações em oficinas. O custo dos serviços é suportado pelo Segurado.\n1.4. Informação sobre a evolução do estado de saúde dos sinistrados graves internados: Presta informação, através da sua equipa médica, sobre a evolução da saúde dos sinistrados.\n2. O Serviço de Assistência garante o envio de profissionais para assegurar: Transporte particular das Pessoas Seguras; Transporte e transbordo de mercadorias. O custo dos serviços é pago pelo Segurado a um preço/hora negociado.",
+      "chunkType": "texto",
+      "docPage": 55
+    },
+    {
+      "chunkID": 98,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Cláusula 9ª - Exclusões",
+      "chunkContent": "CLÁUSULA 9ª - EXCLUSÕES\n1. Para além das exclusões gerais (obrigatório e facultativo) e das específicas de cada garantia, fica excluído o pagamento de prestações resultantes de:\na) Despesas médicas em Portugal; b) Parto ou complicações de gravidez (salvo nos primeiros 6 meses); c) Exames programados ou tratamento de condição médica pré-existente conhecida; d) Morte por suicídio ou lesões autoinfligidas; e) Tratamento de doenças por ingestão intencional de tóxicos, álcool, drogas; f) Doença mental; g) Próteses, óculos, lentes de contacto; h) Desportos em competição; i) Conduta dolosa; j) Despesas com funeral (exceto se por acidente de viação); k) Despesas com combustível, reparações, roubo/furto de acessórios; l) Despesas de hotel/restaurante/táxis não previstas; m) Despesas por furto/roubo se não houver participação imediata às autoridades.\n2. Para Pessoas Seguras com residência no estrangeiro (mas domicílio em Portugal), ficam excluídas as prestações das Cláusulas 6ª e 8ª, e as da 7ª se o evento ocorrer no estrangeiro.",
+      "chunkType": "texto",
+      "docPage": 55
+    },
+    {
+      "chunkID": 99,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Assistência em Viagem | Cláusulas 10ª, 11ª, 12ª, 13ª - Disposições Diversas",
+      "chunkContent": "CLÁUSULA 10ª - REEMBOLSO DE TÍTULOS DE TRANSPORTE NÃO UTILIZADOS: As Pessoas Seguras devem promover a recuperação de títulos de transporte não utilizados e entregar as importâncias ao Serviço de Assistência.\nCLÁUSULA 11ª - COMPLEMENTARIDADE: As prestações são pagas em excesso a outros seguros ou comparticipações da Segurança Social. A Pessoa Segura deve obter essas prestações e devolvê-las ao Serviço de Assistência se este as tiver adiantado.\nCLÁUSULA 12ª - DISPOSIÇÕES DIVERSAS: 1. O Segurador e o Serviço de Assistência não se responsabilizam por atrasos devidos a força maior. 2. A Pessoa Segura será reembolsada no regresso a Portugal dos gastos garantidos se a intervenção direta não for possível. 3. As despesas de comunicação para acionar as garantias ficam a cargo do Serviço de Assistência.\nCLÁUSULA 13ª - PERÍODO DE CARÊNCIA: Em caso de avaria, se o veículo estiver sem seguro válido há mais de 30 dias, a vigência desta Condição Especial tem um período de carência de 15 dias.",
+      "chunkType": "texto",
+      "docPage": 56
+    },
+    {
+      "chunkID": 100,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção Jurídica - Definições",
+      "chunkContent": "CONDIÇÕES ESPECIAIS - PROTEÇÃO JURÍDICA\nCLÁUSULA 1ª. DISPOSIÇÕES APLICÁVEIS: Aplicam-se as Condições Gerais do Seguro Automóvel Facultativo.\nCLÁUSULA 2ª. OBJETO E ÂMBITO DA GARANTIA: 1. Garante a proteção jurídica de interesses das Pessoas Seguras decorrentes de acidente de viação. 2. A Empresa Gestora paga despesas e realiza procedimentos de assistência jurídica para defender os direitos das Pessoas Seguras.\nCLÁUSULA 3ª. DEFINIÇÕES:\nPESSOAS SEGURAS: O Tomador do Seguro, o Segurado, o Condutor autorizado e as pessoas transportadas a título legítimo e gratuito.\nVEÍCULO SEGURO: O veículo identificado, e a caravana ou reboque atrelados no momento do evento.\nEMPRESA GESTORA: FIDELIDADE ASSISTÊNCIA – Companhia de Seguros, S.A., NIPC 503411515, que gere os sinistros desta condição.\nDESPESAS: Despesas suportadas pela Empresa Gestora para defesa dos interesses, incluindo: a) Honorários de advogado; b) Honorários de peritos e árbitros; c) Honorários de peritos médico-legais; d) Preparos, taxa de justiça e custas judiciais; e) Outras prestações expressamente garantidas.\nEVENTO: a) Em ação cível: a ocorrência do facto danoso. b) Em ação penal: a prática ou suspeita de infração. c) Em ações contratuais: o não cumprimento ou violação de disposição legal/contratual. d) Em múltiplas violações: a primeira causa adequada das outras.",
+      "chunkType": "texto",
+      "docPage": 57
+    },
+    {
+      "chunkID": 101,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção Jurídica - Modalidades e Tabela de Garantias",
+      "chunkContent": "CLÁUSULA 4ª. MODALIDADES CONTRATADAS\n1. A presente Condição Especial pode ser contratada na modalidade Nível 1 ou Nível 3, cujas garantias e valores máximos constam do quadro seguinte. É aplicável separadamente a cada veículo na apólice, salvo reboques.\nTabela de Garantias e Modalidades:\n1. Defesa e Reclamação em Caso de Acidente:\n- 1.1. Defesa em Processo Penal: Nível 1: 1.250 €, Nível 3: 1.750 €\n- 1.2. Defesa Civil: Nível 1: Não Garantido, Nível 3: 1.500 €\n- 1.2. Reclamação por Danos Decorrentes de Lesões Corporais: Nível 1: 2.000 €, Nível 3: 2.500 €\n- 1.3. Reclamação por Danos Decorrentes de Lesões Materiais: Nível 1: 1.500 €, Nível 3: 2.000 €\n- § Limite de Reclamação por Danos Materiais e Corporais: Nível 1: 2.500 €, Nível 3: 3.000 €\n2. Adiantamentos:\n- 2.1. De Cauções (Custas e Preparos): Nível 1: 750 €, Nível 3: 1.250 €\n- 2.1. De Cauções (Penais): Nível 1: 3.750 €, Nível 3: 4.250 €\n- 2.2. De Indemnizações: Nível 1: 6.000 €, Nível 3: 6.500 €\n- 2.3. Para Pagamento de Multas no Estrangeiro: Nível 1: 2.500 €, Nível 3: 2.500 €\n3. Reclamação em Caso de Reparação Defeituosa do Veículo Seguro: Nível 1: 2.000 €, Nível 3: 2.500 €\n4. Insolvência ou Falência de Terceiros:\n- Em Portugal: Nível 1: 5.000 €, Nível 3: 5.750 €\n- No Estrangeiro: Nível 1: 2.500 €, Nível 3: 3.000 €\n5. Peritagem Médico-Legal na Avaliação do Dano Corporal: Nível 1: Não Garantido, Nível 3: 1.250 €\n6. Instrução do Processo: Nível 1: Não Garantido, Nível 3: 1.000 €\n7. Acompanhamento para Prestar Declarações: Nível 1: Não Garantido, Nível 3: 750 €\nOs valores incluem IVA. Os limites são por sinistro e por anuidade.",
+      "chunkType": "tabela",
+      "docPage": 58
+    },
+    {
+      "chunkID": 102,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção Jurídica | Cláusula 5ª - Âmbito Territorial",
+      "chunkContent": "CLÁUSULA 5ª. ÂMBITO TERRITORIAL\nAs garantias de Proteção Jurídica são válidas em caso de acidentes de viação ocorridos, salvo convenção em contrário:\na) Em Portugal, no caso da garantia 'Danos Decorrentes de Lesões Corporais';\nb) No âmbito territorial do Seguro Obrigatório de Responsabilidade Civil Automóvel para as restantes garantias;\nc) Com exceção da garantia em a), quando contratada a modalidade Nível 3, é alargado aos eventos ocorridos em qualquer país europeu ou adjacente do Mediterrâneo não incluído no âmbito do Seguro Obrigatório, desde que os interesses jurídicos possam ser defendidos nessa região e esteja contratada a cobertura de Responsabilidade Civil para o mesmo âmbito.",
+      "chunkType": "texto",
+      "docPage": 60
+    },
+    {
+      "chunkID": 103,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção Jurídica | Cláusula 6ª - Garantias (Defesa e Reclamação)",
+      "chunkContent": "CLÁUSULA 6ª. GARANTIAS\n1. Defesa e reclamação em caso de acidente\n1.1. Defesa em processo penal: A Empresa Gestora garante o pagamento das despesas de defesa da Pessoa Segura em processo penal por crime de negligência, em consequência de acidente. Abrange também casos de acusação por dolo, se houver absolvição ou condenação por negligência.\n1.2. Defesa Civil: A Empresa Gestora garante o pagamento das despesas de Defesa Civil da Pessoa Segura quando o pedido exceda o valor seguro da apólice e não haja direito de regresso. Aplicável apenas na modalidade 'Nível 3'.\n1.3. Reclamação por danos decorrentes de lesões corporais: A Empresa Gestora garante a reclamação extrajudicial e judicial para obter indemnizações devidas a Pessoas Seguras por danos patrimoniais e não patrimoniais (lesões, morte) causados por acidente.\n1.4. Reclamação por danos decorrentes de lesões materiais: a) Garante a reclamação extrajudicial e judicial para obter indemnizações por danos causados ao veículo seguro. Se houver coberturas de danos próprios, esta garantia só é acionada se aquelas não funcionarem por causa alheia à vontade do Segurado. b) Abrange ainda despesas inerentes à reclamação por danos em mercadorias e objetos pessoais, por imobilização do veículo acidentado e por danos causados por acontecimentos alheios à circulação automóvel.",
+      "chunkType": "texto",
+      "docPage": 60
+    },
+    {
+      "chunkID": 104,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção Jurídica | Cláusula 6ª - Garantias (Adiantamentos e Outras)",
+      "chunkContent": "CLÁUSULA 6ª. GARANTIAS (Continuação)\n2. Adiantamentos:\n2.1. de Cauções: Garante o adiantamento de cauções exigidas para liberdade provisória em processo penal por negligência. O pagamento é a título de empréstimo e deve ser reembolsado.\n2.2. de Indemnizações: A Empresa Gestora antecipa o montante de indemnizações acordadas extrajudicialmente com o segurador do terceiro responsável.\n2.3. Para pagamento de multas no estrangeiro: Adianta o valor de multas por infração rodoviária (sem dolo) no estrangeiro, se o pagamento imediato for exigível. O adiantamento é um empréstimo e deve ser reembolsado em 60 dias.\n3. Reclamação em caso de reparação defeituosa do veículo seguro: Garante a reclamação (e despesas inerentes) por reparação defeituosa em Portugal, após acidente de viação. Período de carência de 3 meses.\n4. Insolvência ou Falência de Terceiros: Se um terceiro condenado a pagar indemnização for declarado insolvente, a Empresa Gestora garante o pagamento da indemnização até ao limite contratado.\n5. Peritagem médico-legal na avaliação do dano corporal: Garante a marcação e despesas de peritagem médico-legal para avaliação de danos corporais. Apenas na modalidade 'Nível 3'.\n6. Instrução do processo: Efetua a instrução de processo administrativo para fundamentar a reclamação. Apenas na modalidade 'Nível 3'.\n7. Acompanhamento para prestar declarações: Garante as despesas de acompanhamento por Advogado quando a Pessoa Segura presta declarações em processo penal. Apenas na modalidade 'Nível 3'.",
+      "chunkType": "texto",
+      "docPage": 61
+    },
+    {
+      "chunkID": 105,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção Jurídica | Cláusula 7ª - Exclusões",
+      "chunkContent": "CLÁUSULA 7ª. EXCLUSÕES\nEsta Condição Especial nunca garante:\na) Custos de indemnizações e juros devidos pela Pessoa Segura;\nb) Multas, coimas, impostos ou taxas de natureza fiscal e encargos penais;\nc) Custos de viagens da Pessoa Segura e testemunhas para se deslocarem;\nd) Despesas com ações propostas sem o acordo prévio da Empresa Gestora;\ne) Defesa por conduta intencional (salvo se absolvida ou condenada por negligência);\nf) Ações litigiosas entre Pessoas Seguras ou com a Empresa Gestora/Segurador;\ng) Defesa de interesses resultantes de direitos cedidos ou subrogados;\nh) Sinistros que resultem apenas em processo de contraordenação;\ni) Prestações efetuadas sem acordo da Empresa Gestora;\nj) Despesas relacionadas com danos pré-existentes;\nk) Sinistros ocorridos antes da entrada em vigor da condição;\nl) Ações judiciais com pouca probabilidade de êxito, ou quando a proposta de acordo é justa, ou se o valor em litígio for inferior ao salário mínimo;\nm) Gastos que deveriam ser suportados por um terceiro;\nn) Sinistros de responsabilidade civil obrigatória sem contrato válido;\no) Sinistros quando o condutor não tem licença válida, está sob efeito de álcool/drogas;\np) Sinistros em competições desportivas;\nq) Custos de defesa pela prática de crimes de perigo comum (Art. 272º Código Penal);\nr) Custos com deslocações de advogado para comarcas não contíguas ao local do acidente.",
+      "chunkType": "texto",
+      "docPage": 62
+    },
+    {
+      "chunkID": 106,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção Jurídica | Cláusula 8ª e 9ª - Direitos e Obrigações das Pessoas Seguras",
+      "chunkContent": "CLÁUSULA 8ª. DIREITOS DAS PESSOAS SEGURAS\nA Pessoa Segura tem o direito:\na) À livre escolha de um advogado ou outro profissional qualificado;\nb) A recorrer a arbitragem em caso de divergência de opiniões com a Empresa Gestora;\nc) A prosseguir a ação judicial a suas expensas, se a Empresa Gestora considerar que não há probabilidade de sucesso;\nd) A ser reembolsada das despesas se a decisão final lhe for mais favorável que a proposta da Empresa Gestora;\ne) A ser informada sobre conflitos de interesse. O conflito de interesses ocorre, nomeadamente, quando o Segurador garante a Proteção Jurídica a ambas as partes em litígio.\nCLÁUSULA 9ª. OBRIGAÇÕES DAS PESSOAS SEGURAS\nAs Pessoas Seguras devem:\na) Contactar a Empresa Gestora após o sinistro e fornecer toda a informação;\nb) Contactar a Empresa Gestora imediatamente após notificação de um despacho de acusação;\nc) Consultar a Empresa Gestora, com 5 dias de antecedência, sobre a oportunidade de intentar ações ou interpor recursos;\nd) Transmitir à Empresa Gestora todos os documentos judiciais/extrajudiciais em 48 horas;\ne) Reembolsar a Empresa Gestora de qualquer adiantamento concedido.",
+      "chunkType": "texto",
+      "docPage": 63
+    },
+    {
+      "chunkID": 107,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção Jurídica | Cláusula 10ª e 11ª - Procedimentos e Indemnizações",
+      "chunkContent": "CLÁUSULA 10ª. PROCEDIMENTOS EM CASO DE SINISTRO\n1. A gestão dos sinistros é efetuada pela FIDELIDADE ASSISTÊNCIA – Companhia de Seguros, S.A., NIPC 503411515.\n2. Após a participação, a Empresa Gestora procede à sua apreciação e informa a Pessoa Segura, por escrito, caso o evento não esteja contemplado.\n3. Se a participação for aceite, a Empresa Gestora promove as diligências para resolução extrajudicial.\n4. Se o acordo extrajudicial não for possível, a Empresa Gestora dará, por escrito, a sua anuência à livre escolha de um Advogado.\n5. Os profissionais nomeados pela Pessoa Segura têm liberdade na direção técnica do litígio, mas devem manter a Empresa Gestora informada.\nCLÁUSULA 11ª. INDEMNIZAÇÕES\nAs indemnizações são pagas pela Empresa Gestora após a conclusão do processo e prévia apreciação das despesas e honorários, mediante entrega de documentos justificativos.",
+      "chunkType": "texto",
+      "docPage": 64
+    },
+    {
+      "chunkID": 108,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção ao Condutor - Definições",
+      "chunkContent": "CONDIÇÕES ESPECIAIS - PROTEÇÃO AO CONDUTOR\nCLÁUSULA 1ª. DISPOSIÇÕES APLICÁVEIS: Aplicam-se as Condições Gerais do Seguro Automóvel Facultativo.\nCLÁUSULA 2ª. DEFINIÇÕES:\nACIDENTE DE VIAÇÃO: Acontecimento súbito, fortuito e independente da vontade das partes, ocorrido em consequência da circulação rodoviária do veículo.\nPESSOA SEGURA: O condutor do veículo seguro no momento do Acidente de Viação.\nINVALIDEZ PERMANENTE: Limitação funcional permanente sobrevida em consequência das lesões de um acidente garantido.\nDESPESAS DE TRATAMENTO: Despesas com honorários médicos, internamento, assistência medicamentosa e de enfermagem, e transporte para unidades de saúde, necessários em consequência de um acidente garantido.",
+      "chunkType": "texto",
+      "docPage": 65
+    },
+    {
+      "chunkID": 109,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção ao Condutor | Cláusula 3ª - Objeto, Âmbito e Duração da Garantia",
+      "chunkContent": "CLÁUSULA 3ª. OBJETO, ÂMBITO E DURAÇÃO DA GARANTIA\n1. A presente Condição Especial garante o pagamento das indemnizações fixadas nas Condições Particulares quando, em consequência de Acidente de Viação, resulte para a Pessoa Segura: a) Morte; b) Invalidez Permanente; c) Despesas de Tratamento.\n2. A presente Condição Especial pode também garantir, com a designação 'Dívida Segura', o pagamento de uma indemnização à Pessoa Segura ou seus herdeiros, em caso de acidente que cause Morte ou Invalidez Permanente de grau igual ou superior a 75 pontos. A indemnização será igual ao montante em dívida a uma instituição financiadora da aquisição do veículo. Esta cobertura não garante dívidas já em incumprimento no momento do sinistro. Cessa por pagamento, termo do contrato, cessação da hipoteca, ou quando o veículo/Pessoa Segura atingem 8/75 anos, respetivamente.\n3. Os riscos de Morte e de Invalidez Permanente só estão garantidos se verificados dentro de dois anos após o acidente.\n4. Morte e Invalidez Permanente não são cumuláveis. Se após uma Invalidez Permanente ocorrer a morte, o valor já pago por invalidez será abatido da indemnização por Morte.",
+      "chunkType": "texto",
+      "docPage": 65
+    },
+    {
+      "chunkID": 110,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção ao Condutor | Cláusula 4ª e 5ª - Âmbito Territorial e Exclusões",
+      "chunkContent": "CLÁUSULA 4ª. ÂMBITO TERRITORIAL\nAs garantias acompanham o âmbito territorial do Seguro Obrigatório. A garantia 'Dívida Segura' é válida em qualquer parte do Mundo.\nCLÁUSULA 5ª. EXCLUSÕES\n1. Para além das exclusões gerais, ficam sempre excluídos:\na) Danos ocorridos quando a Pessoa Segura não utiliza capacete de proteção adequado na condução de motociclos, etc.\nb) Danos ocorridos quando a Pessoa Segura conduz com taxa de alcoolemia superior à legal, consome estupefacientes ou está em estado de demência;\nc) Danos a pessoas que conduzam veículos em situação de roubo, furto, ou sem habilitação para a condução;\nd) Danos por fenómenos da natureza ou atos de vandalismo, se as respetivas condições especiais não tiverem sido contratadas.\n2. A garantia não cobre danos em treinos e competições de velocidade, rallies e todo-o-terreno.\n3. A garantia 'Dívida Segura' não abrange morte ou invalidez decorrente de trabalhos perigosos (andaimes, explosivos, etc.), suicídio, apostas, distúrbios psíquicos, SIDA, desportos de risco (espeleologia, alpinismo, desportos náuticos, motorizados, paraquedismo), caça de animais perigosos, ou transporte em caixa de carga.",
+      "chunkType": "texto",
+      "docPage": 66
+    },
+    {
+      "chunkID": 111,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção ao Condutor | Cláusula 6ª - Obrigações da Pessoa Segura",
+      "chunkContent": "CLÁUSULA 6ª. OBRIGAÇÕES DO TOMADOR DO SEGURO, E/OU PESSOA SEGURA\n1. Em caso de evento, as partes obrigam-se a: a) Tomar providências para evitar o agravamento dos danos; b) Enviar, até 8 dias, declaração médica com detalhes do internamento e possível Invalidez Permanente; c) Comunicar, até 8 dias, a cura das lesões, com declaração hospitalar e percentagem de Invalidez; d) Entregar a documentação original para reembolso.\n2. Em caso de acidente, a Pessoa Segura fica obrigada a: a) Cumprir prescrições médicas; b) Sujeitar-se a exame por médico do Segurador; c) Autorizar os seus médicos a prestar informações ao médico do Segurador.\n3. Se resultar a morte, devem ser enviados o certificado de óbito e outros documentos.\n4. Em caso de impossibilidade do Tomador do Seguro, a obrigação transfere-se para a Pessoa Segura ou Herdeiro.\n5. O incumprimento destas obrigações ou a falta de verdade implicam responsabilidade por perdas e danos.",
+      "chunkType": "texto",
+      "docPage": 67
+    },
+    {
+      "chunkID": 112,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção ao Condutor | Cláusulas 7ª, 8ª, 9ª - Doença Pré-existente, Valor Seguro, Pagamento de Indemnizações",
+      "chunkContent": "CLÁUSULA 7ª. DOENÇA OU ENFERMIDADE PRÉ-EXISTENTE: Se as consequências de um acidente forem agravadas por doença ou enfermidade pré-existente, a responsabilidade do Segurador não excederá a que teria se a pessoa não fosse portadora dessa condição.\nCLÁUSULA 8ª. VALOR SEGURO: 1. Os valores seguros estão fixados nas Condições Particulares. 2. O valor da garantia 'Dívida Segura' corresponde ao montante em dívida à financeira no momento do acidente, até ao limite máximo indicado.\nCLÁUSULA 9ª. PAGAMENTO DAS INDEMNIZAÇÕES\n1. Morte: O Segurador pagará o capital seguro aos herdeiros. Se a Pessoa Segura tiver mais de 75 anos, a indemnização limita-se às despesas de trasladação e funeral.\n2. Invalidez Permanente: a) O Segurador pagará a parte do capital seguro determinada pela Tabela para Avaliação de Incapacidades Permanentes em Direito Civil. b) O pagamento é feito à Pessoa Segura. c) Limitações funcionais pré-existentes são consideradas. d) Desvalorizações acumuladas por membro não excedem a perda total. e) Lesões em vários membros somam-se, sem exceder o capital total.",
+      "chunkType": "texto",
+      "docPage": 68
+    },
+    {
+      "chunkID": 113,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Ocupantes da Viatura - Definições",
+      "chunkContent": "CONDIÇÕES ESPECIAIS - OCUPANTES DA VIATURA\nCLÁUSULA 1ª. DISPOSIÇÕES APLICÁVEIS: Aplicam-se as Condições Gerais do Seguro Automóvel Facultativo.\nCLÁUSULA 2ª. DEFINIÇÕES:\nPESSOAS SEGURAS: Todas as pessoas transportadas a título gratuito no veículo seguro, incluindo o seu condutor.\nINVALIDEZ PERMANENTE: Situação de limitação funcional permanente sobrevinda em consequência das lesões de um acidente garantido.\nACIDENTE DE VIAÇÃO: Acontecimento súbito, fortuito e independente, ocorrido em consequência da circulação rodoviária do veículo.\nDESPESAS DE TRATAMENTO: Despesas com honorários médicos, internamento, assistência medicamentosa e de enfermagem, necessários em consequência de um acidente garantido.",
+      "chunkType": "texto",
+      "docPage": 69
+    },
+    {
+      "chunkID": 114,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Ocupantes da Viatura | Cláusulas 3ª e 4ª - Âmbito, Duração, Exclusões",
+      "chunkContent": "CLÁUSULA 3ª. OBJETO E ÂMBITO DA GARANTIA: 1. Garante o pagamento das indemnizações fixadas nas Condições Particulares, em acréscimo às garantias do Seguro Obrigatório, quando de um Acidente de Viação resulte para as Pessoas Seguras: a) Morte; b) Invalidez Permanente; c) Despesas de Tratamento. 2. Os riscos de Morte e Invalidez Permanente só estão garantidos se verificados até dois anos após o acidente. 3. Morte e Invalidez não são cumuláveis; em caso de morte posterior a uma invalidez, o valor desta é abatido. 4. Despesas de Tratamento só são reembolsadas se não estiverem cobertas por seguro obrigatório.\nCLÁUSULA 4ª. EXCLUSÕES: 1. Ficam excluídos os danos decorrentes de: a) Não utilização de capacete; b) Condução sob efeito de álcool/drogas; c) Danos causados intencionalmente; d) Condução em situação de roubo/furto ou sem habilitação; e) Fenómenos da natureza ou vandalismo (se não contratados). 2. Excluem-se danos em treinos/competições e transporte em caixas de carga.",
+      "chunkType": "texto",
+      "docPage": 70
+    },
+    {
+      "chunkID": 115,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Ocupantes da Viatura | Cláusulas 5ª, 6ª, 7ª, 8ª - Âmbito, Obrigações, Valor Seguro",
+      "chunkContent": "CLÁUSULA 5ª. ÂMBITO TERRITORIAL: As garantias acompanham o âmbito territorial do Seguro Obrigatório.\nCLÁUSULA 6ª. OBRIGAÇÕES DO TOMADOR DO SEGURO, E/OU PESSOA SEGURA: As obrigações são as mesmas da cobertura 'Proteção ao Condutor' (Cláusula 6ª).\nCLÁUSULA 7ª. DOENÇA OU ENFERMIDADE PRÉ-EXISTENTE: Se as consequências de um acidente forem agravadas por condição pré-existente, a responsabilidade do Segurador é limitada.\nCLÁUSULA 8ª. VALOR SEGURO: 1. Os valores são os fixados nas Condições Particulares, atribuídos por Pessoa Segura, até ao limite de lotação do veículo. 2. Se a lotação for ultrapassada, as indemnizações são reduzidas pela fórmula: C x L / L1 (C=capital/pessoa, L=lotação autorizada, L1=lotação efetiva).",
+      "chunkType": "texto",
+      "docPage": 71
+    },
+    {
+      "chunkID": 116,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção Vital do Condutor - Definições",
+      "chunkContent": "CONDIÇÕES ESPECIAIS - PROTEÇÃO VITAL DO CONDUTOR\nCLÁUSULA 1ª – DISPOSIÇÕES APLICÁVEIS: Aplicam-se as Condições Gerais do Seguro Automóvel Facultativo.\nCLÁUSULA 2ª – DEFINIÇÕES:\nPESSOA SEGURA: O condutor do veículo seguro no momento do Acidente de Viação. Não se considera condutor: o garagista; quem exerça atividades de fabrico, reparação, etc.; quem experimente o veículo para aquisição; quem conduza em situação de roubo/furto.\nACIDENTE DE VIAÇÃO: Acontecimento súbito, fortuito e independente, ocorrido em consequência da circulação rodoviária.\nRENDIMENTO DE REFERÊNCIA: Base de cálculo de prestações, correspondendo aos rendimentos fiscalmente declarados (líquidos), com limite de 140x o salário mínimo mensal. Para quem não declara rendimentos, corresponde ao salário mínimo. Para desempregados, corresponde à média dos últimos 3 anos de rendimentos ou ao subsídio de desemprego, o que for mais favorável.\nPORTARIA DA PROPOSTA RAZOÁVEL: Portaria nº 377/2008 (com alterações), que define critérios e valores para indemnização de dano corporal.\nTABELA NACIONAL PARA AVALIAÇÃO DE INCAPACIDADES EM DIREITO CIVIL: Tabela aprovada pelo Decreto-Lei nº 352/2007.",
+      "chunkType": "texto",
+      "docPage": 72
+    },
+    {
+      "chunkID": 117,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção Vital do Condutor | Cláusula 3ª - Objeto da Garantia e Prestações",
+      "chunkContent": "CLÁUSULA 3ª – OBJECTO DA GARANTIA\n1. A presente Condição Especial garante, até ao limite do valor seguro indicado, a reparação de danos decorrentes de lesões corporais, ou de morte, sofridas pela Pessoa Segura como condutor do veículo. Abrange as seguintes prestações: Dano patrimonial futuro em caso de morte; Capital por morte; Despesas de funeral; Dano patrimonial futuro em caso de incapacidade permanente absoluta; Afetação permanente da integridade física e psíquica (dano biológico); Despesas hospitalares, médicas e medicamentosas; Dano patrimonial decorrente de apoio doméstico temporário; Dano patrimonial futuro decorrente de assistência vitalícia; Incapacidade temporária absoluta; Adaptação de veículo, de residência habitual e ou de posto de trabalho; Incapacidade permanente absoluta de jovem.\n2. As indemnizações não são cumuláveis com outras devidas pela reparação dos danos do acidente.\n3. Aplica-se também quando responde o Fundo de Garantia Automóvel ou o Fundo de Acidentes de Trabalho.\n4. Pode também garantir a 'Dívida Segura' (pagamento de dívida de financiamento do veículo em caso de Morte ou Invalidez >=75 pontos). Esta cobertura cessa em circunstâncias específicas como o veículo completar 8 anos ou a Pessoa Segura 75 anos.",
+      "chunkType": "texto",
+      "docPage": 73
+    },
+    {
+      "chunkID": 118,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção Vital do Condutor | Cláusula 4ª - Âmbito da Garantia (Morte e Funeral)",
+      "chunkContent": "CLÁUSULA 4ª – ÂMBITO DA GARANTIA\n1. Dano patrimonial futuro em caso de morte: a) O Segurador pagará, às pessoas referidas no art. 495º/3 do Código Civil, uma indemnização calculada pela Portaria da Proposta Razoável. b) Garantido se a morte ocorrer até 2 anos após o acidente. c) Para cálculo do tempo, presume-se a reforma aos 70 anos. d) Para filhos, a prestação perdura até aos 25 anos. e) O pagamento é feito por renda ou sistema misto. f) A indemnização não é cumulável com outras por dano patrimonial futuro ou dano biológico.\n2. Capital por Morte: a) Para Pessoas Seguras >= 18 anos sem rendimentos, paga-se um capital de 60x a retribuição mínima mensal. b) Garantido se a morte ocorrer até 2 anos após o acidente. c) Não cumulável com indemnização por incapacidade de jovem ou dano patrimonial futuro por morte.\n3. Despesas de funeral: a) Reembolso até 5.000€, se a morte ocorrer até 2 anos após o acidente. b) Reembolso contra entrega de comprovativos em 90 dias. c) O prazo pode ser alargado a pedido.",
+      "chunkType": "texto",
+      "docPage": 74
+    },
+    {
+      "chunkID": 119,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção Vital do Condutor | Cláusula 4ª - Âmbito da Garantia (Incapacidade e Despesas)",
+      "chunkContent": "CLÁUSULA 4ª – ÂMBITO DA GARANTIA (Continuação)\n4. Dano patrimonial futuro decorrente de incapacidade permanente absoluta: a) Paga uma indemnização para compensar perdas de rendimento, calculada pela Portaria da Proposta Razoável. b) Para cálculo, presume-se a reforma aos 70 anos. c) A incapacidade é fixada pela Tabela Nacional, na data da alta clínica ou 24 meses após o acidente. d) O pagamento é por renda ou sistema misto. e) Não cumulável com a prestação por incapacidade de jovem.\n5. Afetação permanente da integridade física e psíquica (dano biológico): a) Para grau > 10 pontos, paga uma indemnização calculada pela Portaria da Proposta Razoável. b) O grau é determinado pela Tabela Nacional. c) Se o grau for >= 60 pontos, o pagamento é por renda ou sistema misto.\n6. Despesas hospitalares, médicas e medicamentosas: a) Reembolso de gastos com cuidados médicos, hospitalares, farmacêuticos. b) Fornecimento ou pagamento de transporte e estada para tratamento. c) Só são reembolsáveis custos autorizados ou reconhecidos como urgentes. d) Reembolso até 20% do valor seguro. e) Cessa por abandono de tratamento.",
+      "chunkType": "texto",
+      "docPage": 75
+    },
+    {
+      "chunkID": 120,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção Vital do Condutor | Cláusula 4ª - Âmbito da Garantia (Apoio, Assistência, Incapacidade)",
+      "chunkContent": "CLÁUSULA 4ª – ÂMBITO DA GARANTIA (Continuação)\n7. Dano patrimonial decorrente de apoio doméstico temporário por terceira pessoa: a) Se, após internamento >= 3 dias, a Pessoa Segura necessitar de apoio doméstico, o Segurador suporta os gastos com limites definidos. b) Reembolso contra entrega de documentos. c) O apoio cessa com a alta clínica, 4 meses após o acidente, morte ou abandono do tratamento.\n8. Dano patrimonial futuro decorrente de assistência vitalícia: a) Paga uma indemnização por futuros gastos com cuidados médicos e ajuda doméstica. b) Apuramento baseado na idade e Portaria da Proposta Razoável. c) Apenas para incapacidade >= 60 pontos. d) Pagamento por renda ou sistema misto.\n9. Incapacidade temporária absoluta: a) Garante compensação pela perda de rendimentos do trabalho. b) O montante corresponde ao diferencial entre o Rendimento de Referência e a prestação da Segurança Social. c) Prestação é complementar à da Segurança Social. d) Cessa com a alta clínica, 24 meses após acidente, morte ou abandono do tratamento.",
+      "chunkType": "texto",
+      "docPage": 76
+    },
+    {
+      "chunkID": 121,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção Vital do Condutor | Cláusula 4ª - Âmbito da Garantia (Adaptação e Incapacidade de Jovem)",
+      "chunkContent": "CLÁUSULA 4ª – ÂMBITO DA GARANTIA (Continuação)\n10. Adaptação de veículo, de residência habitual e ou de posto de trabalho: a) Garante o reembolso de despesas de adaptação com os limites de 30.000€ (conjunto residência/trabalho) e 7.500€ (veículo). b) Limitado a um veículo, uma habitação e um posto de trabalho. c) Adaptação da residência carece de autorização do proprietário. d) Adaptação do veículo (licença, inspeção) é da responsabilidade da Pessoa Segura. e) Adaptação do posto de trabalho carece de autorização da entidade empregadora/proprietário. f) Reembolso em 12 meses após reconhecimento da necessidade.\n11. Incapacidade permanente absoluta de jovem: a) Para Pessoa Segura > 18 anos, sem ingresso no mercado de trabalho mas em formação, paga uma indemnização por perda de chance, calculada pela Portaria da Proposta Razoável. b) O grau de afetação é fixado pela Tabela Nacional. c) O pagamento é por renda ou sistema misto. d) Não cumulável com dano patrimonial futuro por incapacidade permanente absoluta.",
+      "chunkType": "texto",
+      "docPage": 78
+    },
+    {
+      "chunkID": 122,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção Vital do Condutor | Cláusula 5ª - Exclusões Gerais",
+      "chunkContent": "CLÁUSULA 5ª – EXCLUSÕES\n1. Para além das exclusões previstas nas Condições Gerais, ficam sempre excluídos:\na) Danos já ressarcidos.\nb) Danos ainda não ressarcidos, mas cujo dever de reparação já foi assumido por outrem.\nc) Danos por não utilização de acessórios de segurança (cintos, capacete), sendo presunção inilidível que a ausência contribuiu para o dano.\nd) Danos com condução sob efeito de álcool/drogas ou em estado de demência.\ne) Danos sofridos por condutor sem licença válida, ou inibido de conduzir.\nf) Danos de acontecimento não acidental, voluntariamente causado pelo tomador do seguro, segurado, condutor ou ocupante.\ng) Danos de acidente de trabalho ou de serviço.\nh) Danos de acidente com envolvimento em ato doloso.\ni) Danos sofridos na sequência de operações de carga e descarga.\nj) Danos por fenómenos da natureza sem a respetiva cobertura contratada.\nk) Danos por greves, tumultos, motins, etc.\nl) Danos em competições de velocidade, rallies e todo-o-terreno.\nm) Danos por negligência grosseira do condutor.",
+      "chunkType": "texto",
+      "docPage": 79
+    },
+    {
+      "chunkID": 123,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção Vital do Condutor | Cláusula 5ª - Exclusões Específicas da Garantia 'Dívida Segura'",
+      "chunkContent": "CLÁUSULA 5ª – EXCLUSÕES (Continuação)\n2. A garantia prevista no nº 4 da Cláusula 3ª ('Dívida Segura') também não abrange a morte ou a invalidez permanente decorrente de:\na) Acidentes durante trabalhos perigosos (andaimes, minas, explosivos, etc.).\nb) Suicídio ou sua tentativa e lesões auto infligidas.\nc) Apostas ou desafios.\nd) Perturbações ou danos exclusivamente do foro psíquico.\ne) Infeção por SIDA.\nf) Doenças que não sejam consequência direta do acidente.\ng) Prática de desportos de risco (espeleologia, alpinismo, 'slide', 'rappel').\nh) Desportos na neve ou gelo.\ni) Desportos náuticos (prancha, mergulho, ski aquático, etc.).\nj) Desportos terrestres motorizados (duas rodas se o veículo não for dessa categoria, etc.).\nk) Paraquedismo, parapente, pilotagem de aeronaves (exceto como passageiro).\nl) Caça de animais perigosos, tauromaquia, equitação.\nm) Transporte em caixa de carga de veículos.",
+      "chunkType": "texto",
+      "docPage": 80
+    },
+    {
+      "chunkID": 124,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção Vital do Condutor | Cláusula 7ª - Obrigações da Pessoa Segura",
+      "chunkContent": "CLÁUSULA 7ª - OBRIGAÇÕES DO TOMADOR DO SEGURO E OU PESSOA SEGURA\n1. Verificando-se um evento, o Tomador e a Pessoa Segura obrigam-se a: a) Tomar providências para evitar o agravamento dos danos; b) Promover o envio de declaração médica em 8 dias; c) Comunicar a cura em 8 dias com relatórios médicos; d) Entregar documentação original para pagamento; e) Informar o Segurador das diligências de apuramento das causas; f) Informar o Segurador da existência de processos judiciais; g) Abster-se de exercer direitos contra terceiros sem concertação com o Segurador; h) Colaborar com o Segurador em ações de recobro.\n2. Em caso de acidente, a Pessoa Segura deve: a) Cumprir prescrições médicas; b) Sujeitar-se a exame por médico do Segurador; c) Autorizar os seus médicos a prestar informações ao Segurador.\n3. Em caso de morte, devem ser enviados o certificado de óbito e relatório de autópsia.\n4. Se o Tomador do Seguro não puder cumprir as obrigações, estas transferem-se para a Pessoa Segura ou Beneficiários.\n5. O incumprimento destas obrigações ou a falta de verdade implicam a obrigação de responder por perdas e danos.",
+      "chunkType": "texto",
+      "docPage": 80
+    },
+    {
+      "chunkID": 125,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção Vital do Condutor | Cláusulas 8ª, 9ª, 10ª - Disposições sobre Tratamento e Recuperação",
+      "chunkContent": "CLÁUSULA 8ª – DOENÇA OU ENFERMIDADE PRÉ-EXISTENTE: Se as consequências do acidente forem agravadas por uma condição pré-existente, a responsabilidade do Segurador é limitada.\nCLÁUSULA 9ª – PRIMADO DA RECUPERAÇÃO PSICOFÍSICA DA PESSOA SEGURA: 1. A Pessoa Segura reconhece ao Segurador o direito de gerir o capital para maximizar o investimento no seu tratamento e recuperação, dando preferência a despesas médicas sobre pagamentos em capital. 2. A Pessoa Segura concede ao Segurador o direito de efetuar pagamentos de despesas médicas e de assistência, mesmo que excedam o capital.\nCLÁUSULA 10ª - MÉDICO ASSISTENTE: 1. O Segurador pode designar o médico assistente. 2. A Pessoa Segura pode recorrer a outro médico em caso de urgência ou se o Segurador não nomear um. 6. A Pessoa Segura deve seguir as prescrições do médico assistente. 7. Se a situação clínica se agravar por recusa ou falta de observância das prescrições, a indemnização pode ser reduzida ou excluída. 8. A recusa de intervenção cirúrgica é justificada se puser a vida em risco.",
+      "chunkType": "texto",
+      "docPage": 82
+    },
+    {
+      "chunkID": 126,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção Vital do Condutor | Cláusulas 11ª a 15ª - Arbitragem, Valor Seguro, Natureza, Complementaridade, Agravamento",
+      "chunkContent": "CLÁUSULA 11ª – ARBITRAGEM MÉDICA E RENÚNCIA ÀS VIAS JUDICIAIS: Segurador e Pessoa Segura aceitam dirimir por arbitragem médica todas as divergências sobre a relação causa-efeito, situação clínica e necessidades terapêuticas.\nCLÁUSULA 12ª – VALOR SEGURO: O montante máximo seguro está indicado nas Condições Particulares. Cada prestação paga reduz o valor seguro disponível.\nCLÁUSULA 13ª – NATUREZA DAS PRESTAÇÕES: As prestações têm natureza indemnizatória e não são acumuláveis com outras que visem ressarcir o mesmo dano.\nCLÁUSULA 14ª – COMPLEMENTARIDADE: As prestações são pagas em excesso a outros seguros ou regimes sociais. O beneficiário deve devolver ao Segurador os valores que este tenha adiantado.\nCLÁUSULA 15ª – AGRAVAMENTO DO RISCO: A alteração da Tabela Nacional para Avaliação de Incapacidades é considerada um agravamento de risco, conferindo ao Segurador o direito de atualizar o prémio.",
+      "chunkType": "texto",
+      "docPage": 83
+    },
+    {
+      "chunkID": 127,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Condições Especiais | Proteção Vital do Condutor | Cláusulas 16ª a 19ª - Disposições Finais",
+      "chunkContent": "CLÁUSULA 16ª – DISPOSIÇÕES DIVERSAS: A avaliação das lesões e incapacidades é feita por peritos médicos. O Segurador fará sempre uma avaliação do dano corporal por um médico seu.\nCLÁUSULA 17ª – SUB-ROGAÇÃO: O Segurador fica sub-rogado nos direitos da Pessoa Segura contra os responsáveis, até ao montante pago.\nCLÁUSULA 18ª – COEXISTÊNCIA DE CONTRATOS: O Tomador/Pessoa Segura deve participar a existência de outros seguros para o mesmo risco.\nCLÁUSULA 19ª – DIREITO DE REGRESSO: O Segurador tem direito de regresso contra o Tomador, Pessoa Segura ou Beneficiário em caso de enriquecimento sem causa, ou contra quem tenha recebido montante para indemnizar dano já suportado pelo Segurador.",
+      "chunkType": "texto",
+      "docPage": 84
+    },
+    {
+      "chunkID": 128,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Tabelas de Desvalorização de Veículos | Tabela 1 - Ligeiros Passageiros (não Gasóleo, <= 25k€)",
+      "chunkContent": "Tabela 1 - Desvalorização aplicável a veículos Ligeiros de Passageiros movidos a combustível diferente de Gasóleo com valor em novo até 25.000 Euros. A tabela apresenta a percentagem de desvalorização mensalmente, de 1 a 120 meses. Exemplos: 1 mês: 1,6%; 12 meses: 19,2%; 24 meses: 28,8%; 36 meses: 38,4%; 60 meses: 55,2%; 120 meses: 82,8%.",
+      "chunkType": "tabela",
+      "docPage": 86
+    },
+    {
+      "chunkID": 129,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Tabelas de Desvalorização de Veículos | Tabela 2 - Ligeiros Passageiros (não Gasóleo, > 25k€)",
+      "chunkContent": "Tabela 2 - Desvalorização aplicável a veículos Ligeiros de Passageiros movidos a combustível diferente de Gasóleo com valor em novo superior a 25.000 Euros. A tabela apresenta a percentagem de desvalorização mensalmente, de 1 a 120 meses. Exemplos: 1 mês: 2,1%; 12 meses: 25,2%; 24 meses: 34,8%; 36 meses: 44,4%; 60 meses: 58,8%; 120 meses: 85,2%.",
+      "chunkType": "tabela",
+      "docPage": 87
+    },
+    {
+      "chunkID": 130,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Tabelas de Desvalorização de Veículos | Tabela 3 - Ligeiros Passageiros (Gasóleo)",
+      "chunkContent": "Tabela 3 - Desvalorização aplicável a veículos Ligeiros de Passageiros movidos a Gasóleo. A tabela apresenta a percentagem de desvalorização mensalmente, de 1 a 120 meses. Exemplos: 1 mês: 1,5%; 12 meses: 18,0%; 24 meses: 26,4%; 36 meses: 34,8%; 60 meses: 51,6%; 120 meses: 79,2%.",
+      "chunkType": "tabela",
+      "docPage": 88
+    },
+    {
+      "chunkID": 131,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Tabelas de Desvalorização de Veículos | Tabela 4 - Comerciais Ligeiros",
+      "chunkContent": "Tabela 4 - Desvalorização aplicável a veículos Comerciais Ligeiros. A tabela apresenta a percentagem de desvalorização mensalmente, de 1 a 120 meses. Exemplos: 1 mês: 1,9%; 12 meses: 22,8%; 24 meses: 32,4%; 36 meses: 40,8%; 60 meses: 57,6%; 120 meses: 79,2%.",
+      "chunkType": "tabela",
+      "docPage": 89
+    },
+    {
+      "chunkID": 132,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Tabelas de Desvalorização de Veículos | Tabela 5 - Veículos Pesados",
+      "chunkContent": "Tabela 5 - Desvalorização aplicável a veículos Pesados. A tabela apresenta a percentagem de desvalorização mensalmente, de 1 a 120 meses. Exemplos: 1 mês: 2,9%; 12 meses: 34,8%; 24 meses: 45,6%; 36 meses: 55,2%; 60 meses: 70,8%; 120 meses: 90,0%.",
+      "chunkType": "tabela",
+      "docPage": 90
+    },
+    {
+      "chunkID": 133,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Tabelas de Desvalorização de Veículos | Tabela 6 - Motociclos",
+      "chunkContent": "Tabela 6 - Desvalorização aplicável a Motociclos. A tabela apresenta a percentagem de desvalorização mensalmente, de 1 a 120 meses. Exemplos: 1 mês: 1,6%; 12 meses: 19,2%; 24 meses: 27,6%; 36 meses: 36,0%; 60 meses: 50,4%; 120 meses: 81,6%.",
+      "chunkType": "tabela",
+      "docPage": 91
+    },
+    {
+      "chunkID": 134,
+      "chunkMetadata": "Documento: Seguro Automóvel Liber 3G | Tabelas de Desvalorização de Veículos | Tabela 7 - Reboques",
+      "chunkContent": "Tabela 7 - Desvalorização aplicável a Reboques. A tabela apresenta a percentagem de desvalorização mensalmente, de 1 a 120 meses. Exemplos: 1 mês: 1,7%; 12 meses: 20,4%; 24 meses: 26,4%; 36 meses: 32,4%; 60 meses: 42,0%; 120 meses: 52,8%.",
+      "chunkType": "tabela",
+      "docPage": 92
+    }
+  ]
+}
+```

@@ -1,0 +1,6 @@
+{
+    "gemini_api_key":"AIzaSyBlvZ6n8xDtkT2CLaxirYM6KWUfWWc2deo",
+    "project_id":"bs-fdld-ai",
+    "region":"europe-west1",
+    "model":"models/gemini-2.5-pro"
+}
