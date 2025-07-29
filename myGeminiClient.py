@@ -190,13 +190,14 @@ class myGeminiClient:
         return cache
 
     def createChunksPDFDoc_GetTextChunks(self,cache,pg_from,pg_to,chunking_request_to_add=""):
+        #print(cache)
         cache_name= cache.name
         printat = 100
         d1 = datetime.now()
         self.bbp("Starting to create chunks ")
         resps = []
     
-        system_instruction += f"Faz essa partição de todo o texto do documento exclusivamente entre a página {str(pg_from)} e a pagina {str(pg_to)} inclusive. Apenas dados ente estas duas páginas devem ser retornados\n"
+        system_instruction = f"Faz essa partição de todo o texto do documento exclusivamente entre a página {str(pg_from)} e a pagina {str(pg_to)} inclusive. Apenas dados ente estas duas páginas devem ser retornados\n"
         system_instruction += chunking_request_to_add
 
         d1a = datetime.now()
@@ -334,7 +335,6 @@ class myGeminiClient:
         return response.text
 
 '''
-
 
 project_id= "bs-fdld-ai"
 
