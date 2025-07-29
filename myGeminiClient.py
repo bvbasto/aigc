@@ -11,6 +11,7 @@ from datetime import date,datetime
 import json
 import re
 import fitz  # PyMuPDF
+from google.cloud import secretmanager
 
 #  Apps https://console.cloud.google.com/gen-app-builder/engines?inv=1&invt=Ab35yQ&project=bs-fdld-ai
 
@@ -75,9 +76,56 @@ def createBQTableWithList (listOfListOfItems,project_id,dataset_id,table_id):
         ee.append(errors)
     return ee
 
+
+def createBQTableWithList_Batch(listOfListOfItems,project_id,dataset_id,table_id):
+    client = bigquery.Client()
+    full_table_id = f"{project_id}.{dataset_id}.{table_id}"
+
+    schema = [
+        bigquery.SchemaField("BlocoID", "INTEGER", mode="REQUIRED"),
+        bigquery.SchemaField("BlocoMetadata", "STRING", mode="NULLABLE"),
+        bigquery.SchemaField("BlocoContent", "STRING", mode="NULLABLE"),
+        bigquery.SchemaField("BlocoType", "STRING", mode="NULLABLE"),
+        bigquery.SchemaField("docPage_ini", "INTEGER", mode="NULLABLE"),
+        bigquery.SchemaField("docPage_end", "INTEGER", mode="NULLABLE"),
+        bigquery.SchemaField("ClausulaOuTopico", "STRING", mode="NULLABLE"),
+    ]
+
+    # Create the table if it doesn't exist
+    print(f"Ensuring table {full_table_id} exists...")
+    table = bigquery.Table(full_table_id, schema=schema)
+    table = client.create_table(table, exists_ok=True)
+
+    ee = []
+    # Configure the batch load job
+    for i in listOfListOfItems:
+        job_config = bigquery.LoadJobConfig(
+            schema=schema,
+            source_format=bigquery.SourceFormat.NEWLINE_DELIMITED_JSON,
+            # Append data to the table. Use WRITE_TRUNCATE to overwrite the table.
+            write_disposition=bigquery.WriteDisposition.WRITE_APPEND,
+        )
+
+        print(f"Starting batch load job to insert {len(listOfListOfItems)} rows...")
+        load_job = client.load_table_from_json(
+            i['items'], full_table_id, job_config=job_config
+        )
+        errors =  load_job.result()
+        ee.append(errors)
+    return ee
+
+
+def access_secret_version(project_id: str, secret_id: str, version_id: str = "latest") -> str:
+    client = secretmanager.SecretManagerServiceClient()
+    name = f"projects/{project_id}/secrets/{secret_id}/versions/{version_id}"
+    response = client.access_secret_version(name=name)
+    payload = response.payload.data.decode("UTF-8")
+    return payload
+
+
 class myGeminiClient:
     __gemini_api_key = None
-    __llmodel = llmmodel
+    __llmodel = None
     client = None
     __project_id = None
     __location = None
@@ -203,6 +251,15 @@ class myGeminiClient:
         ts = (d2-d1).total_seconds()
         self.bbp("create chunks #" + str(len(finalj["items"]))  + " time " + str(ts) + "s")
         return finalj
+    
+    
+    def createChunksPDFDoc_CreateJSON_Final(self,t_list):
+        j_list = []
+        for t in t_list:
+            list_json = self.createChunksPDFDoc_CreateJSON(t)
+            j_list.append(list_json)
+        return j_list
+    
 
     def createChunksPDFDoc(self,doc,total_pages,cache_info,chunking_request_to_add):
         pg_control = 0
@@ -210,38 +267,39 @@ class myGeminiClient:
         d1 = datetime.now()
         self.bbp("Process start")
         cache_name = self.createChunksPDFDoc_LoadDoc(doc,cache_info)
-        j_list = []
+        t_list = []
         while pg_control < total_pages:
             pg_from = 0 if pg_control == 0 else pg_control - 1
             pg_to= total_pages if pg_control + pg_batch + 1 > total_pages else pg_control + pg_batch + 1
             self.bbp("Process pages from " + str(pg_from) + " to " + str(pg_to) + " of " + str(total_pages))
             fullresp = self.createChunksPDFDoc_GetTextChunks(cache_name,pg_from,pg_to,chunking_request_to_add)
-            list_json = self.createChunksPDFDoc_CreateJSON(fullresp)
-            j_list.append(list_json)
+            #list_json = self.createChunksPDFDoc_CreateJSON(fullresp)
+            t_list.append(fullresp)
             pg_control += pg_batch
         d2 = datetime.now()
         ts = (d2-d1).total_seconds()
         self.bbp("Process end " + str(ts) + "s")
-        return cache_name,j_list
+        return cache_name,t_list
     
 
 
 # https://cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions
 #llmmodel="models/gemini-2.0-flash-001"
-llmmodel="models/gemini-2.5-pro"
+# llmmodel="models/gemini-2.5-pro"
 
-file_path = os.getcwd() + "/key.json"
+# file_path = os.getcwd() + "/key.json"
+# with open(file_path, 'r') as f:
+#    jkey = json.load(f)
 
-with open(file_path, 'r') as f:
-    jkey = json.load(f)
 
-gemini_api_key = jkey["gemini_api_key"]
+secret_id = "poc_ai_001" # The name you gave the secret
+sk = json.loads( access_secret_version(project_id,secret_id).replace("\n", "").strip() )
+
+gemini_api_key = sk["gemini_api_key"]
 os.environ["GOOGLE_API_KEY"] = gemini_api_key
-
-project_id= jkey["project_id"]
-location= jkey["region"]
-llmmodel= jkey["model"]
-
+project_id= sk["project_id"]
+location= sk["region"]
+llmmodel= sk["model"]
 
 bucket_name="fdld-poc2"
 object_name="ai1/rawdocs/Fidelidade_Auto_Liber3G_CG058_AU052_mar2024.pdf"
@@ -257,13 +315,12 @@ gg = myGeminiClient(project_id,gemini_api_key,location,llmmodel)
 # fr = gg.createChunksPDFDoc_GetTextChunks(cn,1,10,descDoc)
 # jl = gg.createChunksPDFDoc_CreateJSON(fr)
 # save_JsonFile(resp_json[1],"chunks.json")
-cache_name,resp_json = gg.createChunksPDFDoc(doc,pgs,cacheInfo,descDoc)
+cache_name,resp_text = gg.createChunksPDFDoc(doc,pgs,cacheInfo,descDoc)
+j_list = gg.createChunksPDFDoc_CreateJSON_Final(resp_text)
 dataset_id = 'rag_dataset'
 table_id = 'testFomCode'
-ee = createBQTableWithList(resp_json,project_id,dataset_id,table_id)
+ee = createBQTableWithList_Batch(j_list,project_id,dataset_id,table_id)
 
-
-resp_json[1]
 
 
 
@@ -272,3 +329,12 @@ ee = []
 for i in resp_json:
     errors = client.insert_rows_json(full_table_id, i['items'])
     ee.append(errors)
+    
+    
+    
+
+
+
+
+
+
