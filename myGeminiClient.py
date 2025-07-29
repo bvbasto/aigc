@@ -58,7 +58,7 @@ def getGCP_Doc(bucket_name,object_name):
     doc.close()
     return doc_io,page_count
 
-def createBQTableWithList (listOfListOfItems,project_id,dataset_id,table_id):
+def createBQTableWithList (listOfListOfItems,project_id,dataset_id,table_id,schema):
     client = bigquery.Client()
     full_table_id = f"{project_id}.{dataset_id}.{table_id}"
     
@@ -83,7 +83,7 @@ def createBQTableWithList (listOfListOfItems,project_id,dataset_id,table_id):
     return ee
 
 
-def createBQTableWithList_Batch(listOfListOfItems,project_id,dataset_id,table_id):
+def createBQTableWithList_Batch(listOfListOfItems,project_id,dataset_id,table_id,schema):
     client = bigquery.Client()
     full_table_id = f"{project_id}.{dataset_id}.{table_id}"
 
@@ -258,20 +258,20 @@ class myGeminiClient:
         pg_batch = 10
         d1 = datetime.now()
         self.bbp("Process start")
-        cache_name = self.createChunksPDFDoc_LoadDoc(doc,cache_info).name
+        cache = self.createChunksPDFDoc_LoadDoc(doc,cache_info).name
         t_list = []
         while pg_control < total_pages:
             pg_from = 0 if pg_control == 0 else pg_control - 1
             pg_to= total_pages if pg_control + pg_batch + 1 > total_pages else pg_control + pg_batch + 1
             self.bbp("Process pages from " + str(pg_from) + " to " + str(pg_to) + " of " + str(total_pages))
-            fullresp = self.createChunksPDFDoc_GetTextChunks(cache_name,pg_from,pg_to,chunking_request_to_add)
+            fullresp = self.createChunksPDFDoc_GetTextChunks(cache,pg_from,pg_to,chunking_request_to_add)
             #list_json = self.createChunksPDFDoc_CreateJSON(fullresp)
             t_list.append(fullresp)
             pg_control += pg_batch
         d2 = datetime.now()
         ts = (d2-d1).total_seconds()
         self.bbp("Process end " + str(ts) + "s")
-        return cache_name,t_list
+        return cache,t_list
     
     __vembedding_model= None
     __llm = None
@@ -368,7 +368,7 @@ descDoc += """
 Todo o texto deve estar presente nos blocos partidos dentro do limite de páginas indicado.
 Retorna um objeto json com o formato {"totalDeBlocos":<int>,"items":<list>}
 a lista de itens é feita por items com o seguinte formato:
-{"BlocoID":<int>,"BlocoMetadata":<string>,"BlocoContent":<string>,"BlocoType":<string>,"docPage_ini":<int>,"docPage_end":<int>,"ClausulaOuTopico":<string>}"}
+{"DocName":"Seguro Automíve","BlocoID":<int>,"BlocoMetadata":<string>,"BlocoContent":<string>,"BlocoType":<string>,"docPage_ini":<int>,"docPage_end":<int>,"ClausulaOuTopico":<string>}"}
 os blocos são apenas uma divisão por isso o texto deve ser retornado na totalidade em cada blocoContent. 
 a chunkMetadata é para ser usada como metadados em queries sobre vectores, o chunkType deve indicar se é texto, código, tabela ou imagem. 
 docPage_ini e docPage_end tem a pagina inicial e final do bloco do documento de onde o bloco foi retirado
@@ -385,7 +385,16 @@ cache_name,resp_text = gg.createChunksPDFDoc(doc,pgs,cacheInfo,descDoc)
 j_list = gg.createChunksPDFDoc_CreateJSON_Final(resp_text)
 dataset_id = 'rag_dataset_eu'
 table_id = 'testFomCode'
-ee = createBQTableWithList_Batch(j_list,project_id,dataset_id,table_id)
+schema = [
+        bigquery.SchemaField("BlocoID", "INTEGER", mode="REQUIRED"),
+        bigquery.SchemaField("BlocoMetadata", "STRING", mode="NULLABLE"),
+        bigquery.SchemaField("BlocoContent", "STRING", mode="NULLABLE"),
+        bigquery.SchemaField("BlocoType", "STRING", mode="NULLABLE"),
+        bigquery.SchemaField("docPage_ini", "INTEGER", mode="NULLABLE"),
+        bigquery.SchemaField("docPage_end", "INTEGER", mode="NULLABLE"),
+        bigquery.SchemaField("ClausulaOuTopico", "STRING", mode="NULLABLE"),
+    ]
+ee = createBQTableWithList_Batch(j_list,project_id,dataset_id,table_id,schema)
 
 table_id_embeddings = 'testFomCode_embeddings_materialized'
 embeddings_model="text-multilingual-embedding-002"   # text-embedding-005
