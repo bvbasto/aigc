@@ -252,13 +252,13 @@ class myGeminiClient:
             j_list.append(list_json)
         return j_list
     
-
+    #
     def createChunksPDFDoc(self,doc,total_pages,cache_info,chunking_request_to_add):
         pg_control = 0
         pg_batch = 10
         d1 = datetime.now()
         self.bbp("Process start")
-        cache = self.createChunksPDFDoc_LoadDoc(doc,cache_info).name
+        cache = self.createChunksPDFDoc_LoadDoc(doc,cache_info).namess
         t_list = []
         while pg_control < total_pages:
             pg_from = 0 if pg_control == 0 else pg_control - 1
