@@ -13,7 +13,7 @@ import re
 import fitz  # PyMuPDF
 
 #  Apps https://console.cloud.google.com/gen-app-builder/engines?inv=1&invt=Ab35yQ&project=bs-fdld-ai
-# 
+
 def bbp(o):
     global logbbp
     if not logbbp:
