@@ -15,8 +15,7 @@ from google.cloud import secretmanager
 
 #  Apps https://console.cloud.google.com/gen-app-builder/engines?inv=1&invt=Ab35yQ&project=bs-fdld-ai
 
-def bbp(o):
-    global logbbp
+def bbp(o,logbbp=True):
     if not logbbp:
         return
     s1 = ""
