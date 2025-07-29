@@ -258,7 +258,7 @@ class myGeminiClient:
         pg_batch = 10
         d1 = datetime.now()
         self.bbp("Process start")
-        cache = self.createChunksPDFDoc_LoadDoc(doc,cache_info).namess
+        cache = self.createChunksPDFDoc_LoadDoc(doc,cache_info)
         t_list = []
         while pg_control < total_pages:
             pg_from = 0 if pg_control == 0 else pg_control - 1
