@@ -13,6 +13,13 @@ import re
 import fitz  # PyMuPDF
 from google.cloud import secretmanager
 
+from google.cloud import aiplatform
+from langchain_core.documents import Document
+from langchain_google_vertexai import VertexAIEmbeddings, ChatVertexAI
+from langchain_community.vectorstores import BigQueryVectorSearch
+from langchain.chains import RetrievalQA
+
+
 #  Apps https://console.cloud.google.com/gen-app-builder/engines?inv=1&invt=Ab35yQ&project=bs-fdld-ai
 
 def bbp(o,logbbp=True):
@@ -180,30 +187,16 @@ class myGeminiClient:
         # self.totalTokens += tks
         self.doLogTokens("CreateCachedDoc",ts,tks)
         self.bbp("Cached Doc " + str(ts) + "s tokens: " + str(tks))
-        return cache.name
+        return cache
 
-    def createChunksPDFDoc_GetTextChunks(self,cache_name,pg_from,pg_to,chunking_request_to_add=""):
+    def createChunksPDFDoc_GetTextChunks(self,cache,pg_from,pg_to,chunking_request_to_add=""):
+        cache_name= cache.name
         printat = 100
         d1 = datetime.now()
         self.bbp("Starting to create chunks ")
         resps = []
     
-        system_instruction = f"""
-        É necessário guardar todo o documento pdf numa base de dados vectorizada. Para isso é preciso partir o documento em n blocos para serem criados embeddings
-        Os blocos devem estar sempre alinhados com clausulas e uma clausula não deve ser partida por estar em paginas diferentes nem deve haver varias clausulas por bloco
-        Quando o texto não disser respeito a clausulas ou for uma tabela deve estar separado em blocos lógicos de assuntos
-        """
         system_instruction += f"Faz essa partição de todo o texto do documento exclusivamente entre a página {str(pg_from)} e a pagina {str(pg_to)} inclusive. Apenas dados ente estas duas páginas devem ser retornados\n"
-        system_instruction += """
-        Todo o texto deve estar presente nos blocos partidos dentro do limite de páginas indicado.
-        Retorna um objeto json com o formato {"totalDeBlocos":<int>,"items":<list>}
-        a lista de itens é feita por items com o seguinte formato:
-        {"BlocoID":<int>,"BlocoMetadata":<string>,"BlocoContent":<string>,"BlocoType":<string>,"docPage_ini":<int>,"docPage_end":<int>,"ClausulaOuTopico":<string>}"}
-        os blocos são apenas uma divisão por isso o texto deve ser retornado na totalidade em cada blocoContent. 
-        a chunkMetadata é para ser usada como metadados em queries sobre vectores, o chunkType deve indicar se é texto, código, tabela ou imagem. 
-        docPage_ini e docPage_end tem a pagina inicial e final do bloco do documento de onde o bloco foi retirado
-        ClausulaOuTopico deve indicar o capitulo, a clausula e o nome da tabela quando houver
-        """
         system_instruction += chunking_request_to_add
 
         d1a = datetime.now()
@@ -265,7 +258,7 @@ class myGeminiClient:
         pg_batch = 10
         d1 = datetime.now()
         self.bbp("Process start")
-        cache_name = self.createChunksPDFDoc_LoadDoc(doc,cache_info)
+        cache_name = self.createChunksPDFDoc_LoadDoc(doc,cache_info).name
         t_list = []
         while pg_control < total_pages:
             pg_from = 0 if pg_control == 0 else pg_control - 1
@@ -280,5 +273,146 @@ class myGeminiClient:
         self.bbp("Process end " + str(ts) + "s")
         return cache_name,t_list
     
+    __vembedding_model= None
+    __llm = None
+    __vectorstore = None
+    __k_docs_to_work= None
+
+    def rag_config(self, dataset_id,table_id,region,embeddings_model="text-multilingual-embedding-002",content_field="content",text_embedding_field="embedding",doc_id_field="id",metadata_field="metadata",k_docs_to_work=20):
+        self.__k_docs_to_work=k_docs_to_work
+        self.__vembedding_model = VertexAIEmbeddings(model_name=embeddings_model, project=self.__project_id )
+        self.__llm = ChatVertexAI(model_name=self.__llmodel, project=project_id)
+        self.__vectorstore = BigQueryVectorSearch(
+            project_id=self.__project_id,
+            dataset_name=dataset_id,
+            table_name=table_id,
+            location=region,
+            embedding=self.__vembedding_model,
+            content_field=content_field,       # Column in BQ table containing the text
+            text_embedding_field=text_embedding_field, # Column in BQ table containing the vector
+            doc_id_field=doc_id_field,             # Optional: Unique ID column
+            metadata_field=metadata_field      # Optional: JSON metadata column
+            )
+        
+    def rag_question(self, question):
+        d1 = datetime.now()
+        self.bbp("Starting question")
+        retrieved_docs = self.__vectorstore.similarity_search(query=question, k=self.__k_docs_to_work)
+        self.bbp(f"Retrieved {len(retrieved_docs)} relevant documents from BigQuery.")
+        
+        # Step 3: Combine retrieved documents with the question and ask the LLM
+        qa_chain = RetrievalQA.from_chain_type(
+            llm=self.__llm,
+            chain_type="stuff",
+            retriever=self.__vectorstore.as_retriever(search_kwargs={"k": self.__k_docs_to_work}),
+            return_source_documents=True
+        )
+        result = qa_chain({"query": question})
+        llm_answer = result["result"]
+        source_documents = result["source_documents"]
+        d2 = datetime.now()
+        ts = (d2-d1).total_seconds()
+        self.bbp("Process end " + str(ts) + "s")
+        return llm_answer,source_documents
+        
 
 
+    def resp_using_cache(self,question,cache,llm_model=None):
+        if llm_model != None:
+            llm_model = self.__llmodel
+        d1 = datetime.now()
+        self.bbp("Starting question")
+        response = self.client.models.generate_content(
+                    model=llm_model,
+                    contents=question,
+                    config=types.GenerateContentConfig(
+                    cached_content=cache.name
+                    ))
+        d2 = datetime.now()
+        ts= (d2-d1)
+        self.bbp("Process end " + str(ts) + "s")
+        return response.text
+
+'''
+
+
+project_id= "bs-fdld-ai"
+
+secret_id = "poc_ai_001" # The name you gave the secret
+sk = json.loads( access_secret_version(project_id,secret_id).replace("\n", "").strip() )
+
+gemini_api_key = sk["gemini_api_key"]
+os.environ["GOOGLE_API_KEY"] = gemini_api_key
+project_id= sk["project_id"]
+location= sk["region"]
+llmmodel= sk["model"]
+
+bucket_name="fdld-poc2"
+object_name="ai1/rawdocs/Fidelidade_Auto_Liber3G_CG058_AU052_mar2024.pdf"
+logbbp = True
+
+
+
+gg = myGeminiClient(project_id,gemini_api_key,location,llmmodel)
+
+##### creating chunks
+
+doc,pgs = getGCP_Doc(bucket_name,object_name)
+cacheInfo = "Este documento é sobre regras e clausulas referentes a seguro automovel " + object_name
+descDoc = f"""
+É necessário guardar todo o documento pdf numa base de dados vectorizada. Para isso é preciso partir o documento em n blocos para serem criados embeddings
+Os blocos devem estar sempre alinhados com clausulas e uma clausula não deve ser partida por estar em paginas diferentes nem deve haver varias clausulas por bloco
+Quando o texto não disser respeito a clausulas ou for uma tabela deve estar separado em blocos lógicos de assuntos
+"""
+descDoc += """
+Todo o texto deve estar presente nos blocos partidos dentro do limite de páginas indicado.
+Retorna um objeto json com o formato {"totalDeBlocos":<int>,"items":<list>}
+a lista de itens é feita por items com o seguinte formato:
+{"BlocoID":<int>,"BlocoMetadata":<string>,"BlocoContent":<string>,"BlocoType":<string>,"docPage_ini":<int>,"docPage_end":<int>,"ClausulaOuTopico":<string>}"}
+os blocos são apenas uma divisão por isso o texto deve ser retornado na totalidade em cada blocoContent. 
+a chunkMetadata é para ser usada como metadados em queries sobre vectores, o chunkType deve indicar se é texto, código, tabela ou imagem. 
+docPage_ini e docPage_end tem a pagina inicial e final do bloco do documento de onde o bloco foi retirado
+ClausulaOuTopico deve indicar o capitulo, a clausula e o nome da tabela quando houver
+"""
+
+
+
+# cn = gg.createChunksPDFDoc_LoadDoc(doc,cacheInfo)
+# fr = gg.createChunksPDFDoc_GetTextChunks(cn,1,10,descDoc)
+# jl = gg.createChunksPDFDoc_CreateJSON(fr)
+# save_JsonFile(resp_json[1],"chunks.json")
+cache_name,resp_text = gg.createChunksPDFDoc(doc,pgs,cacheInfo,descDoc)
+j_list = gg.createChunksPDFDoc_CreateJSON_Final(resp_text)
+dataset_id = 'rag_dataset_eu'
+table_id = 'testFomCode'
+ee = createBQTableWithList_Batch(j_list,project_id,dataset_id,table_id)
+
+table_id_embeddings = 'testFomCode_embeddings_materialized'
+embeddings_model="text-multilingual-embedding-002"   # text-embedding-005
+region_embeddings = "eu"
+
+
+##### rag
+
+
+gg.rag_config(dataset_id,table_id_embeddings,region_embeddings)
+question="Usa as tabelas para calcular, tendo seguro faz 3 anos, qual o agravamento se tiver tido 2 sinistros nos ultimos 5 anos mas nenhum nos ultimos 2 anos?"
+llm_answer,source_documents = gg.rag_question(question)
+llm_answer
+
+
+
+
+#### using only cache
+
+gg = myGeminiClient(project_id,gemini_api_key,location,llmmodel)
+
+doc,pgs = getGCP_Doc(bucket_name,object_name)
+cacheInfo = "Este documento é sobre regras e clausulas referentes a seguro automovel " + object_name
+cn = gg.createChunksPDFDoc_LoadDoc(doc,cacheInfo)
+question="Usa as tabelas para calcular, tendo seguro faz 3 anos, qual o agravamento se tiver tido 2 sinistros nos ultimos 5 anos mas nenhum nos ultimos 2 anos?"
+resp = gg.resp_using_cache(question,cn)
+resp
+
+
+'''
