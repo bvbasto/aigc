@@ -396,13 +396,15 @@ schema = [
     ]
 ee = createBQTableWithList_Batch(j_list,project_id,dataset_id,table_id,schema)
 
-table_id_embeddings = 'testFomCode_embeddings_materialized'
-embeddings_model="text-multilingual-embedding-002"   # text-embedding-005
-region_embeddings = "eu"
+
 
 
 ##### rag
 
+
+table_id_embeddings = 'testFomCode_embeddings_materialized'
+embeddings_model="text-multilingual-embedding-002"   # text-embedding-005
+region_embeddings = "eu"
 
 gg.rag_config(dataset_id,table_id_embeddings,region_embeddings)
 question="Usa as tabelas para calcular, tendo seguro faz 3 anos, qual o agravamento se tiver tido 2 sinistros nos ultimos 5 anos mas nenhum nos ultimos 2 anos?"
