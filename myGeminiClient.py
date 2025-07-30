@@ -62,15 +62,7 @@ def createBQTableWithList (listOfListOfItems,project_id,dataset_id,table_id,sche
     client = bigquery.Client()
     full_table_id = f"{project_id}.{dataset_id}.{table_id}"
     
-    schema = [
-        bigquery.SchemaField("BlocoID", "INTEGER", mode="REQUIRED"),
-        bigquery.SchemaField("BlocoMetadata", "STRING", mode="NULLABLE"),
-        bigquery.SchemaField("BlocoContent", "STRING", mode="NULLABLE"),
-        bigquery.SchemaField("BlocoType", "STRING", mode="NULLABLE"),
-        bigquery.SchemaField("docPage_ini", "INTEGER", mode="NULLABLE"),
-        bigquery.SchemaField("docPage_end", "INTEGER", mode="NULLABLE"),
-        bigquery.SchemaField("ClausulaOuTopico", "STRING", mode="NULLABLE"),
-    ]
+
     print(f"Creating table {full_table_id} if it doesn't exist...")
     table = bigquery.Table(full_table_id, schema=schema)
     table = client.create_table(table, exists_ok=True)
@@ -87,16 +79,6 @@ def createBQTableWithList_Batch(listOfListOfItems,project_id,dataset_id,table_id
     client = bigquery.Client()
     full_table_id = f"{project_id}.{dataset_id}.{table_id}"
 
-    schema = [
-        bigquery.SchemaField("BlocoID", "INTEGER", mode="REQUIRED"),
-        bigquery.SchemaField("BlocoMetadata", "STRING", mode="NULLABLE"),
-        bigquery.SchemaField("BlocoContent", "STRING", mode="NULLABLE"),
-        bigquery.SchemaField("BlocoType", "STRING", mode="NULLABLE"),
-        bigquery.SchemaField("docPage_ini", "INTEGER", mode="NULLABLE"),
-        bigquery.SchemaField("docPage_end", "INTEGER", mode="NULLABLE"),
-        bigquery.SchemaField("ClausulaOuTopico", "STRING", mode="NULLABLE"),
-    ]
-
     # Create the table if it doesn't exist
     print(f"Ensuring table {full_table_id} exists...")
     table = bigquery.Table(full_table_id, schema=schema)
@@ -108,7 +90,6 @@ def createBQTableWithList_Batch(listOfListOfItems,project_id,dataset_id,table_id
         job_config = bigquery.LoadJobConfig(
             schema=schema,
             source_format=bigquery.SourceFormat.NEWLINE_DELIMITED_JSON,
-            # Append data to the table. Use WRITE_TRUNCATE to overwrite the table.
             write_disposition=bigquery.WriteDisposition.WRITE_APPEND,
         )
 
