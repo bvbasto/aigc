@@ -316,7 +316,7 @@ class myGeminiClient:
         return response.text
 
 
-
+'''
 project_id= "bs-fdld-ai"
 
 secret_id = "poc_ai_001" # The name you gave the secret
