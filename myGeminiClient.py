@@ -300,10 +300,12 @@ class myGeminiClient:
 
 
     def resp_using_cache(self,question,cache,llm_model=None):
-        if llm_model != None:
+        if llm_model == None:
             llm_model = self.__llmodel
         d1 = datetime.now()
         self.bbp("Starting question")
+        print(llm_model)
+        print(cache.name)
         response = self.client.models.generate_content(
                     model=llm_model,
                     contents=question,
@@ -315,8 +317,8 @@ class myGeminiClient:
         self.bbp("Process end " + str(ts) + "s")
         return response.text
 
-
 '''
+
 project_id= "bs-fdld-ai"
 
 secret_id = "poc_ai_001" # The name you gave the secret
