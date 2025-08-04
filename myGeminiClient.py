@@ -263,7 +263,7 @@ class myGeminiClient:
     def rag_config(self, dataset_id,table_id,region,embeddings_model="text-multilingual-embedding-002",content_field="content",text_embedding_field="embedding",doc_id_field="id",metadata_field="metadata",k_docs_to_work=20):
         self.__k_docs_to_work=k_docs_to_work
         self.__vembedding_model = VertexAIEmbeddings(model_name=embeddings_model, project=self.__project_id )
-        self.__llm = ChatVertexAI(model_name=self.__llmodel, project=project_id)
+        self.__llm = ChatVertexAI(model_name=self.__llmodel, project=self.__project_id)
         self.__vectorstore = BigQueryVectorSearch(
             project_id=self.__project_id,
             dataset_name=dataset_id,
@@ -315,7 +315,7 @@ class myGeminiClient:
         self.bbp("Process end " + str(ts) + "s")
         return response.text
 
-'''
+
 
 project_id= "bs-fdld-ai"
 
@@ -335,6 +335,8 @@ logbbp = True
 
 
 gg = myGeminiClient(project_id,gemini_api_key,location,llmmodel)
+
+
 
 descDoc = """
 Todo o texto deve estar presente nos blocos partidos dentro do limite de páginas indicado.
@@ -406,6 +408,7 @@ ee = createBQTableWithList_Batch(j_list,project_id,dataset_id,table_id,schema)
 table_id_embeddings = 'testFomCode_embeddings_materialized'
 embeddings_model="text-multilingual-embedding-002"   # text-embedding-005
 region_embeddings = "eu"
+dataset_id = 'rag_dataset_eu'
 
 gg.rag_config(dataset_id,table_id_embeddings,region_embeddings)
 question="Determina a classe para o seguro automovel, tendo 3 anos de seguro, qual o agravamento se tiver tido 2 sinistros nos ultimos 5 anos mas nenhum nos ultimos 2 anos?"
