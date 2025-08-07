@@ -303,9 +303,8 @@ class myGeminiClient:
         if llm_model == None:
             llm_model = self.__llmodel
         d1 = datetime.now()
-        self.bbp("Starting question")
-        print(llm_model)
-        print(cache.name)
+        self.bbp("Starting question " + llm_model)
+
         response = self.client.models.generate_content(
                     model=llm_model,
                     contents=question,
@@ -354,7 +353,7 @@ O retorno deve ser somente o json indicado acime e mais nenhum outro texto.
 
 ##### creating chunks
 
-object_nameL5="ai1/rawdocs/Fidelidade_Auto_Liber3G_CG058_AU052_mar2024.pdf"
+object_nameL5="ai1/rawdocs/COMPNAME_Auto_Liber3G_CG058_AU052_mar2024.pdf"
 docL5,pgsL5 = getGCP_Doc(bucket_name,object_nameL5)
 cacheInfoL5 = "Este documento é sobre regras e clausulas referentes a seguro automovel " + object_nameL5
 descDocL5 = f"""
@@ -365,7 +364,7 @@ Quando o texto não disser respeito a clausulas ou for uma tabela deve estar sep
 descDocL5 += descDoc
 cache_name,resp_text = gg.createChunksPDFDoc(docL5,pgsL5,cacheInfoL5,descDocL5)
 
-object_nameSS="ai1/rawdocs/CG 28 - Multicare - Fidelidade_DL_Final_Hifenizada.pdf"
+object_nameSS="ai1/rawdocs/CG 28 - Multicare - CompName_DL_Final_Hifenizada.pdf"
 docSS,pgsSS = getGCP_Doc(bucket_name,object_nameSS)
 cacheInfoSS = "Este documento é sobre regras e clausulas referentes a um seguro de saude " + object_nameSS
 descDocSS = f"""
@@ -421,8 +420,15 @@ llm_answer
 #Determina a classe para o seguro automovel, tendo 3 anos de seguro, qual o agravamento se tiver tido 2 sinistros nos ultimos 5 anos mas nenhum nos ultimos 2 anos?
 
 
+Qual a classe bonus/malus no inicio de contrato para o caso, tendo 3 anos de seguro, qual o agravamento se tiver tido ? 
+Para o inicio de contrato quero calcular o valor da classe para o seguro automovel. tendo 3 anos de seguro, qual o agravamento se tiver tido 2 sinistros nos ultimos 5 anos mas nenhum nos ultimos 2 anos?
 
 #### using only cache
+
+
+utiliza a tabela de Entrada Classe de Bónus/Malus no início do contrato, Qual a classe bonus/malus no inicio de contrato para o caso, tendo 3 anos de seguro, qual o agravamento se tiver tido 2 sinistros nos ultimos 5 anos mas nenhum nos ultimos 2 anos? 
+
+1.1. Tabela de Entrada – Classe de Bónus/Malus no início do contrato
 
 gg = myGeminiClient(project_id,gemini_api_key,location,llmmodel)
 
