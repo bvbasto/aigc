@@ -2,7 +2,7 @@
 
 -- truncate table `bs-fdld-ai`.`rag_dataset_eu`.`testFomCode` 
 
-
+--
 SELECT *  FROM  `bs-fdld-ai`.`rag_dataset_eu`.`testFomCode` 
 where  docPage_ini = 16
 LIMIT 1000;

@@ -12,7 +12,7 @@ CREATE OR REPLACE MODEL `bs-fdld-ai`.`rag_dataset_eu`.`gemini_25_pro` REMOTE
 WITH CONNECTION `eu.eu_demo` OPTIONS(endpoint="gemini-2.5-pro");
 
 
-
+--
 
 /*
 -- if direct chunk creation from bq
