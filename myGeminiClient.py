@@ -351,7 +351,7 @@ ClausulaOuTopico deve indicar o capitulo, a clausula e o nome da tabela quando h
 O retorno deve ser somente o json indicado acime e mais nenhum outro texto.
 """
 
-##### creating chunks
+##### creating 
 
 object_nameL5="ai1/rawdocs/COMPNAME_Auto_Liber3G_CG058_AU052_mar2024.pdf"
 docL5,pgsL5 = getGCP_Doc(bucket_name,object_nameL5)
